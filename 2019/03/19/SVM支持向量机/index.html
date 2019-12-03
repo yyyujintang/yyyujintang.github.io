@@ -7,21 +7,21 @@
 <p>   support是支持支撑的意思，machine意为机器，就是<strong>分类器</strong>。</p>
 <p>   支持向量机就是这三个单词连在一起的直接翻译。换个名字，支撑向量分类器，可能更易于理解。</p>
 <p>   看完上述，可能你还是觉得非常茫然。接下来看一幅图</p>
-<p><img src="/.com//svm2.PNG" alt="svm2"></p>
+<p><img src="/2019/03/19/SVM%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/svm2.PNG" alt="svm2"></p>
 <p>​    平面上有两种球，蓝色和红色，我们的目标是将蓝色球和红色球分开（SVM解决分类问题） </p>
-<p><img src="/.com//%E4%B8%8B%E8%BD%BD.png" alt="下载"></p>
+<p><img src="/2019/03/19/SVM%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/%E4%B8%8B%E8%BD%BD.png" alt="下载"></p>
 <p>​    当训练样本是线性可分的时候，如上图所示。我们可以用超平面将两堆球分开。那么问题来了，分开的标准是什么，在上图中，我们可以画出无数条直线将两堆小球分开。于是，SVM提出基于间隔最大化的原理，找到最优的分类器（machine）。</p>
 <p>   用来划分的超平面用以下的线性方程来描述</p>
-<p><img src="/.com//%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B.JPG" alt="线性方程"></p>
+<p><img src="/2019/03/19/SVM%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/%E7%BA%BF%E6%80%A7%E6%96%B9%E7%A8%8B.JPG" alt="线性方程"></p>
 <p>​    w是超平面的法向量，x就是vector(一组坐标），b是截距（位移项） </p>
-<p><img src="/.com//%E5%90%91%E9%87%8F.JPG" alt="向量"></p>
+<p><img src="/2019/03/19/SVM%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/%E5%90%91%E9%87%8F.JPG" alt="向量"></p>
 <p>此时再来理解所谓支持向量分类器，支持向量是指位于最大间隔边界上的向量（即样本点）。</p>
 <p>   任意点到超平面距离公式推导：</p>
-<p><img src="/.com//20180520101912303.jpg" alt="20180520101912303"></p>
+<p><img src="/2019/03/19/SVM%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/20180520101912303.jpg" alt="20180520101912303"></p>
 <p>   为什么我们使用超平面来进行分类，请看下图 </p>
-<p><img src="/.com//c8f830648ec0a24419ff3c68e9b65484_r.jpg" alt="c8f830648ec0a24419ff3c68e9b65484_r"></p>
+<p><img src="/2019/03/19/SVM%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/c8f830648ec0a24419ff3c68e9b65484_r.jpg" alt="c8f830648ec0a24419ff3c68e9b65484_r"></p>
 <p>  最下面的平面是我们的训练样本在平面上的分布，可以看出，红色球和蓝色球的分布并非线性可分，此时我们将该平面“扭曲”为超上图所示（有点像抛物面），然后找到一个分类器，使得仍然能够满足最大间隔原理。 </p>
-<p><img src="/.com//%E5%AF%B9%E5%81%B6.JPG" alt="对偶"></p>
+<p><img src="/2019/03/19/SVM%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/%E5%AF%B9%E5%81%B6.JPG" alt="对偶"></p>
 <p>二.Python实现</p>
 <p>   在Python中，scikit- learn是一个广泛使用的用于实现机器学习算法的库，SVM也可以在scikit- learning库中找到并使用。</p>
 <figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line"><span class="comment">#Import Library </span></span></pre></td></tr><tr><td class="gutter"><pre><span class="line">2</span></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> sklearn <span class="keyword">import</span> svm </span></pre></td></tr><tr><td class="gutter"><pre><span class="line">3</span></pre></td><td class="code"><pre><span class="line"><span class="comment">#Assumed you have, X (predictor) and Y (target) for training data set and x_test(predictor) of test_dataset </span></span></pre></td></tr><tr><td class="gutter"><pre><span class="line">4</span></pre></td><td class="code"><pre><span class="line"><span class="comment"># Create SVM classification object </span></span></pre></td></tr><tr><td class="gutter"><pre><span class="line">5</span></pre></td><td class="code"><pre><span class="line">model = svm.svc(kernel=<span class="string">'linear'</span>, c=<span class="number">1</span>, gamma=<span class="number">1</span>)</span></pre></td></tr><tr><td class="gutter"><pre><span class="line">6</span></pre></td><td class="code"><pre><span class="line"> <span class="comment"># there is various option associated with it, like changing kernel, gamma and C value. Will discuss more # about it in next section.Train the model using the training sets and check score </span></span></pre></td></tr><tr><td class="gutter"><pre><span class="line">7</span></pre></td><td class="code"><pre><span class="line"> model.fit(X, y) model.score(X, y) </span></pre></td></tr><tr><td class="gutter"><pre><span class="line">8</span></pre></td><td class="code"><pre><span class="line"> <span class="comment">#Predict Output predicted= model.predict(x_test)</span></span></pre></td></tr></table></figure>
