@@ -1,0 +1,60 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description" content="一个人要像一支队伍"><title>Mask R-CNN | 唐毓瑾</title><link rel="stylesheet" type="text/css" href="/css/style.css?v=0.0.0"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/normalize/8.0.1/normalize.min.css"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/pure/1.0.0/pure-min.css"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/pure/1.0.0/grids-responsive-min.css"><link rel="stylesheet" href="//lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css"><script type="text/javascript" src="//lib.baomitu.com/jquery/3.4.0/jquery.min.js"></script><link rel="icon" mask="" sizes="any" href="/favicon.ico"><link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png"><meta name="generator" content="Hexo 4.0.0"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">Mask R-CNN</h1><a id="logo" href="/.">唐毓瑾</a><p class="description"></p></div><div id="nav-menu"><a class="current" href="/."><i class="fa fa-home"> 主页</i></a><a href="/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/about/"><i class="fa fa-about"> 关于博主</i></a></div></div><div class="pure-g" id="layout"><div class="pure-u-1 pure-u-md-3-4"><div class="content_container"><div class="post"><h1 class="post-title">Mask R-CNN</h1><div class="post-meta">Dec 4, 2019<span> | </span><span class="category"><a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/">计算机视觉</a></span></div><div class="post-content"><h1 id="Mask-R-CNN"><a href="#Mask-R-CNN" class="headerlink" title="Mask R-CNN"></a>Mask R-CNN</h1><p>用于解决instance segmentation，实例分割</p>
+<p><strong>图片分类</strong>：输出物体属于哪一类</p>
+<p><strong>物体检测</strong>：输出每个物体的位置以及类别</p>
+<p><strong>实例分割</strong>：输出图片中物体每个像素点的集合以及物体的分类</p>
+<p>1表示属于，0表示不属于，用单通道的图来表示，这张图也叫物体的mask,掩码</p>
+<p><strong>AlexNet</strong>使用卷积神经网络来解决分类问题，至此，卷积神经网络开始引起人们的关注</p>
+<p><strong>R-CNN</strong>：根据输入图片生成大量可能包含物体的边界框，每个边界框对应图片中的一个区域，叫做候选区域，然后用卷积神经网络来判断每个区域中是不是真的包含物体以及包含物体的类别</p>
+<ol>
+<li>生成大量候选框（selective search),基于图片中颜色，纹理等特征</li>
+<li>将每一个候选区域截取下来，调整到固定大小；用CNN得到候选区域图片对应的特征</li>
+<li>对于每一个类名，使用一个SVM来进行分类，判断得到的特征是否属于某一个类别</li>
+<li>采用回归模型对第一步中生成的候选区域的位置进行调优，得到更加准确的物体位置</li>
+</ol>
+<p>![R-CNN](Mask R-CNN\R-CNN.png)</p>
+<p><strong>R-CNN很慢的原因：</strong></p>
+<ol>
+<li>每个候选区域都需要使用卷积神经网络前向传播来计算特征</li>
+<li>第一步生成的候选框有2000多个，而且候选框之间存在重叠，造成了重复计算</li>
+<li>每一步都是一个独立的模型（CNN,SVM,Regression)</li>
+</ol>
+<p><strong>Fast R-CNN</strong></p>
+<ol>
+<li>只对整张图片进行一次前向传播得到整张输入图片的特征图</li>
+<li>ROI(region of interest)池化层来对每个候选区域选取对应的候选区域特征图，避免重复计算的问题</li>
+<li>对每个候选区域的特征图进行池化，使得大小一致</li>
+<li>分类模型和调优模型被整合到一个神经网络上，大大简化模型的训练</li>
+<li>selective search不能使用GPU进行计算，基于输入图片的纹理，颜色等特征</li>
+</ol>
+<p><strong>Faster R-CNN</strong></p>
+<p>用Fast R-CNN中，ROI池化层之前，特征图之上的卷积神经网络来生成候选区域</p>
+<p><strong>RPN</strong>:region proposal network候选区域网络</p>
+<p>与最初的Fast R-CNN共享特征图</p>
+<p>Faster R-CNN=Fast R-CNN+RPN</p>
+<p>![Fast RCNN and Faster RCNN](Mask R-CNN\Fast RCNN and Faster RCNN.png)</p>
+<p><strong>RPN是如何生成候选区域的？</strong></p>
+<ol>
+<li>对特征图上的每个位置，预先设定k个不同长宽比的anchor boxes</li>
+<li>分类模型：输出2k个分数，表示边界框是否含有物体</li>
+<li>回归模型：输出4k个值，对于每一个box输出4个值，代表检测框的4个参数</li>
+</ol>
+<p><strong>Mask R-CNN</strong></p>
+<p>在Faster R-CNN基础上进行拓展，在特征图上加上一个分支，对候选区域进行分割，以得到物体的mask(binary)</p>
+<p>分支采用图片语义分割中效果显著的FCN(全卷积网络)</p>
+<p>Mask R-CNN=Faster R-CNN with FCN on ROIs</p>
+<p>ROI池化层改进为ROIAlign(ROI对齐层)</p>
+<p>ROIPool:</p>
+<ol>
+<li>ROI池化后得到的特征图不能整除，两次取整后，使得得到的特征图与实际相比产生偏差</li>
+<li>对应到输入图上产生不可忽视的偏差，对目标检测可能影响不大，但对于图像分割影响很大(精确到每个像素)</li>
+</ol>
+<p>ROIAlign</p>
+<ol>
+<li>不进行取整操作，直接根据坐标划分成2x2个区域，然后对于每个区域取等分的2x2个子区域的中心点，作为样本点，对于样本点，对于邻近的网格点，采用双线性插值算法计算该样本点的取值，对四个样本点的取值进行聚合操作，得到该区域池化后的特征值</li>
+</ol>
+<p>Mask R-CNN可以被拓展到人体姿态估计任务</p>
+<ol>
+<li>输入一组图片，输出图片中每个人每个关节点的坐标</li>
+<li>将要输出的关节点坐标建模成mask</li>
+</ol>
+</div><div><ul class="post-copyright"><li class="post-copyright-author"><strong>本文作者：</strong>唐毓瑾</li><li class="post-copyright-link"><strong>本文链接：</strong><a href="/2019/12/04/Mask R-CNN/">http://yoursite.com/2019/12/04/Mask%20R-CNN/</a></li><li class="post-copyright-license"><strong>版权声明：</strong>作者拥有著作权。转载请联系1258835685@qq.com</li></ul></div><br><div class="tags"><a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/">计算机视觉</a></div><div class="post-nav"><a class="next" href="/2019/12/02/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8A%80%E6%9C%AF/">医学图像配准技术</a></div></div></div></div><div class="pure-u-1-4 hidden_mid_and_down"><div id="sidebar"><div class="widget"><div class="widget-title"><i class="fa fa-star-o"> 标签</i></div><div class="tagcloud"><a href="/tags/Python/" style="font-size: 15px;">Python</a> <a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/" style="font-size: 15px;">计算机视觉</a> <a href="/tags/C/" style="font-size: 15px;">C++</a> <a href="/tags/Pytorch/" style="font-size: 15px;">Pytorch</a> <a href="/tags/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86/" style="font-size: 15px;">医学图像配准</a> <a href="/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/" style="font-size: 15px;">机器学习</a></div></div><div class="widget"><div class="widget-title"><i class="fa fa-folder-o"> 分类</i></div><ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/C/">C++</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Python/">Python</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E5%9F%BA%E7%A1%80/">医学图像基础</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/">数据库</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/">机器学习</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/">深度学习</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/">生活随笔</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/">计算机视觉</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">读书笔记</a><span class="category-list-count">2</span></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-file-o"> 最近文章</i></div><ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2019/12/04/Mask%20R-CNN/">Mask R-CNN</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/02/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8A%80%E6%9C%AF/">医学图像配准技术</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/02/Qt%E5%9F%BA%E7%A1%80/">Qt基础</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/02/Anaconda%E5%9F%BA%E7%A1%80/">Anaconda基础</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/02/Python%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%80%EF%BC%89/">Python基础（一）</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/08/10/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8Mysql%EF%BC%88%E4%B8%80%EF%BC%89/">零基础入门Mysql（一）</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/08/09/Pytorch%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%80%EF%BC%89/">Pytorch基础（一）</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/08/01/%E6%88%90%E9%95%BF%E6%98%AF%E4%B8%8E%E8%87%AA%E6%88%91%E7%9A%84%E6%90%8F%E6%96%97/">成长是与自我的搏斗</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/03/19/SVM%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA/">SVM支持向量机</a></li><li class="post-list-item"><a class="post-list-link" href="/2018/10/03/%E8%A5%BF%E5%8C%97%E6%B8%B8%E8%AE%B0/">西北游记</a></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-external-link"> 友情链接</i></div><ul></ul><a href="https://github.com/yyyujintang/" title="Github" target="_blank">Github</a><ul></ul><a href="https://www.zhihu.com/people/long-xun-41/answers" title="知乎" target="_blank">知乎</a></div></div></div><div class="pure-u-1 pure-u-md-3-4"><div id="footer">Copyright © 2019 <a href="/." rel="nofollow">唐毓瑾.</a> Powered by<a rel="nofollow" target="_blank" href="https://hexo.io"> Hexo.</a><a rel="nofollow" target="_blank" href="https://github.com/tufu9441/maupassant-hexo"> Theme</a> by<a rel="nofollow" target="_blank" href="https://github.com/pagecho"> Cho.</a></div></div></div><a class="show" id="rocket" href="#top"></a><script type="text/javascript" src="/js/totop.js?v=0.0.0" async></script><script type="text/javascript" src="//lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js" async></script><script type="text/javascript" src="/js/fancybox.js?v=0.0.0" async></script><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css"><script type="text/javascript" src="/js/codeblock-resizer.js?v=0.0.0"></script><script type="text/javascript" src="/js/smartresize.js?v=0.0.0"></script></div></body></html>
