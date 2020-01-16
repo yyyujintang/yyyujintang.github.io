@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description"><title>Git操作 | Yujin Tang</title><link rel="stylesheet" type="text/css" href="/css/style.css?v=0.0.0"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/normalize/8.0.1/normalize.min.css"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/pure/1.0.0/pure-min.css"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/pure/1.0.0/grids-responsive-min.css"><link rel="stylesheet" href="//lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css"><script type="text/javascript" src="//lib.baomitu.com/jquery/3.4.0/jquery.min.js"></script><link rel="icon" mask="" sizes="any" href="/favicon.ico"><link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png"><meta name="generator" content="Hexo 4.0.0"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">Git操作</h1><a id="logo" href="/.">Yujin Tang</a><p class="description">深自缄默，如云漂泊</p></div><div id="nav-menu"><a class="current" href="/."><i class="fa fa-home"> 主页</i></a><a href="/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/about/"><i class="fa fa-user"> 关于博主</i></a></div></div><div class="pure-g" id="layout"><div class="pure-u-1 pure-u-md-3-4"><div class="content_container"><div class="post"><h1 class="post-title">Git操作</h1><div class="post-meta">Jan 16, 2020</div><div class="post-content"><h1 id="Git操作"><a href="#Git操作" class="headerlink" title="Git操作"></a>Git操作</h1><h3 id="Git工作区域"><a href="#Git工作区域" class="headerlink" title="Git工作区域"></a>Git工作区域</h3><p>工作区：添加、编辑、修改文件等动作</p>
+<p>暂存区：暂存已经修改的文件最后统一提交到git仓库中</p>
+<p>Git 仓库：最终确定的文件保存到仓库，成为一个新的版本，并且对他人可见<br>向仓库中添加文件流程</p>
+<p>Git仓库</p>
+<p>暂存区</p>
+<p>工作区<br>命令或图形界面<br>命令方式:Linux下，命令比图形好理解<br>git status查看当前文件的状态，处于哪个区</p>
+<p>git add test.php 将文件从工作区提交到暂存区</p>
+<p>git commit -m ‘提交描述’ 从暂存区提交到git仓库</p>
+<h3 id="Git初始化及仓库创建和操作"><a href="#Git初始化及仓库创建和操作" class="headerlink" title="Git初始化及仓库创建和操作"></a>Git初始化及仓库创建和操作</h3><p>1.设置用户名（用户名是唯一的）</p>
+<p>2.设置用户名邮箱</p>
+<p>3.查看设置</p>
+<p>git config –global user.name “yyyujintang”</p>
+<p>git config –global user.email “ <a href="mailto:tangyujin0275@sjru.edu.cn" target="_blank" rel="noopener">tangyujin0275@sjtu.edu.cn</a>“</p>
+<p>注意：该设置在github仓库主页显示谁提交了该文件</p>
+<p><img src="/2020/01/16/Git%E6%93%8D%E4%BD%9C/Git%E6%93%8D%E4%BD%9C%5C6.PNG" alt></p>
+<h3 id="初始化一个新的Git仓库"><a href="#初始化一个新的Git仓库" class="headerlink" title="初始化一个新的Git仓库"></a>初始化一个新的Git仓库</h3><p>1.创建文件夹 mkdir test</p>
+<p>2.在文件内初始化git（创建git仓库）</p>
+<p>cd testgit init</p>
+<p>.git文件用来存储所有仓库信息</p>
+<h3 id="向仓库添加文件"><a href="#向仓库添加文件" class="headerlink" title="向仓库添加文件"></a>向仓库添加文件</h3><p>1.创建文件</p>
+<p>touch a1.phpgit status</p>
+<p>2.把文件添加到暂存区</p>
+<p>git add a1.php</p>
+<p>3.把暂存区的文件添加到仓库</p>
+<p>git commit -m</p>
+<h3 id="修改仓库文件"><a href="#修改仓库文件" class="headerlink" title="修改仓库文件"></a>修改仓库文件</h3><p>1.vi a1.php</p>
+<p>保存并退出，按ESC,再按冒号:输入小写wq</p>
+<p>get status 查看状态</p>
+<p>2.git add a1.php</p>
+<p>3.git commit -m ‘修改后提交’git status</p>
+<p><img src="/2020/01/16/Git%E6%93%8D%E4%BD%9C/Git%E6%93%8D%E4%BD%9C%5C7.PNG" alt></p>
+<h3 id="删除仓库文件"><a href="#删除仓库文件" class="headerlink" title="删除仓库文件"></a>删除仓库文件</h3><p>1.删除文件rm -rf a1.php</p>
+<p>2.从Git中删除文件git rm a1.php</p>
+<p>3.提交操作git commit -m ‘第一次删除’</p>
+<p><img src="/2020/01/16/Git%E6%93%8D%E4%BD%9C/Git%E6%93%8D%E4%BD%9C%5C8.PNG" alt></p>
+<h3 id="Git远程仓库"><a href="#Git远程仓库" class="headerlink" title="Git远程仓库"></a>Git远程仓库</h3><p>目的：备份；实现代码共享集中化管理</p>
+<p>将本地仓库同步到git远程仓库中</p>
+<p>git push</p>
+<p>先克隆（下载到本地）再修改</p>
+<p>目的：将远程仓库中对应的项目复制到本地</p>
+<p>git clone 仓库地址</p>
+<p>git config –list</p>
+<h3 id="为什么无法同步"><a href="#为什么无法同步" class="headerlink" title="为什么无法同步"></a>为什么无法同步</h3><p>可能是私有项目</p>
+<p>修改config文件</p>
+<p>vi .git/config</p>
+<p>[remote “origin”]<br>    url = <a href="https://github.com/yyyujintang/test.git" target="_blank" rel="noopener">https://github.com/yyyujintang/test.git</a></p>
+<p>修改为</p>
+<p>[remote “origin”]<br>    url = https://用户名:密码@github.com用户名/仓库名.git</p>
+<p>修改过后使用 git push同步到远程仓库</p>
+<p><img src="/2020/01/16/Git%E6%93%8D%E4%BD%9C/Git%E6%93%8D%E4%BD%9C%5C10.PNG" alt></p>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>1.创建文件</p>
+<p>2.将工作区添加到暂存区</p>
+<p>3.将暂存区添加到本地仓库</p>
+<p>4.将本地仓库提交到远程仓库</p>
+</div><div class="tags"></div><div class="post-nav"><a class="next" href="/2019/12/11/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%AB%98%E6%95%88%E8%AE%A1%E7%AE%97%E4%B8%8E%E5%A4%84%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1/">深度学习高效计算与处理器设计</a></div></div></div></div><div class="pure-u-1-4 hidden_mid_and_down"><div id="sidebar"><div class="widget"><div class="widget-title"><i class="fa fa-star-o"> 标签</i></div><div class="tagcloud"><a href="/tags/Python/" style="font-size: 15px;">Python</a> <a href="/tags/Pytorch/" style="font-size: 15px;">Pytorch</a> <a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/" style="font-size: 15px;">计算机视觉</a> <a href="/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/" style="font-size: 15px;">机器学习</a> <a href="/tags/CNN%E6%A8%A1%E5%9E%8B%E8%AE%BE%E8%AE%A1/" style="font-size: 15px;">CNN模型设计</a> <a href="/tags/C/" style="font-size: 15px;">C++</a> <a href="/tags/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/" style="font-size: 15px;">图像分类</a> <a href="/tags/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86/" style="font-size: 15px;">医学图像配准</a> <a href="/tags/GPU/" style="font-size: 15px;">GPU</a></div></div><div class="widget"><div class="widget-title"><i class="fa fa-folder-o"> 分类</i></div><ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/C/">C++</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Python/">Python</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E5%9F%BA%E7%A1%80/">医学图像基础</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/">数据库</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/">机器学习</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/">深度学习</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/">生活随笔</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/">计算机视觉</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">读书笔记</a><span class="category-list-count">2</span></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-file-o"> 最近文章</i></div><ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2020/01/16/Git%E6%93%8D%E4%BD%9C/">Git操作</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/11/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%AB%98%E6%95%88%E8%AE%A1%E7%AE%97%E4%B8%8E%E5%A4%84%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1/">深度学习高效计算与处理器设计</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/10/%E4%BB%8ELeNet5%E5%88%B0VGG/">从LeNet5到VGG</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/09/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/">图像分类学习</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/04/Mask_R-CNN/">Mask R-CNN</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/11/06/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86%E6%8A%80%E6%9C%AF/">医学图像配准技术</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/11/05/Anaconda%E5%9F%BA%E7%A1%80/">Anaconda基础</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/10/14/Qt%E5%9F%BA%E7%A1%80/">Qt基础</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/08/26/Python%E5%9F%BA%E7%A1%80%EF%BC%88%E4%B8%80%EF%BC%89/">Python基础（一）</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/08/10/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%85%A5%E9%97%A8Mysql%EF%BC%88%E4%B8%80%EF%BC%89/">Mysql基础</a></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-external-link"> 友情链接</i></div><ul></ul><a href="https://github.com/yyyujintang/" title="Github" target="_blank">Github</a><ul></ul><a href="https://www.zhihu.com/people/long-xun-41/answers" title="知乎" target="_blank">知乎</a><ul></ul><a href="https://mpy634.cn/" title="LEODPEN" target="_blank">LEODPEN</a></div></div></div><div class="pure-u-1 pure-u-md-3-4"><div id="footer">Copyright © 2020 <a href="/." rel="nofollow">Yujin Tang.</a> Powered by<a rel="nofollow" target="_blank" href="https://hexo.io"> Hexo.</a><a rel="nofollow" target="_blank" href="https://github.com/tufu9441/maupassant-hexo"> Theme</a> by<a rel="nofollow" target="_blank" href="https://github.com/pagecho"> Cho.</a></div></div></div><a class="show" id="rocket" href="#top"></a><script type="text/javascript" src="/js/totop.js?v=0.0.0" async></script><script type="text/javascript" src="//lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js" async></script><script type="text/javascript" src="/js/fancybox.js?v=0.0.0" async></script><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css"><script type="text/javascript" src="/js/codeblock-resizer.js?v=0.0.0"></script><script type="text/javascript" src="/js/smartresize.js?v=0.0.0"></script></div></body></html>
