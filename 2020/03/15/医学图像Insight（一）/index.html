@@ -1,0 +1,149 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description"><title>医学图像Insight（一） | Yujin Tang</title><link rel="stylesheet" type="text/css" href="/css/style.css?v=0.0.0"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/normalize/8.0.1/normalize.min.css"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/pure/1.0.0/pure-min.css"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/pure/1.0.0/grids-responsive-min.css"><link rel="stylesheet" href="//lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css"><script type="text/javascript" src="//lib.baomitu.com/jquery/3.4.0/jquery.min.js"></script><link rel="icon" mask="" sizes="any" href="/favicon.ico"><link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png"><meta name="generator" content="Hexo 4.0.0"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">医学图像Insight（一）</h1><a id="logo" href="/.">Yujin Tang</a><p class="description">深自缄默，如云漂泊</p></div><div id="nav-menu"><a class="current" href="/."><i class="fa fa-home"> 主页</i></a><a href="/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/about/"><i class="fa fa-user"> 关于博主</i></a></div></div><div class="pure-g" id="layout"><div class="pure-u-1 pure-u-md-3-4"><div class="content_container"><div class="post"><h1 class="post-title">医学图像Insight（一）</h1><div class="post-meta">Mar 15, 2020<span> | </span><span class="category"><a href="/categories/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F/">医学图像</a></span></div><div class="post-content"><h2 id="图像相关任务"><a href="#图像相关任务" class="headerlink" title="图像相关任务"></a>图像相关任务</h2><h3 id="分类任务"><a href="#分类任务" class="headerlink" title="分类任务"></a>分类任务</h3><ul>
+<li>Xceotion</li>
+<li>VGG16/19</li>
+<li>ResNet/ResNet V2</li>
+<li>Inception V3</li>
+<li>InceptionResNet V3</li>
+<li>MobileNet/MobileNet V2</li>
+<li>DenseNet</li>
+<li>NASNet</li>
+</ul>
+<h3 id="定位任务"><a href="#定位任务" class="headerlink" title="定位任务"></a>定位任务</h3><ul>
+<li>RCNN-FastRCNN-FasterRCNN-MaskRCNN</li>
+<li>SSD</li>
+<li>YOLO V1,V2,V3</li>
+</ul>
+<h3 id="语义分割"><a href="#语义分割" class="headerlink" title="语义分割"></a>语义分割</h3><ul>
+<li>通用模型结构FCN</li>
+<li>医疗影像分割任务U-net</li>
+</ul>
+<h3 id="影像组学工具"><a href="#影像组学工具" class="headerlink" title="影像组学工具"></a>影像组学工具</h3><ul>
+<li>PyRadiomics</li>
+</ul>
+<h2 id="当前医学影像分析的局限"><a href="#当前医学影像分析的局限" class="headerlink" title="当前医学影像分析的局限"></a>当前医学影像分析的局限</h2><h4 id="经验加案例仍是基本模式"><a href="#经验加案例仍是基本模式" class="headerlink" title="经验加案例仍是基本模式"></a>经验加案例仍是基本模式</h4><h4 id="医学影像分析主要基于图像处理方法，但通用图像处理技术并不够有效"><a href="#医学影像分析主要基于图像处理方法，但通用图像处理技术并不够有效" class="headerlink" title="医学影像分析主要基于图像处理方法，但通用图像处理技术并不够有效"></a>医学影像分析主要基于图像处理方法，但通用图像处理技术并不够有效</h4><ul>
+<li>通常用刚体的图像处理方法处理柔性对象</li>
+<li>用二维处理像素的方法处理点云</li>
+<li>用常规信息融合方法处理有明显医学意义的多模态（结构、功能、代谢)/多序列问题</li>
+</ul>
+<h4 id="疾病辅助诊断主要基于深度学习-大数据，但深度学习也存在诸多问题"><a href="#疾病辅助诊断主要基于深度学习-大数据，但深度学习也存在诸多问题" class="headerlink" title="疾病辅助诊断主要基于深度学习+大数据，但深度学习也存在诸多问题"></a>疾病辅助诊断主要基于深度学习+大数据，但深度学习也存在诸多问题</h4><ul>
+<li>用本质需要大样本的技术来解决小样本问题</li>
+<li>用不稳健，解决困难的办法来解决具有普适性、需解释的问题</li>
+</ul>
+<h2 id="如何在深度学习的框架下把医学图像分析做得更好"><a href="#如何在深度学习的框架下把医学图像分析做得更好" class="headerlink" title="如何在深度学习的框架下把医学图像分析做得更好"></a>如何在深度学习的框架下把医学图像分析做得更好</h2><h4 id="加入知识模型"><a href="#加入知识模型" class="headerlink" title="加入知识模型"></a>加入知识模型</h4><ul>
+<li>在输入端加入知识信息，实现合成输入</li>
+<li>在输出端加入知识信息，找到输出变量的有效表达，或在输出变量里加入先验知识和多任务学习</li>
+<li>在算法中嵌入知识，从而演化出U2-NET、自逆网络、双源网络等</li>
+</ul>
+<h4 id="虽然存在诸多问题，但有不少机遇"><a href="#虽然存在诸多问题，但有不少机遇" class="headerlink" title="虽然存在诸多问题，但有不少机遇"></a>虽然存在诸多问题，但有不少机遇</h4><ul>
+<li>一方面，整个行业的数据量越来越大</li>
+<li>另一方面，医学图像中蕴藏着丰富的知识如解剖结构、成像原理等</li>
+</ul>
+<h4 id="周少华：深度神经网络是超级记忆体"><a href="#周少华：深度神经网络是超级记忆体" class="headerlink" title="周少华：深度神经网络是超级记忆体"></a>周少华：深度神经网络是超级记忆体</h4><ul>
+<li>在此基础上加上知识模型，往往可以达到更好的效果</li>
+</ul>
+<h2 id="MICCAI"><a href="#MICCAI" class="headerlink" title="MICCAI"></a>MICCAI</h2><h4 id="1998由CVRMed-VBC-MRCAS组成的。2004年MICCAI-Society正式成立"><a href="#1998由CVRMed-VBC-MRCAS组成的。2004年MICCAI-Society正式成立" class="headerlink" title="1998由CVRMed,VBC,MRCAS组成的。2004年MICCAI Society正式成立"></a>1998由CVRMed,VBC,MRCAS组成的。2004年MICCAI Society正式成立</h4><h4 id="MIC计算机影像处理计算"><a href="#MIC计算机影像处理计算" class="headerlink" title="MIC计算机影像处理计算"></a>MIC计算机影像处理计算</h4><ul>
+<li>配准</li>
+<li>机器学习</li>
+<li>图像分割</li>
+<li>传统CAD计算机辅助检测</li>
+<li>临床和生物学应用</li>
+</ul>
+<h4 id="CAI"><a href="#CAI" class="headerlink" title="CAI"></a>CAI</h4><ul>
+<li><p>集中在介入部分</p>
+<ul>
+<li>追踪和导航</li>
+<li>介入式影像</li>
+<li>医用机器人</li>
+</ul>
+</li>
+</ul>
+<h4 id="MICCAI每年在美洲，欧洲和亚洲轮流举办"><a href="#MICCAI每年在美洲，欧洲和亚洲轮流举办" class="headerlink" title="MICCAI每年在美洲，欧洲和亚洲轮流举办"></a>MICCAI每年在美洲，欧洲和亚洲轮流举办</h4><h2 id="James-Duncan"><a href="#James-Duncan" class="headerlink" title="James Duncan"></a>James Duncan</h2><h3 id="研究方向"><a href="#研究方向" class="headerlink" title="研究方向"></a>研究方向</h3><ul>
+<li><p>通过fMRI了解大脑中的功能网络和休息状态</p>
+<ul>
+<li>将整个时间信号与放入自动编码的LSTM模块进行组合，尝试通过组织网络的各个部分并查看哪个部分的影响最大。</li>
+</ul>
+</li>
+<li><p>超声心动和变形分析</p>
+<ul>
+<li>评估心脏跳动的情况、心肌劳损的程度，然后查看休息和压力图像来发现变化，并将发现的结论用于指导治疗</li>
+<li>用经典的生物力学模型来插值不同来源的位移</li>
+<li>用半监督的方式，一种伪自动编码器来获得合成数据并用它来指导体内数据</li>
+</ul>
+</li>
+<li><p>关于肝癌的项目</p>
+<ul>
+<li>使用多模态MR获取多个图像，比如DCE和解剖图像</li>
+<li>使用随机森林做组织分类，来发现肿瘤坏死、正常的薄壁组织以及将血管和肿瘤进行分离</li>
+<li>将高分辨率MR光谱与两次采集相结合，并利用不同神经网络构架来提高空间分辨率</li>
+</ul>
+</li>
+<li><p>显微镜方面</p>
+<ul>
+<li>尝试使用亚细胞粒子跟踪</li>
+</ul>
+</li>
+<li><p>通过超声波和CT数据来观察心脏瓣膜</p>
+</li>
+</ul>
+<h3 id="中美两地科研状况有哪些不同"><a href="#中美两地科研状况有哪些不同" class="headerlink" title="中美两地科研状况有哪些不同"></a>中美两地科研状况有哪些不同</h3><ul>
+<li>中国的科研状况是task-driven，在应用开发上做的非常好</li>
+<li>但中国缺少一些美国团队里坚持的一些基本原则，比如我尊敬的宾夕法尼亚大学和约翰霍普金斯大学麻省理工学院 的学者。这些学术团队是为了确保有一个基本的新思想。他们会借鉴该领域的一些经验，但他们想做的，是试图颠覆即有的模式</li>
+<li>中国的学者要有一个广阔的视野，不仅要看到中国在这个领域的想法，也要放眼世界，看所以在这个领域钻研的学者们都在思考什么问题。</li>
+</ul>
+<h3 id="3年后在医学图像分析领域，深度学习和数学建模方法，哪个会成为主流"><a href="#3年后在医学图像分析领域，深度学习和数学建模方法，哪个会成为主流" class="headerlink" title="3年后在医学图像分析领域，深度学习和数学建模方法，哪个会成为主流"></a>3年后在医学图像分析领域，深度学习和数学建模方法，哪个会成为主流</h3><ul>
+<li>深度学习将继续存在并得到应用，但需要更多工作来真正理解和解释，以及完善设计原则，如何使这些网络更加具有鲁棒性，解释不同的层级在做什么，并尝试用实验的术语以及一些分析、数学的术语来进行解释工作</li>
+<li>通过在深度学习和神经网络设计中继续发展新思路，深度学习和传统建模方法的结合会成为下一个前沿的研究方向</li>
+</ul>
+<h3 id="对年轻学者的建议"><a href="#对年轻学者的建议" class="headerlink" title="对年轻学者的建议"></a>对年轻学者的建议</h3><ul>
+<li>学习是件好事，需要同时具有广度和深度。真正深入思考，并立志做出一些贡献，敢于和教授们争论，然后把想法分享给大家，让他们批评，这样你才能真正拥有一些东西。</li>
+<li>要有深度，需要博览众长。在早期，脑海里就要思索一个问题，相信你的直觉，确保你有你的领域之外的背景</li>
+</ul>
+<h2 id="沈定刚"><a href="#沈定刚" class="headerlink" title="沈定刚"></a>沈定刚</h2><h4 id="所有技术都是为实际问题服务"><a href="#所有技术都是为实际问题服务" class="headerlink" title="所有技术都是为实际问题服务"></a>所有技术都是为实际问题服务</h4><ul>
+<li>我们在做研究时，首先要有问题，然后再找方法，而不是抱着一堆方法去找问题。年轻学者们如果把20/30年来沉淀下来的传统方法用好，往往比深度学习有效得3多。如果把深度学习+传统方法融合好，它所发挥的价值更是无穷的</li>
+</ul>
+<h4 id="MICCAI很强调应用的临床价值"><a href="#MICCAI很强调应用的临床价值" class="headerlink" title="MICCAI很强调应用的临床价值"></a>MICCAI很强调应用的临床价值</h4><ul>
+<li>如果你的方法很创新，但临床意义不大，MICCAI也不一定会录取</li>
+<li>MICCAI要的工作，既需要方法上的创新，又需要解决一个有临床意义的问题，而且是用真实的数据得到真实的结果</li>
+<li>理论研究在MICCAI上非常重要，但不是必须的</li>
+</ul>
+<h4 id="希望国内的人在MICCAI这个领域做得越来越好，相互支持，同时给年轻人更多机会"><a href="#希望国内的人在MICCAI这个领域做得越来越好，相互支持，同时给年轻人更多机会" class="headerlink" title="希望国内的人在MICCAI这个领域做得越来越好，相互支持，同时给年轻人更多机会"></a>希望国内的人在MICCAI这个领域做得越来越好，相互支持，同时给年轻人更多机会</h4><h2 id="CVPR2019中的医学影像文集"><a href="#CVPR2019中的医学影像文集" class="headerlink" title="CVPR2019中的医学影像文集"></a>CVPR2019中的医学影像文集</h2><h4 id="提交比例占2-25"><a href="#提交比例占2-25" class="headerlink" title="提交比例占2.25%"></a>提交比例占2.25%</h4><h4 id="接受率1-7-，21-1294"><a href="#接受率1-7-，21-1294" class="headerlink" title="接受率1.7%，21/1294"></a>接受率1.7%，21/1294</h4><h3 id="Reducing-uncertainty-in-Undersampled-MRI-Reconstruction-With-Active-Acquisition"><a href="#Reducing-uncertainty-in-Undersampled-MRI-Reconstruction-With-Active-Acquisition" class="headerlink" title="Reducing uncertainty in Undersampled MRI Reconstruction With Active Acquisition"></a>Reducing uncertainty in Undersampled MRI Reconstruction With Active Acquisition</h3><ul>
+<li>idea有意思</li>
+<li>有很好的概念的证明</li>
+<li>缺点在于只是模拟，无法确保在现在的设备设置中可以实用</li>
+</ul>
+<h3 id="Collaborative-Learning-of-Semi-Supervised-Segmentation-and-Classification-for-Medical-Images"><a href="#Collaborative-Learning-of-Semi-Supervised-Segmentation-and-Classification-for-Medical-Images" class="headerlink" title="Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images"></a>Collaborative Learning of Semi-Supervised Segmentation and Classification for Medical Images</h3><ul>
+<li>很多图像级别的疾病标注</li>
+<li>少量像素级的损伤标注</li>
+</ul>
+<h3 id="Biologically-Constrained-Graphs-for-Global-Connectomics-Reconstruction"><a href="#Biologically-Constrained-Graphs-for-Global-Connectomics-Reconstruction" class="headerlink" title="Biologically-Constrained Graphs for Global Connectomics Reconstruction"></a>Biologically-Constrained Graphs for Global Connectomics Reconstruction</h3><h3 id="Elastic-Boundary-Projection-for-3D-Medical-Image-Segmentation"><a href="#Elastic-Boundary-Projection-for-3D-Medical-Image-Segmentation" class="headerlink" title="Elastic Boundary Projection for 3D Medical Image Segmentation"></a>Elastic Boundary Projection for 3D Medical Image Segmentation</h3><ul>
+<li>将3D分割问题转换为一系列2D问题的新的代表性方法</li>
+<li>结果达到SOTA</li>
+</ul>
+<h3 id="Networks-for-Joint-Affine-and-Non-Parametric-Image-Registration"><a href="#Networks-for-Joint-Affine-and-Non-Parametric-Image-Registration" class="headerlink" title="Networks for Joint Affine and Non-Parametric Image Registration"></a>Networks for Joint Affine and Non-Parametric Image Registration</h3><ul>
+<li>很好的仿射和非参数配准的框架</li>
+<li>使用动量来驱使一个平滑的配准域</li>
+</ul>
+<h3 id="Automatic-Tooth-Instance-Segmentation-and-Identification-From-Cone-Beam-CT-Images"><a href="#Automatic-Tooth-Instance-Segmentation-and-Identification-From-Cone-Beam-CT-Images" class="headerlink" title="Automatic Tooth Instance Segmentation and Identification From Cone Beam CT Images"></a>Automatic Tooth Instance Segmentation and Identification From Cone Beam CT Images</h3><ul>
+<li>RPN+UNet</li>
+<li>使用了空间关系</li>
+</ul>
+<h3 id="如何让医学图像分析的文章能被CVPR接收"><a href="#如何让医学图像分析的文章能被CVPR接收" class="headerlink" title="如何让医学图像分析的文章能被CVPR接收"></a>如何让医学图像分析的文章能被CVPR接收</h3><ul>
+<li><p>选择一个正确的，可能是当前流行的，但不内卷的方向</p>
+</li>
+<li><p>work on真正有意思的idea或者能得到确实很好的结果的idea</p>
+</li>
+<li><p>sharpen your writing skill</p>
+<ul>
+<li>写作技能已经变得越来越重要，通过写作使reviewer更好地欣赏你的工作</li>
+</ul>
+</li>
+<li><p>把注意力放在一个MIA的区域主席身上以获得公正的评价</p>
+</li>
+<li><p>文章名字选一个朗朗上口的</p>
+<ul>
+<li>如DudoNet,POINT2</li>
+</ul>
+</li>
+</ul>
+<p><img src="/2020/03/15/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8FInsight%EF%BC%88%E4%B8%80%EF%BC%89/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F.png" alt="医学图像"></p>
+</div><div class="tags"><a href="/tags/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F/">医学图像</a></div><div class="post-nav"><a class="next" href="/2020/03/14/%E4%BA%BA%E7%94%9F&amp;%E7%A7%91%E7%A0%94%E7%BB%8F%E9%AA%8C/">人生&amp;科研经验</a></div></div></div></div><div class="pure-u-1-4 hidden_mid_and_down"><div id="sidebar"><div class="widget"><div class="widget-title"><i class="fa fa-star-o"> 标签</i></div><div class="tagcloud"><a href="/tags/Python/" style="font-size: 15px;">Python</a> <a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/" style="font-size: 15px;">计算机视觉</a> <a href="/tags/Pytorch/" style="font-size: 15px;">Pytorch</a> <a href="/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/" style="font-size: 15px;">机器学习</a> <a href="/tags/C/" style="font-size: 15px;">C++</a> <a href="/tags/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F/" style="font-size: 15px;">医学图像</a> <a href="/tags/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/" style="font-size: 15px;">图像分类</a> <a href="/tags/CNN%E6%A8%A1%E5%9E%8B%E8%AE%BE%E8%AE%A1/" style="font-size: 15px;">CNN模型设计</a> <a href="/tags/CNN/" style="font-size: 15px;">CNN</a> <a href="/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/" style="font-size: 15px;">年终总结</a> <a href="/tags/GPU/" style="font-size: 15px;">GPU</a> <a href="/tags/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86/" style="font-size: 15px;">医学图像配准</a></div></div><div class="widget"><div class="widget-title"><i class="fa fa-folder-o"> 分类</i></div><ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/C/">C++</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Python/">Python</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F/">医学图像</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E5%9F%BA%E7%A1%80/">医学图像基础</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/">数据库</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/">机器学习</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/">深度学习</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/">生活随笔</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/">计算机视觉</a><span class="category-list-count">7</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">读书笔记</a><span class="category-list-count">2</span></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-file-o"> 最近文章</i></div><ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2020/03/15/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8FInsight%EF%BC%88%E4%B8%80%EF%BC%89/">医学图像Insight（一）</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/03/14/%E4%BA%BA%E7%94%9F&%E7%A7%91%E7%A0%94%E7%BB%8F%E9%AA%8C/">人生&科研经验</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/03/13/%E7%AB%A03%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%BB%8F%E5%85%B8%E7%BB%93%E6%9E%84/">章3卷积神经网络经典结构</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/03/08/My-starring-CS%EF%BC%88CV%E6%96%B9%E5%90%91%EF%BC%89%E8%87%AA%E5%AD%A6%E6%8C%87%E5%8D%97/">My-starring-CS（CV方向）自学指南</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/03/08/%E7%AB%A02%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E9%83%A8%E4%BB%B6/">章2卷积神经网络基本部件</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/03/02/%E7%AB%A01%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">章1卷积神经网络基础知识</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/01/16/Git%E6%93%8D%E4%BD%9C/">Git操作</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/14/20/">Feeling 20</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/11/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%AB%98%E6%95%88%E8%AE%A1%E7%AE%97%E4%B8%8E%E5%A4%84%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1/">深度学习高效计算与处理器设计</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/10/%E4%BB%8ELeNet5%E5%88%B0VGG/">从LeNet5到VGG</a></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-external-link"> 友情链接</i></div><ul></ul><a href="https://github.com/yyyujintang/" title="Github" target="_blank">Github</a><ul></ul><a href="https://www.zhihu.com/people/long-xun-41/answers" title="知乎" target="_blank">知乎</a><ul></ul><a href="https://mpy634.cn/" title="LEODPEN" target="_blank">LEODPEN</a></div></div></div><div class="pure-u-1 pure-u-md-3-4"><div id="footer">Copyright © 2020 <a href="/." rel="nofollow">Yujin Tang.</a> Powered by<a rel="nofollow" target="_blank" href="https://hexo.io"> Hexo.</a><a rel="nofollow" target="_blank" href="https://github.com/tufu9441/maupassant-hexo"> Theme</a> by<a rel="nofollow" target="_blank" href="https://github.com/pagecho"> Cho.</a></div></div></div><a class="show" id="rocket" href="#top"></a><script type="text/javascript" src="/js/totop.js?v=0.0.0" async></script><script type="text/javascript" src="//lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js" async></script><script type="text/javascript" src="/js/fancybox.js?v=0.0.0" async></script><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css"><script type="text/javascript" src="/js/codeblock-resizer.js?v=0.0.0"></script><script type="text/javascript" src="/js/smartresize.js?v=0.0.0"></script></div></body></html>

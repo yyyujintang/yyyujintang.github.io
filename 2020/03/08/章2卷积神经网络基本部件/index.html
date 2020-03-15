@@ -1,0 +1,127 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description"><title>章2卷积神经网络基本部件 | Yujin Tang</title><link rel="stylesheet" type="text/css" href="/css/style.css?v=0.0.0"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/normalize/8.0.1/normalize.min.css"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/pure/1.0.0/pure-min.css"><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/pure/1.0.0/grids-responsive-min.css"><link rel="stylesheet" href="//lib.baomitu.com/font-awesome/4.7.0/css/font-awesome.min.css"><script type="text/javascript" src="//lib.baomitu.com/jquery/3.4.0/jquery.min.js"></script><link rel="icon" mask="" sizes="any" href="/favicon.ico"><link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png"><meta name="generator" content="Hexo 4.0.0"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">章2卷积神经网络基本部件</h1><a id="logo" href="/.">Yujin Tang</a><p class="description">深自缄默，如云漂泊</p></div><div id="nav-menu"><a class="current" href="/."><i class="fa fa-home"> 主页</i></a><a href="/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/about/"><i class="fa fa-user"> 关于博主</i></a></div></div><div class="pure-g" id="layout"><div class="pure-u-1 pure-u-md-3-4"><div class="content_container"><div class="post"><h1 class="post-title">章2卷积神经网络基本部件</h1><div class="post-meta">Mar 8, 2020<span> | </span><span class="category"><a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/">计算机视觉</a></span></div><div class="post-content"><h3 id="端到端学习"><a href="#端到端学习" class="headerlink" title="端到端学习"></a>端到端学习</h3><p>深度学习模型直接学习从原始输入到期望输出的映射</p>
+<p>有协同增效的优势，比分治法更可能获得全局最优解</p>
+<p>输入数据：未经任何人为加工的原始样本</p>
+<h3 id="后续：众多操作层"><a href="#后续：众多操作层" class="headerlink" title="后续：众多操作层"></a>后续：众多操作层</h3><ul>
+<li><p>复杂的函数f(CNN)</p>
+</li>
+<li><p>最终损失函数</p>
+<ul>
+<li>数据损失</li>
+<li>模型参数的正则化损失</li>
+</ul>
+</li>
+</ul>
+<p>深度模型的训练在最终损失驱动下对模型进行参数更新并将误差反向传播至网络各层</p>
+<h3 id="中间层"><a href="#中间层" class="headerlink" title="中间层"></a>中间层</h3><ul>
+<li><p>原始数据</p>
+<ul>
+<li><p>特征</p>
+<ul>
+<li>样本标记</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="卷积层"><a href="#卷积层" class="headerlink" title="卷积层"></a>卷积层</h2><p>卷积后得到卷积特征</p>
+<ul>
+<li>stride卷积步长</li>
+</ul>
+<p>三维输入时卷及操作将二维卷积扩展到了所以位置的对于通道上</p>
+<p>l层卷积核有D个，则+1层特征的通道数为D</p>
+<p>学习到的权重对不同位置的所有输入都是相同的</p>
+<ul>
+<li>权值共享</li>
+</ul>
+<h3 id="加偏置项"><a href="#加偏置项" class="headerlink" title="加偏置项"></a>加偏置项</h3><ul>
+<li>设置某层偏置项为全0或学习率为0可以起到固定该层偏置或权重的作用</li>
+</ul>
+<h3 id="两个重要超参数"><a href="#两个重要超参数" class="headerlink" title="两个重要超参数"></a>两个重要超参数</h3><ul>
+<li>filter size卷积核大小</li>
+<li>stride卷积步长</li>
+<li>合适的超参数设置会对最终模型带来理想的性能提升</li>
+</ul>
+<p>卷积是一种局部操作</p>
+<p>卷积网络中的卷积核参数是通过网络训练出来的</p>
+<h2 id="池化层"><a href="#池化层" class="headerlink" title="池化层"></a>池化层</h2><h3 id="平均值池化"><a href="#平均值池化" class="headerlink" title="平均值池化"></a>平均值池化</h3><ul>
+<li>average</li>
+</ul>
+<h3 id="最大值池化"><a href="#最大值池化" class="headerlink" title="最大值池化"></a>最大值池化</h3><ul>
+<li>max</li>
+</ul>
+<h3 id="随机池化"><a href="#随机池化" class="headerlink" title="随机池化"></a>随机池化</h3><ul>
+<li>对输入元素按照一定概率值大小随机选择</li>
+<li>元素值大的响应被选中的概率越大</li>
+</ul>
+<h3 id="池化层不包含需要学习的参数"><a href="#池化层不包含需要学习的参数" class="headerlink" title="池化层不包含需要学习的参数"></a>池化层不包含需要学习的参数</h3><ul>
+<li><p>使用时仅需指定</p>
+<ul>
+<li>池化类型</li>
+<li>池化操作的核大学</li>
+<li>池化操作的步长</li>
+</ul>
+</li>
+</ul>
+<h2 id="池化操作的作用"><a href="#池化操作的作用" class="headerlink" title="池化操作的作用"></a>池化操作的作用</h2><h4 id="实际上就是下采样操作"><a href="#实际上就是下采样操作" class="headerlink" title="实际上就是下采样操作"></a>实际上就是下采样操作</h4><ul>
+<li>down-sampling</li>
+</ul>
+<h4 id="也看做是用p-范数作为非线性映射的“卷积”操作"><a href="#也看做是用p-范数作为非线性映射的“卷积”操作" class="headerlink" title="也看做是用p-范数作为非线性映射的“卷积”操作"></a>也看做是用p-范数作为非线性映射的“卷积”操作</h4><h4 id="p趋近正无穷时就是最常见的最大值池化"><a href="#p趋近正无穷时就是最常见的最大值池化" class="headerlink" title="p趋近正无穷时就是最常见的最大值池化"></a>p趋近正无穷时就是最常见的最大值池化</h4><h4 id="池化层的引入是仿照人的视觉系统对视觉输入对象进行降维和抽象"><a href="#池化层的引入是仿照人的视觉系统对视觉输入对象进行降维和抽象" class="headerlink" title="池化层的引入是仿照人的视觉系统对视觉输入对象进行降维和抽象"></a>池化层的引入是仿照人的视觉系统对视觉输入对象进行降维和抽象</h4><h3 id="三种功效"><a href="#三种功效" class="headerlink" title="三种功效"></a>三种功效</h3><ul>
+<li><p>特征不变性</p>
+</li>
+<li><p>特征降维</p>
+<ul>
+<li>抽取更广范围的特征</li>
+<li>减小下一层输入大小，减小计算量和参数个数</li>
+</ul>
+</li>
+<li><p>一定程度上防止过拟合</p>
+</li>
+</ul>
+<h2 id="激活函数"><a href="#激活函数" class="headerlink" title="激活函数"></a>激活函数</h2><h3 id="非线性映射层"><a href="#非线性映射层" class="headerlink" title="非线性映射层"></a>非线性映射层</h3><ul>
+<li>增强整个网络的表达能力（非线性）</li>
+</ul>
+<h3 id="激活函数模拟了生物神经元的阈值特性"><a href="#激活函数模拟了生物神经元的阈值特性" class="headerlink" title="激活函数模拟了生物神经元的阈值特性"></a>激活函数模拟了生物神经元的阈值特性</h3><h3 id="Sigmoid函数"><a href="#Sigmoid函数" class="headerlink" title="Sigmoid函数"></a>Sigmoid函数</h3><ul>
+<li><p>输出响应的阈值被压缩到0到1之间</p>
+</li>
+<li><p>对于绝对值大于5 部分的梯度接近0</p>
+</li>
+<li><p>带来梯度饱和效应</p>
+<ul>
+<li>误差反向传播过程中处于该区域的误差很难甚至根本无法传递至前层</li>
+</ul>
+</li>
+<li><p>在参数初始化的时候要避免参数初始化直接将输出值带入这个区域（以免引发饱和效应）</p>
+</li>
+</ul>
+<h3 id="ReLU函数"><a href="#ReLU函数" class="headerlink" title="ReLU函数"></a>ReLU函数</h3><ul>
+<li>x&gt;=0时梯度为1，消除了Sigmoid函数的梯度饱和效应</li>
+<li>ReLU有助于随机梯度下降方法收敛</li>
+</ul>
+<h2 id="全连接层"><a href="#全连接层" class="headerlink" title="全连接层"></a>全连接层</h2><p>起到“分类器”作用</p>
+<p>全连接层将学到的特征表示映射到样本的标记空间</p>
+<p>在实际使用中，全连接层可由卷积操作实现</p>
+<h3 id="前层是"><a href="#前层是" class="headerlink" title="前层是"></a>前层是</h3><ul>
+<li><p>全连接的全连接层</p>
+<ul>
+<li>转化为卷积核1*1的卷积</li>
+</ul>
+</li>
+<li><p>卷积层的全连接层</p>
+<ul>
+<li><p>转化为卷积核h*w的全局卷积</p>
+<ul>
+<li>h和w分别为前层卷积输出结果的高和宽</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="目标函数"><a href="#目标函数" class="headerlink" title="目标函数"></a>目标函数</h2><p>衡量预测值与真实样本标记之间的误差</p>
+<h3 id="分类问题"><a href="#分类问题" class="headerlink" title="分类问题"></a>分类问题</h3><ul>
+<li>交叉熵损失函数</li>
+</ul>
+<h3 id="回归问题"><a href="#回归问题" class="headerlink" title="回归问题"></a>回归问题</h3><ul>
+<li>l2损失函数</li>
+</ul>
+<p><img src="/2020/03/08/%E7%AB%A02%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E9%83%A8%E4%BB%B6/%E7%AB%A02%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E9%83%A8%E4%BB%B6.png" alt="章2卷积神经网络基本部件"></p>
+</div><div class="tags"><a href="/tags/CNN/">CNN</a></div><div class="post-nav"><a class="pre" href="/2020/03/08/My-starring-CS%EF%BC%88CV%E6%96%B9%E5%90%91%EF%BC%89%E8%87%AA%E5%AD%A6%E6%8C%87%E5%8D%97/">My-starring-CS（CV方向）自学指南</a><a class="next" href="/2020/03/02/%E7%AB%A01%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">章1卷积神经网络基础知识</a></div></div></div></div><div class="pure-u-1-4 hidden_mid_and_down"><div id="sidebar"><div class="widget"><div class="widget-title"><i class="fa fa-star-o"> 标签</i></div><div class="tagcloud"><a href="/tags/Python/" style="font-size: 15px;">Python</a> <a href="/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/" style="font-size: 15px;">计算机视觉</a> <a href="/tags/Pytorch/" style="font-size: 15px;">Pytorch</a> <a href="/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/" style="font-size: 15px;">机器学习</a> <a href="/tags/C/" style="font-size: 15px;">C++</a> <a href="/tags/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F/" style="font-size: 15px;">医学图像</a> <a href="/tags/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/" style="font-size: 15px;">图像分类</a> <a href="/tags/CNN%E6%A8%A1%E5%9E%8B%E8%AE%BE%E8%AE%A1/" style="font-size: 15px;">CNN模型设计</a> <a href="/tags/CNN/" style="font-size: 15px;">CNN</a> <a href="/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/" style="font-size: 15px;">年终总结</a> <a href="/tags/GPU/" style="font-size: 15px;">GPU</a> <a href="/tags/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E9%85%8D%E5%87%86/" style="font-size: 15px;">医学图像配准</a></div></div><div class="widget"><div class="widget-title"><i class="fa fa-folder-o"> 分类</i></div><ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/C/">C++</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/Python/">Python</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F/">医学图像</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E5%9F%BA%E7%A1%80/">医学图像基础</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/">数据库</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/">机器学习</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/">深度学习</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/">生活随笔</a><span class="category-list-count">3</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/">计算机视觉</a><span class="category-list-count">7</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">读书笔记</a><span class="category-list-count">2</span></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-file-o"> 最近文章</i></div><ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/2020/03/15/%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8FInsight%EF%BC%88%E4%B8%80%EF%BC%89/">医学图像Insight（一）</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/03/14/%E4%BA%BA%E7%94%9F&%E7%A7%91%E7%A0%94%E7%BB%8F%E9%AA%8C/">人生&科研经验</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/03/13/%E7%AB%A03%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%BB%8F%E5%85%B8%E7%BB%93%E6%9E%84/">章3卷积神经网络经典结构</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/03/08/My-starring-CS%EF%BC%88CV%E6%96%B9%E5%90%91%EF%BC%89%E8%87%AA%E5%AD%A6%E6%8C%87%E5%8D%97/">My-starring-CS（CV方向）自学指南</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/03/08/%E7%AB%A02%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E9%83%A8%E4%BB%B6/">章2卷积神经网络基本部件</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/03/02/%E7%AB%A01%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/">章1卷积神经网络基础知识</a></li><li class="post-list-item"><a class="post-list-link" href="/2020/01/16/Git%E6%93%8D%E4%BD%9C/">Git操作</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/14/20/">Feeling 20</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/11/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%AB%98%E6%95%88%E8%AE%A1%E7%AE%97%E4%B8%8E%E5%A4%84%E7%90%86%E5%99%A8%E8%AE%BE%E8%AE%A1/">深度学习高效计算与处理器设计</a></li><li class="post-list-item"><a class="post-list-link" href="/2019/12/10/%E4%BB%8ELeNet5%E5%88%B0VGG/">从LeNet5到VGG</a></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-external-link"> 友情链接</i></div><ul></ul><a href="https://github.com/yyyujintang/" title="Github" target="_blank">Github</a><ul></ul><a href="https://www.zhihu.com/people/long-xun-41/answers" title="知乎" target="_blank">知乎</a><ul></ul><a href="https://mpy634.cn/" title="LEODPEN" target="_blank">LEODPEN</a></div></div></div><div class="pure-u-1 pure-u-md-3-4"><div id="footer">Copyright © 2020 <a href="/." rel="nofollow">Yujin Tang.</a> Powered by<a rel="nofollow" target="_blank" href="https://hexo.io"> Hexo.</a><a rel="nofollow" target="_blank" href="https://github.com/tufu9441/maupassant-hexo"> Theme</a> by<a rel="nofollow" target="_blank" href="https://github.com/pagecho"> Cho.</a></div></div></div><a class="show" id="rocket" href="#top"></a><script type="text/javascript" src="/js/totop.js?v=0.0.0" async></script><script type="text/javascript" src="//lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js" async></script><script type="text/javascript" src="/js/fancybox.js?v=0.0.0" async></script><link rel="stylesheet" type="text/css" href="//lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css"><script type="text/javascript" src="/js/codeblock-resizer.js?v=0.0.0"></script><script type="text/javascript" src="/js/smartresize.js?v=0.0.0"></script></div></body></html>
