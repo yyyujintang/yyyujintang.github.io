@@ -16,9 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a 
+Now, I am a Research Assistant at AI Thrust, The Hong Kong University of Science and Technology (Guangzhou). My advisor is Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master degree from The Chinese University of Hongkong, Shenzhen, advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor degree from Shanghai Jiao Tong University, where my supervisor is Prof.[Dahong Qian](https://scholar.google.com/citations?user=oymfXUIAAAAJ&hl=zh-C).
 
-My research interest includes neural machine translation and computer vision. 
+My previous research expereience included Medical Image Analysis(Classification, Detection, Segmentation) and Face Recognition.
+
+At present, my research interest lies in  **Spatial-Temporal Forecasting** and **AI4Weather**,
 
 # 🔥 News
 
@@ -34,13 +36,6 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 **Yujin Tang**, Jiaming Zhou, Xiang Pan, Zeying Gong, Junwei Liang
 
 [ **Paper**](https://arxiv.org/abs/2310.0267) [ **Code**](https://github.com/yyyujintang/PostRainBench)
-
-
-</div>
-</div
-
-
-
 
 # 📖 Educations
 
