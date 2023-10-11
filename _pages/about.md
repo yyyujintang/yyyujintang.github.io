@@ -47,6 +47,6 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 # 📖 Educations
 
-- *2023.07 - now,* Reseach Assistant, **The Hong Kong University of Science and Technology (Guangzhou)**, AI Thrust
+- *2023.07 - now,* Research Assistant, **The Hong Kong University of Science and Technology (Guangzhou)**, Artifical Intelligence
 - *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
 - *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
