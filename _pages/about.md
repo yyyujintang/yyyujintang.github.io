@@ -28,7 +28,7 @@ At present, my research interest lies in  **Spatial-Temporal Forecasting** and *
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint arXiv:2310.02676, 2023</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2023</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 PostRainBench: A comprehensive benchmark and a new model for precipitation forecasting
