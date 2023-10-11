@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yujin Tang"
-description              : "Focus on Computer Vision, Weather Forecasting, Spatial-Temporal Forecasting "
+description              : "Looking for PhD Position"
 repository               : "yyyujintang/yyyujintang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yujin Tang"
   avatar           : "images/photo.png"
-  bio              : "Hoest & Adventure"
+  bio              : "Honest, Learning and Adventure"
   location         : "China"
   employer         :
   pubmed           : 
