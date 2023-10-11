@@ -18,7 +18,11 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. 🔥 News
+My research interest includes neural machine translation and computer vision. 
+
+# 🔥 News
+
+- *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in 0-24 hours Precipitation Nowcasting Challenge, [News](http://sd.cma.gov.cn/xwzx_3497/qxyw/202307/t20230717_5652068.html)
 
 # 📝 Publications
 
@@ -30,9 +34,6 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 **Yujin Tang**, Jiaming Zhou, Xiang Pan, Zeying Gong, Junwei Liang
 
 [ **Paper**](https://arxiv.org/abs/2310.0267) [ **Code**](https://github.com/yyyujintang/PostRainBenc)
-
-
-
 
 # 📖 Educations
 
