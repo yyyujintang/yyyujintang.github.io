@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yujin Tang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Focus on Computer Vision, Weather Forecasting, Spatial-Temporal Forecasting "
 repository               : "yyyujintang/yyyujintang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yujin Tang"
   avatar           : "images/photo.png"
-  bio              : "A Life-long Learner"
-  location         : "Guangzhou, China"
+  bio              : "Honest, humle, open, learning, adventure"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=T41IQ1EAAAAJ"
