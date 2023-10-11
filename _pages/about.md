@@ -33,7 +33,7 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 **Yujin Tang**, Jiaming Zhou, Xiang Pan, Zeying Gong, Junwei Liang
 
-[ **Paper**](https://arxiv.org/abs/2310.0267) [ **Code**](https://github.com/yyyujintang/PostRainBenc)
+[ **Paper**](https://arxiv.org/abs/2310.0267) [ **Code**](https://github.com/yyyujintang/PostRainBench)
 
 
 </div>
