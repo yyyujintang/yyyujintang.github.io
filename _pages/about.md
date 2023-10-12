@@ -16,6 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+
+<meta name="google-site-verification" content="PodPmEdYRaTiV4v3p2eyOCZjJzH1UXJF7y114jxSfX0" />
+
+
 I am now a Research Assistant at AI Thrust, The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master degree from The Chinese University of Hongkong, Shenzhen, advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor degree from Shanghai Jiao Tong University, supervised by Prof.[Dahong Qian](https://scholar.google.com/citations?user=oymfXUIAAAAJ&hl=zh-C).
 
 My previous research expereience included Medical Image Analysis(Classification, Detection, Segmentation) and Face Recognition.
