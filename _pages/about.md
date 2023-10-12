@@ -50,3 +50,5 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 - *2023.07 - now,* Research Assistant, **The Hong Kong University of Science and Technology (Guangzhou)**, Artifical Intelligence
 - *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
 - *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
+
+`<a href="https://info.flagcounter.com/nr8c"><img src="https://s11.flagcounter.com/map/nr8c/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0">``</a>`
