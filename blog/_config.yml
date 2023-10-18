@@ -109,4 +109,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/yyyujintang/yyyujintang.github.io.git
-  branch: main
+  branch: blog
