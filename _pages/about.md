@@ -16,17 +16,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-
 I am now a Research Assistant at AI Thrust, The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master degree from The Chinese University of Hongkong, Shenzhen, advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor degree from Shanghai Jiao Tong University, supervised by Prof.[Dahong Qian](https://scholar.google.com/citations?user=oymfXUIAAAAJ&hl=zh-C).
 
 My previous research expereience included Medical Image Analysis(Classification, Detection, Segmentation) and Face Recognition.
 
-At present, my research interest lies in  **Spatial-temporal Forecasting and Time Series Forecasting**.
+At present, my research interest lies in  **Spatial-temporal Forecasting, Time Series Forecasting and AI4Science(Medical, Climate, etc.)**.
 
 # 🔥 News
 
-- *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in 0-24 hours Precipitation Nowcasting Challenge, [News](http://sd.cma.gov.cn/xwzx_3497/qxyw/202307/t20230717_5652068.html)
+- *2024.01*: &nbsp;One paper submitted to IJCAI24, one paper submitted to ICML24, one paper submitted to ICLR Workshop24
+- *2023.11*: &nbsp;🎉🎉 Yujin Graduated from CUHKSZ with a master's degree in Data Science
+- *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge, ranking 6th over 1000+ teams after first round, second round and final as the only single-person team even without atmosphere background in the final
+- *2023.01*: &nbsp;Yujin Serve as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang
 
 # 📝 Publications
 
@@ -53,19 +54,34 @@ Zeying Gong, **Yujin Tang**, Junwei Liang
 
 [ **Paper**](https://arxiv.org/abs/2310.00655) [ **Code**](https://github.com/Zeying-Gong/PatchMixer)
 
-
 </div>
 </div>
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+Ovarian Cancer Prediction in Proteomic Data Using Stacked Asymmetric Convolution
 
+Yuan Cheng, **Yujin Tang**, Dahong Qian
+
+[ **Paper**](https://www.researchgate.net/profile/Cheng_Yuan23/publication/345259179_Ovarian_Cancer_Prediction_in_Proteomic_Data_Using_Stacked_Asymmetric_Convolution/links/6076b0d192851cb4a9dc6f77/Ovarian-Cancer-Prediction-in-Proteomic-Data-Using-Stacked-Asymmetric-Convolution.pd)
+
+</div>
+</div>
 
 
 
 # 📖 Educations
 
-- *2023.07 - now,* Research Assistant, **The Hong Kong University of Science and Technology (Guangzhou)**, Artifical Intelligence
 - *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
 - *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
+
+# 💻 Internships
+
+- *2023.02 - now,* Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
+
+- *2022.09 - 2023.01,* Quant Researcher Intern, Kunshan Technology / Kunteng Investment, Shenzhen
+- *2022.06 - 2023.08*, Algorithm Engineer Intern, Hikvision Research Institute, Hangzhou
+- *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen

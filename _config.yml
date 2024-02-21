@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yujin Tang"
-description              : "Focus on Computer Vision"
+title                    : "Yujin(Jennny) Tang(唐毓瑾)"
+description              : "Life Love for Computer Vision"
 repository               : "yyyujintang/yyyujintang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yujin Tang"
   avatar           : "images/photo.png"
-  bio              : "A Life-long Learner"
-  location         : "China"
+  bio              : "Honest, Humble, Learning"
+  location         : "Guangzhou"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=T41IQ1EAAAAJ"
