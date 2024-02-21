@@ -86,4 +86,5 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 - *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
 
 
-<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
+
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=160&t=n&d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ'></script>
