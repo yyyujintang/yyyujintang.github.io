@@ -22,7 +22,7 @@ My previous research expereience included Medical Image Analysis(Classification,
 
 At present, my research interest lies in  **Spatial-temporal Forecasting, Time Series Forecasting and AI4Science(Medical, Climate, etc.)**.
 
-I'm actively applying for a CS/CV Ph.D. position in 2025 Spring & 2025 Fall!
+I'm actively applying for a CS/CV Ph.D. position in 2025 Spring or 2025 Fall!
 
 
 # 🔥 News
