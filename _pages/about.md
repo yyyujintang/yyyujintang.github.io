@@ -87,4 +87,4 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=160&t=n&d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ'></script>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ"></script
