@@ -24,7 +24,6 @@ At present, my research interest lies in  **Spatial-temporal Forecasting, Time S
 
 I'm actively applying for a CS/CV Ph.D. position in 2025 Spring or 2025 Fall!
 
-
 # 🔥 News
 
 - *2024.01*: &nbsp;One paper submitted to IJCAI24, one paper submitted to ICML24, one paper submitted to ICLR Workshop24
@@ -45,6 +44,7 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2023</div><img src='images/PatchMixer.png' alt="sym" width="100%"></div></div>
@@ -74,7 +74,6 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 </div>
 
 
-
 # 📖 Educations
 
 - *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
@@ -87,4 +86,4 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 - *2022.06 - 2023.08*, Algorithm Engineer Intern, Hikvision Research Institute, Hangzhou
 - *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
 
-<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ"></script
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script
