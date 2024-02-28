@@ -20,7 +20,7 @@ I am now a Research Assistant at AI Thrust, The Hong Kong University of Science 
 
 My previous research expereience included Medical Image Analysis(Classification, Detection, Segmentation) and Face Recognition.
 
-At present, my research interest lies in  **Spatial-temporal Forecasting, Time Series Forecasting and AI4Science(Medical, Climate, etc.)**.
+At present, my research interest lies in  **Spatial-temporal Forecasting/Video Prediction, Time Series Forecasting and AI4Science(Medical, Climate, Finance, etc.)**.
 
 I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Spring or 2025 Fall!
 
