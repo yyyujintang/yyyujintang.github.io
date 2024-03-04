@@ -26,10 +26,11 @@ I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Sp
 
 # 🔥 News
 
-- *2024.01*: &nbsp;One paper submitted to IJCAI24, one paper submitted to ICML24, one paper submitted to ICLR Workshop24
+- *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted as a spotlight paper by ICLR24 Workshop: Tackling Climate Change with Machine Learning!
+- *2024.01*: &nbsp;One paper submitted to IJCAI24, one paper submitted to ICML24, one paper submitted to ICLR Workshop24.
 - *2023.11*: &nbsp;🎉🎉 Yujin graduated from CUHKSZ with a master's degree in Data Science!
 - *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge, ranking 6th over 1000+ teams after first round, second round and final as the only single-person team even without atmosphere background!
-- *2023.01*: &nbsp;Yujin serve as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
+- *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
 
 # 📝 Publications
 
