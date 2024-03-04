@@ -33,7 +33,7 @@ I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Sp
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2023</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop, 2024, Spotlight</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 PostRainBench: A comprehensive benchmark and a new model for precipitation forecasting
