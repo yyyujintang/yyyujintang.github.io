@@ -26,12 +26,12 @@ I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Sp
 
 # 🔥 News
 
-- *2024.03*: &nbsp;VMRNN was released. [Paper](https://arxiv.org/abs/2403.1653) [Code](https://github.com/yyyujintang/VMRNN-PyTorc)
-- *2024.03*: &nbsp;🎉🎉 Yujin was invited to give a talk about '**Five Year Research Experience Exploring'** in CUHKSZ as the youngest graduate alumna in Data Science College. Congratulations on the 10th anniversary of CUHKSZ! [News](https://mp.weixin.qq.com/s/54EDmRe7OKOF8LhcsCmgvQ) [Talk Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
+- *2024.03*: &nbsp;VMRNN was released. [Paper](https://arxiv.org/abs/2403.1653) [Code](https://github.com/yyyujintang/VMRNN-PyTorc) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
+- *2024.03*: &nbsp;🎉🎉 Yujin was invited to give a talk about '**Five Year Research Experience Exploring'** in CUHKSZ as the youngest graduate alumna in Data Science College. Congratulations on the 10th anniversary of CUHKSZ! [News](https://mp.weixin.qq.com/s/54EDmRe7OKOF8LhcsCmgvQ) [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
 - *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted as a spotlight paper by ICLR24 Workshop: Tackling Climate Change with Machine Learning! See you in Viennna!
-- *2024.01*: &nbsp;Yujin created Awesome-Mamba-Papers repository and keep updating it. [Awesome-Mamba-Papers](https://github.com/yyyujintang/Awesome-Mamba-Papers]()) [Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
+- *2024.01*: &nbsp;Yujin created Awesome-Mamba-Papers repository and keep updating it. [Awesome-Mamba-Papers](https://github.com/yyyujintang/Awesome-Mamba-Paper) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
 - *2023.11*: &nbsp;🎉🎉 Yujin graduated from CUHKSZ with a master's degree in Data Science!
-- *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge, ranking 6th over 1000+ teams after first round, second round and final as the only single-person team even without atmosphere background! [Final Defense Slides](https://docs.google.com/presentation/d/1NTxQQr-b-zcBdQkIx42IhUKVZgKbo5U7QDIxCo0q-Qw/edit?usp=sharing)
+- *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge, ranking 6th over 1000+ teams after first round, second round and final as the only single-person team even without atmosphere background! [Slides](https://docs.google.com/presentation/d/1NTxQQr-b-zcBdQkIx42IhUKVZgKbo5U7QDIxCo0q-Qw/edit?usp=sharing)
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
 
 # 📝 Publications
@@ -88,9 +88,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 [ **Paper**](https://www.researchgate.net/profile/Cheng_Yuan23/publication/345259179_Ovarian_Cancer_Prediction_in_Proteomic_Data_Using_Stacked_Asymmetric_Convolution/links/6076b0d192851cb4a9dc6f77/Ovarian-Cancer-Prediction-in-Proteomic-Data-Using-Stacked-Asymmetric-Convolution.pd)
 
 </div>
-</di
-
-
+</d
 
 
 # 📖 Educations
@@ -98,12 +96,14 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 - *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
 - *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
 
+
 # 💻 Internships
 
 - *2023.02 - now,* Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
 - *2022.09 - 2023.01,* Quant Researcher Intern, Kunshan Technology / Kunteng Investment, Shenzhen
 - *2022.06 - 2023.08*, Algorithm Engineer Intern, Hikvision Research Institute, Hangzhou
 - *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
+
 
 # 📕 Notes and Resources
 
@@ -130,5 +130,6 @@ AI4Weather Seminar: A Review on FourCstNet/Pangu/GraphCast/Climax/Fenwu [Slides]
 [Yana Hasson](https://scholar.google.com/citations?hl=zh-CN&user=yhz7sFoAAAAJ): Useful Computer Vision PhD Resources [Link](https://github.com/hassony2/useful-computer-vision-phd-resources)
 
 Thanks a lot to these generous people for sharing their valuable research experience!
+
 
 `<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a">`</script
