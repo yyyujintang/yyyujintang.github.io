@@ -91,6 +91,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 </div>
 
 
+
 # 📖 Educations
 
 - *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
@@ -108,6 +109,8 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 Diffusion Model Seminar: A Review on Diffusion Models and It's Application in Spatiotemporal Forecasting [Slides](https://drive.google.com/file/d/1_go7vLO6bUg0nBfXFSJkkq_vZOUYHwI6/view?usp=sharing)
 
 AI4Weather Seminar: A Review on FourCastNet/Pangu/GraphCast/Climax/Fenwu [Slides](https://drive.google.com/file/d/1qTaQVBjNFOygmlyk_bBZGUzmoqLv4Iiz/view?usp=sharing)
+
+Course Project for MDS6004 Computer Vision: Deep Rectangling in Irregular Panoramas [Slides](https://drive.google.com/file/d/14nIvXl9K_6RVN7hyPrUhap0ncVW73XHR/view?usp=sharing)
 
 [Computer Vision PhD Survival Guide Series(1) CV Paper Tracking and Writing](https://zhuanlan.zhihu.com/p/610774199)
 
