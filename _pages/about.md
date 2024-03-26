@@ -35,10 +35,10 @@ I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Sp
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2024</div><img src='images/VMRNN_Cel.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasti
+VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting
 
 **Yujin Tang**, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang
 
