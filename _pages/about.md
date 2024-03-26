@@ -22,15 +22,15 @@ My previous research expereience included Medical Image Analysis(Classification,
 
 At present, my research interest lies in  **Spatial-temporal Forecasting/Video Prediction, Time Series Forecasting and AI4Science(Medical, Climate, Finance, etc.)**.
 
-I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Spring or 2025 Fall! Feel free to email me for cooperations or potential interviews.
+I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Spring or 2025 Fall in the US. Feel free to email me for cooperations or potential interviews.
 
 # 🔥 News
 
 - *2024.03*: &nbsp;VMRNN was released. [Paper](https://arxiv.org/abs/2403.1653) [Code](https://github.com/yyyujintang/VMRNN-PyTorc) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
-- *2024.03*: &nbsp;🎉🎉 Yujin was invited to give a talk about '**Five Year Research Experience Exploring'** in CUHKSZ as the youngest graduate alumna in Data Science College. Congratulations on the 10th anniversary of CUHKSZ! [News](https://mp.weixin.qq.com/s/54EDmRe7OKOF8LhcsCmgvQ) [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
+- *2024.03*: &nbsp;Yujin was invited to give a talk about '**Five Year Research Experience Exploring'** in CUHKSZ as the youngest graduate alumna in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [News](https://mp.weixin.qq.com/s/54EDmRe7OKOF8LhcsCmgvQ) [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
 - *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted as a spotlight paper by ICLR24 Workshop: Tackling Climate Change with Machine Learning! See you in Vienna!
 - *2024.01*: &nbsp;Yujin created Awesome-Mamba-Papers repository and keep updating it. [Link](https://github.com/yyyujintang/Awesome-Mamba-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
-- *2023.11*: &nbsp;🎉🎉 Yujin graduated from CUHKSZ with a master's degree in Data Science!
+- *2023.11*: &nbsp;Yujin graduated from CUHKSZ with a master's degree in Data Science!
 - *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge, ranking 6th over 1000+ teams after first round, second round and final as the only single-person team even without atmosphere background! [Slides](https://docs.google.com/presentation/d/1NTxQQr-b-zcBdQkIx42IhUKVZgKbo5U7QDIxCo0q-Qw/edit?usp=sharing)
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
 
@@ -110,7 +110,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 Diffusion Model Seminar: A Review on Diffusion Models and It's Application in Spatiotemporal Forecasting [Slides](https://drive.google.com/file/d/1_go7vLO6bUg0nBfXFSJkkq_vZOUYHwI6/view?usp=sharing)
 
-AI4Weather Seminar: A Review on FourCstNet/Pangu/GraphCast/Climax/Fenwu [Slides](https://drive.google.com/file/d/1qTaQVBjNFOygmlyk_bBZGUzmoqLv4Iiz/view?usp=sharing)
+AI4Weather Seminar: A Review on FourCastNet/Pangu/GraphCast/Climax/Fenwu [Slides](https://drive.google.com/file/d/1qTaQVBjNFOygmlyk_bBZGUzmoqLv4Iiz/view?usp=sharing)
 
 ## Blogs
 
@@ -120,7 +120,7 @@ AI4Weather Seminar: A Review on FourCstNet/Pangu/GraphCast/Climax/Fenwu [Slides]
 
 [Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（三）服务器配置与基础Linux指令大全](https://zhuanlan.zhihu.com/p/676491841)
 
-## Useful Resourecs by Other Computer Vision Experts
+## Useful Resourcs by Other Computer Vision Experts
 
 [Sida Peng](https://scholar.google.com/citations?hl=zh-CN&user=l9NCksYAAAAJ): The Process of Finishing a Research Project [Link](https://github.com/pengsida/learning_research)
 
