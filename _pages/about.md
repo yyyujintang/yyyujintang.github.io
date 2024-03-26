@@ -110,11 +110,11 @@ Diffusion Model Seminar: A Review on Diffusion Models and It's Application in Sp
 
 AI4Weather Seminar: A Review on FourCastNet/Pangu/GraphCast/Climax/Fenwu [Slides](https://drive.google.com/file/d/1qTaQVBjNFOygmlyk_bBZGUzmoqLv4Iiz/view?usp=sharing)
 
-[Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（一）论文追踪与写作](https://zhuanlan.zhihu.com/p/610774199)
+[Computer Vision PhD Survival Guide Series(1) CV Paper Tracking and Writing](https://zhuanlan.zhihu.com/p/610774199)
 
-[Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（二）代码开源流程与工具](https://zhuanlan.zhihu.com/p/611491695)
+[Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools](https://zhuanlan.zhihu.com/p/611491695)
 
-[Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（三）服务器配置与基础Linux指令大全](https://zhuanlan.zhihu.com/p/676491841)
+[Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command ](https://zhuanlan.zhihu.com/p/676491841)
 
 # 🔗 Resources
 
