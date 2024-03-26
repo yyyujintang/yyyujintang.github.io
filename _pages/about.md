@@ -26,14 +26,15 @@ I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Sp
 
 # 🔥 News
 
-- *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted as a spotlight paper by ICLR24 Workshop: Tackling Climate Change with Machine Learning!
-- *2024.01*: &nbsp;One paper submitted to IJCAI24, one paper submitted to ICML24, one paper submitted to ICLR Workshop24.
+- *2024.03*: &nbsp;VMRNN was released. [Paper](https://arxiv.org/abs/2403.1653) [Code](https://github.com/yyyujintang/VMRNN-PyTorc)
+- *2024.03*: &nbsp;🎉🎉 Yujin was invited to give a talk about '**Five Year Research Experience Exploring'** in CUHKSZ as the youngest graduate alumna in Data Science College. Congratulations on the 10th anniversary of CUHKSZ! [News](https://mp.weixin.qq.com/s/54EDmRe7OKOF8LhcsCmgvQ) [Talk Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
+- *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted as a spotlight paper by ICLR24 Workshop: Tackling Climate Change with Machine Learning! See you in Viennna!
+- *2024.01*: &nbsp;Yujin created Awesome-Mamba-Papers repository and keep updating it. [Awesome-Mamba-Papers](https://github.com/yyyujintang/Awesome-Mamba-Papers]()) [Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
 - *2023.11*: &nbsp;🎉🎉 Yujin graduated from CUHKSZ with a master's degree in Data Science!
-- *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge, ranking 6th over 1000+ teams after first round, second round and final as the only single-person team even without atmosphere background!
+- *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge, ranking 6th over 1000+ teams after first round, second round and final as the only single-person team even without atmosphere background! [Final Defense Slides](https://docs.google.com/presentation/d/1NTxQQr-b-zcBdQkIx42IhUKVZgKbo5U7QDIxCo0q-Qw/edit?usp=sharing)
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
 
 # 📝 Publications
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,6 +47,7 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop, 2024, Spotlight</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
@@ -86,7 +88,8 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 [ **Paper**](https://www.researchgate.net/profile/Cheng_Yuan23/publication/345259179_Ovarian_Cancer_Prediction_in_Proteomic_Data_Using_Stacked_Asymmetric_Convolution/links/6076b0d192851cb4a9dc6f77/Ovarian-Cancer-Prediction-in-Proteomic-Data-Using-Stacked-Asymmetric-Convolution.pd)
 
 </div>
-</div>
+</di
+
 
 
 
@@ -102,4 +105,30 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 - *2022.06 - 2023.08*, Algorithm Engineer Intern, Hikvision Research Institute, Hangzhou
 - *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
 
-<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script
+# 📕 Notes and Resources
+
+## Beamer Notes
+
+Diffusion Model Seminar: A Review on Diffusion Models and It's Application in Spatiotemporal Forecasting [Slides](https://drive.google.com/file/d/1_go7vLO6bUg0nBfXFSJkkq_vZOUYHwI6/view?usp=sharing)
+
+AI4Weather Seminar: A Review on FourCstNet/Pangu/GraphCast/Climax/Fenwu [Slides](https://drive.google.com/file/d/1qTaQVBjNFOygmlyk_bBZGUzmoqLv4Iiz/view?usp=sharing)
+
+## Blogs 
+
+[Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（一） | Mark自用版](https://zhuanlan.zhihu.com/p/610774199)
+
+[Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（二） | Mark自用版](https://zhuanlan.zhihu.com/p/611491695)
+
+[Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（三） | 服务器配置与基础Linux指令大全](https://zhuanlan.zhihu.com/p/676491841)
+
+## Useful Resourecs by Other Computer Vision Experts
+
+[Sida Peng](https://scholar.google.com/citations?hl=zh-CN&user=l9NCksYAAAAJ): The Process of Finishing a Research Project [Link](https://github.com/pengsida/learning_research)
+
+[Bolei Zhou](https://scholar.google.com/citations?hl=zh-CN&user=9D4aG8AAAAAJ): How to Make Posters for Top Conference Paper [Link](https://github.com/zhoubolei/bolei_awesome_posters)
+
+[Yana Hasson](https://scholar.google.com/citations?hl=zh-CN&user=yhz7sFoAAAAJ): Useful Computer Vision PhD Resources [Link](https://github.com/hassony2/useful-computer-vision-phd-resources)
+
+Thanks a lot to these generous people for sharing their valuable research experience!
+
+`<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a">`</script
