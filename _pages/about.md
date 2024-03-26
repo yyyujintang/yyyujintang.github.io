@@ -63,7 +63,6 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2023</div><img src='images/PatchMixer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,7 +76,6 @@ Zeying Gong, **Yujin Tang**, Junwei Liang
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -89,7 +87,6 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
-
 
 
 # 📖 Educations
@@ -115,15 +112,5 @@ AI4Weather Seminar: A Review on FourCastNet/Pangu/GraphCast/Climax/Fenwu [Slides
 [Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools](https://zhuanlan.zhihu.com/p/611491695)
 
 [Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command ](https://zhuanlan.zhihu.com/p/676491841)
-
-# 🔗 Resources
-
-[Sida Peng](https://scholar.google.com/citations?hl=zh-CN&user=l9NCksYAAAAJ): The Process of Finishing a Research Project [Link](https://github.com/pengsida/learning_research)
-
-[Bolei Zhou](https://scholar.google.com/citations?hl=zh-CN&user=9D4aG8AAAAAJ): How to Make Posters for Top Conference Paper [Link](https://github.com/zhoubolei/bolei_awesome_posters)
-
-[Yana Hasson](https://scholar.google.com/citations?hl=zh-CN&user=yhz7sFoAAAAJ): Useful Computer Vision PhD Resources [Link](https://github.com/hassony2/useful-computer-vision-phd-resources)
-
-Thanks a lot to these generous people for sharing their valuable research experience!
 
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
