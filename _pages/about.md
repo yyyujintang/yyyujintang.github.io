@@ -104,15 +104,11 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 - *2022.06 - 2023.08*, Algorithm Engineer Intern, Hikvision Research Institute, Hangzhou
 - *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
 
-# 📕 Notes and Resources
-
-## Notes
+# 📕 Notes
 
 Diffusion Model Seminar: A Review on Diffusion Models and It's Application in Spatiotemporal Forecasting [Slides](https://drive.google.com/file/d/1_go7vLO6bUg0nBfXFSJkkq_vZOUYHwI6/view?usp=sharing)
 
 AI4Weather Seminar: A Review on FourCastNet/Pangu/GraphCast/Climax/Fenwu [Slides](https://drive.google.com/file/d/1qTaQVBjNFOygmlyk_bBZGUzmoqLv4Iiz/view?usp=sharing)
-
-## Blogs
 
 [Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（一）论文追踪与写作](https://zhuanlan.zhihu.com/p/610774199)
 
@@ -120,7 +116,7 @@ AI4Weather Seminar: A Review on FourCastNet/Pangu/GraphCast/Climax/Fenwu [Slides
 
 [Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（三）服务器配置与基础Linux指令大全](https://zhuanlan.zhihu.com/p/676491841)
 
-## Useful Resourcs by Other Computer Vision Experts
+# 🔗 Resources
 
 [Sida Peng](https://scholar.google.com/citations?hl=zh-CN&user=l9NCksYAAAAJ): The Process of Finishing a Research Project [Link](https://github.com/pengsida/learning_research)
 
