@@ -87,9 +87,9 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 [ **Paper**](https://www.researchgate.net/profile/Cheng_Yuan23/publication/345259179_Ovarian_Cancer_Prediction_in_Proteomic_Data_Using_Stacked_Asymmetric_Convolution/links/6076b0d192851cb4a9dc6f77/Ovarian-Cancer-Prediction-in-Proteomic-Data-Using-Stacked-Asymmetric-Convolution.pd)
 
+</div>
+</div>
 
-</div>
-</div>
 
 
 # 📖 Educations
@@ -97,14 +97,12 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 - *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
 - *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
 
-
 # 💻 Internships
 
 - *2023.02 - now,* Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
 - *2022.09 - 2023.01,* Quant Researcher Intern, Kunshan Technology / Kunteng Investment, Shenzhen
 - *2022.06 - 2023.08*, Algorithm Engineer Intern, Hikvision Research Institute, Hangzhou
 - *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
-
 
 # 📕 Notes and Resources
 
@@ -114,13 +112,13 @@ Diffusion Model Seminar: A Review on Diffusion Models and It's Application in Sp
 
 AI4Weather Seminar: A Review on FourCstNet/Pangu/GraphCast/Climax/Fenwu [Slides](https://drive.google.com/file/d/1qTaQVBjNFOygmlyk_bBZGUzmoqLv4Iiz/view?usp=sharing)
 
-## Blogs 
+## Blogs
 
-[Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（一） | Mark自用版](https://zhuanlan.zhihu.com/p/610774199)
+[Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（一）论文追踪与写作](https://zhuanlan.zhihu.com/p/610774199)
 
-[Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（二） | Mark自用版](https://zhuanlan.zhihu.com/p/611491695)
+[Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（二）代码开源流程与工具](https://zhuanlan.zhihu.com/p/611491695)
 
-[Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（三） | 服务器配置与基础Linux指令大全](https://zhuanlan.zhihu.com/p/676491841)
+[Computer Vision PhD survival Guide Series / 计算机视觉博士生存指南（三）服务器配置与基础Linux指令大全](https://zhuanlan.zhihu.com/p/676491841)
 
 ## Useful Resourecs by Other Computer Vision Experts
 
@@ -132,4 +130,4 @@ AI4Weather Seminar: A Review on FourCstNet/Pangu/GraphCast/Climax/Fenwu [Slides]
 
 Thanks a lot to these generous people for sharing their valuable research experience!
 
-`<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>`
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
