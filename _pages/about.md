@@ -43,7 +43,7 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 
 **Yujin Tang**, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang
 
-[ **Paper**](https://arxiv.org/abs/2403.1653) [ **Code**](https://github.com/yyyujintang/VMRNN-PyTorch)
+[ **Paper**](https://arxiv.org/abs/2403.16536) [ **Code**](https://github.com/yyyujintang/VMRNN-PyTorch)
 
 </div>
 </div>
@@ -63,6 +63,7 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2023</div><img src='images/PatchMixer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -74,6 +75,7 @@ Zeying Gong, **Yujin Tang**, Junwei Liang
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
