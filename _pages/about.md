@@ -26,7 +26,7 @@ I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Sp
 
 # 🔥 News
 
-- *2024.03*: &nbsp;VMRNN was released. [Paper](https://arxiv.org/abs/2403.1653) [Code](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
+- *2024.03*: &nbsp;VMRNN was released. [Paper](https://arxiv.org/abs/2403.16536) [Code](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
 - *2024.03*: &nbsp;Yujin was invited to give a talk in CUHKSZ as the youngest graduate alumna in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
 - *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted as a spotlight paper by ICLR24 Workshop: Tackling Climate Change with Machine Learning! See you in Vienna!
 - *2024.01*: &nbsp;Yujin created Awesome-Mamba-Papers repository and keep updating it. [Link](https://github.com/yyyujintang/Awesome-Mamba-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
