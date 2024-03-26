@@ -108,7 +108,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 # 📕 Notes and Resources
 
-## Beamer Notes
+## Notes
 
 Diffusion Model Seminar: A Review on Diffusion Models and It's Application in Spatiotemporal Forecasting [Slides](https://drive.google.com/file/d/1_go7vLO6bUg0nBfXFSJkkq_vZOUYHwI6/view?usp=sharing)
 
@@ -132,5 +132,4 @@ AI4Weather Seminar: A Review on FourCstNet/Pangu/GraphCast/Climax/Fenwu [Slides]
 
 Thanks a lot to these generous people for sharing their valuable research experience!
 
-
-`<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a">`</script
+`<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>`
