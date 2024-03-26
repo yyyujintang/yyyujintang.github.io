@@ -26,7 +26,7 @@ I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Sp
 
 # 🔥 News
 
-- *2024.03*: &nbsp;VMRNN was released. [Paper](https://arxiv.org/abs/2403.1653) [Code](https://github.com/yyyujintang/VMRNN-PyTorc) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
+- *2024.03*: &nbsp;VMRNN was released. [Paper](https://arxiv.org/abs/2403.1653) [Code](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
 - *2024.03*: &nbsp;Yujin was invited to give a talk in CUHKSZ as the youngest graduate alumna in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
 - *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted as a spotlight paper by ICLR24 Workshop: Tackling Climate Change with Machine Learning! See you in Vienna!
 - *2024.01*: &nbsp;Yujin created Awesome-Mamba-Papers repository and keep updating it. [Link](https://github.com/yyyujintang/Awesome-Mamba-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
@@ -43,7 +43,7 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 
 **Yujin Tang**, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang
 
-[ **Paper**](https://arxiv.org/abs/2403.1653) [ **Code**](https://github.com/yyyujintang/VMRNN-PyTorc)
+[ **Paper**](https://arxiv.org/abs/2403.1653) [ **Code**](https://github.com/yyyujintang/VMRNN-PyTorch)
 
 </div>
 </div>
@@ -77,6 +77,7 @@ Zeying Gong, **Yujin Tang**, Junwei Liang
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -88,6 +89,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
+
 
 
 # 📖 Educations
