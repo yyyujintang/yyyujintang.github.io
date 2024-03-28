@@ -34,7 +34,7 @@ I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Sp
 - *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge, ranking 6th over 1000+ teams after first round, second round and final as the only single-person team even without atmosphere background! [Slides](https://docs.google.com/presentation/d/1NTxQQr-b-zcBdQkIx42IhUKVZgKbo5U7QDIxCo0q-Qw/edit?usp=sharing)
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
 
-# 📝 Publications
+# 📝 Publications & Preprints
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,7 +43,7 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 
 **Yujin Tang**, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang
 
-[ **Paper**](https://arxiv.org/abs/2403.16536) [ **Code**](https://github.com/yyyujintang/VMRNN-PyTorch)
+[ **Paper**](https://arxiv.org/abs/2403.16536) [ **Code**](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
 
 </div>
 </div>
@@ -57,7 +57,7 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 **Yujin Tang**, Jiaming Zhou, Xiang Pan, Zeying Gong, Junwei Liang
 
-[ **Paper**](https://arxiv.org/abs/2310.02676) [ **Code**](https://github.com/yyyujintang/PostRainBench)
+[ **Paper**](https://arxiv.org/abs/2310.02676) [ **Code**](https://github.com/yyyujintang/PostRainBench) ![Stars](https://img.shields.io/github/stars/yyyujintang/PostRainBench)
 
 </div>
 </div>
@@ -71,12 +71,13 @@ PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting
 
 Zeying Gong, **Yujin Tang**, Junwei Liang
 
-[ **Paper**](https://arxiv.org/abs/2310.00655) [ **Code**](https://github.com/Zeying-Gong/PatchMixer)
+[ **Paper**](https://arxiv.org/abs/2310.00655) [ **Code**](https://github.com/Zeying-Gong/PatchMixer) ![Stars](https://img.shields.io/github/stars/Zeying-Gong/PatchMixer)
 
 </div>
 </div>
 
-experience
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
