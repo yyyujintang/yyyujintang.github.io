@@ -120,11 +120,15 @@ Course Project for MDS6004 Computer Vision: Deep Rectangling in Irregular Panora
 
 # 🔗 Resources  for CV Researchers
 
-[Sida Peng](https://scholar.google.com/citations?hl=zh-CN&user=l9NCksYAAAAJ): The Process of Finishing a Research Project [Link](https://github.com/pengsida/learning_research)
+[Sida Peng-ZJU](https://scholar.google.com/citations?hl=zh-CN&user=l9NCksYAAAAJ): The Process of Finishing a Research Project [Link](https://github.com/pengsida/learning_research)
 
-[Bolei Zhou](https://scholar.google.com/citations?hl=zh-CN&user=9D4aG8AAAAAJ): How to Make Posters for Top Conference Paper [Link](https://github.com/zhoubolei/bolei_awesome_posters)
+[Bolei Zhou-UCLA](https://scholar.google.com/citations?hl=zh-CN&user=9D4aG8AAAAAJ): How to Make Posters for Top Conference Paper [Link](https://github.com/zhoubolei/bolei_awesome_posters)
 
-[Yana Hasson](https://scholar.google.com/citations?hl=zh-CN&user=yhz7sFoAAAAJ): Useful Computer Vision PhD Resources [Link](https://github.com/hassony2/useful-computer-vision-phd-resources)
+[Yana Hasson-Inria](https://scholar.google.com/citations?hl=zh-CN&user=yhz7sFoAAAAJ): Useful Computer Vision PhD Resources [Link](https://github.com/hassony2/useful-computer-vision-phd-resources)
+
+[Bill Freeman-MIT](https://scholar.google.com/citations?user=0zZnyMEAAAAJ&hl=zh-CN): How to Write Papers [Link](https://faculty.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf)
+
+[Bill Freeman-MIT](https://scholar.google.com/citations?user=0zZnyMEAAAAJ&hl=zh-CN): Advice for Graduate Student  [Link](https://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf)
 
 **Thanks a lot to these generous people for sharing their valuable research experience!**
 
