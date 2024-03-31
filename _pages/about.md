@@ -112,11 +112,11 @@ AI4Weather Seminar: A Review on FourCastNet/Pangu/GraphCast/Climax/Fenwu [Slides
 
 Course Project for MDS6004 Computer Vision: Deep Rectangling in Irregular Panoramas [Slides](https://drive.google.com/file/d/14nIvXl9K_6RVN7hyPrUhap0ncVW73XHR/view?usp=sharing)
 
-[Computer Vision PhD Survival Guide Series(1) CV Paper Tracking and Writing](https://zhuanlan.zhihu.com/p/610774199)
+Computer Vision PhD Survival Guide Series(1) CV Paper Tracking and Writing [Link](https://zhuanlan.zhihu.com/p/610774199)
 
-[Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools](https://zhuanlan.zhihu.com/p/611491695)
+Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools  [Link](https://zhuanlan.zhihu.com/p/611491695)
 
-[Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command](https://zhuanlan.zhihu.com/p/676491841)
+Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command  [Link](https://zhuanlan.zhihu.com/p/676491841)
 
 # 🔗 Resources  for CV Researchers
 
