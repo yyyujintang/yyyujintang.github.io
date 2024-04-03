@@ -58,9 +58,7 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 [ **Paper**](https://arxiv.org/abs/2310.02676) [ **Code**](https://github.com/yyyujintang/PostRainBench) ![Stars](https://img.shields.io/github/stars/yyyujintang/PostRainBench)
 
 </div>
-</div
-
-
+</div>
 
 
 
@@ -89,6 +87,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
+
 
 
 # 📖 Educations
