@@ -18,9 +18,7 @@ redirect_from:
 
 I am now a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Prof.[Dahong Qian](https://scholar.google.com/citations?user=oymfXUIAAAAJ&hl=zh-C).
 
-My previous research experience  included Medical Image Analysis(Classification, Detection, Segmentation) and Face Recognition.
-
-At present, my research interest lies in  **Spatial-temporal Forecasting/Video Prediction, Time Series Forecasting and AI4Science(Medical, Climate, Finance, etc.)**.
+My previous research experience  included Medical Image Analysis(Classification, Detection, Segmentation) and Face Recognition, Spatial-temporal Forecasting/Video Prediction, Time Series Forecasting and AI4Science(Medical, Climate, Finance, etc.).
 
 I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Spring or 2025 Fall. Feel free to email me for cooperations or potential interviews.
 
@@ -60,7 +58,9 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 [ **Paper**](https://arxiv.org/abs/2310.02676) [ **Code**](https://github.com/yyyujintang/PostRainBench) ![Stars](https://img.shields.io/github/stars/yyyujintang/PostRainBench)
 
 </div>
-</div>
+</div
+
+
 
 
 
@@ -89,7 +89,6 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
-
 
 
 # 📖 Educations
