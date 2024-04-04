@@ -20,7 +20,7 @@ I am now a Research Assistant at AI Thrust, [The Hong Kong University of Science
 
 My previous research experience  included Medical Image Analysis(Classification, Detection, Segmentation) and Face Recognition, Spatial-temporal Forecasting/Video Prediction, Time Series Forecasting and AI4Science(Medical, Climate, Finance, etc.).
 
-I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Spring or 2025 Fall. Feel free to email me for cooperations or potential interviews.
+I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Spring or 2025 Fall. Feel free to email me(tangyujin0275@gmail.com) for cooperations or potential interviews.
 
 # 🔥 News
 
