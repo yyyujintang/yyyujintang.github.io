@@ -24,6 +24,7 @@ I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Sp
 
 # 🔥 News
 
+- *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by CVPR24 Precognition Workshop! 
 - *2024.03*: &nbsp;VMRNN was released. [Paper](https://arxiv.org/abs/2403.16536) [Code](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
 - *2024.03*: &nbsp;Yujin was invited to give a talk in CUHKSZ as the youngest graduate alumna in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
 - *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted as a spotlight paper by ICLR24 Workshop: Tackling Climate Change with Machine Learning! See you in Vienna!
@@ -34,7 +35,7 @@ I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Sp
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Precognition Workshop, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting
