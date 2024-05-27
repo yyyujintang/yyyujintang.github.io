@@ -22,6 +22,19 @@ My previous research experience  included Medical Image Analysis(Classification,
 
 I'm actively applying for US CS Ph.D. positions in 2025 Fall. Feel free to email me(tangyujin0275@gmail.com) for cooperations or potential interviews.
 
+# 📖 Educations
+
+- *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
+- *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
+
+# 💻 Internships
+
+- *2024.06 - now,* Remote Visiting Student @ UC Merced and Onsite Visiting Student @ Shanghai Jiao Tong University
+- *2023.02 - 2024.05,* Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
+- *2022.09 - 2023.01,* Quant Researcher Intern, Kunshan Technology / Kunteng Investment, Shenzhen
+- *2022.06 - 2023.08*, Algorithm Engineer Intern, Hikvision Research Institute, Hangzhou
+- *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
+
 # 🔥 News
 
 - *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPR24 Precognition Workshop](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)! See you in Seattle(Virtually)!
@@ -76,7 +89,6 @@ Zeying Gong, **Yujin Tang**, Junwei Liang
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -89,20 +101,6 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 </div>
 </div>
 
-
-
-# 📖 Educations
-
-- *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
-- *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
-
-# 💻 Internships
-
-- *2024.06 - now,* Remote Visiting Student @ UC Merced and Onsite Visiting Student @ Shanghai Jiao Tong University
-- *2023.02 - 2024.05,* Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
-- *2022.09 - 2023.01,* Quant Researcher Intern, Kunshan Technology / Kunteng Investment, Shenzhen
-- *2022.06 - 2023.08*, Algorithm Engineer Intern, Hikvision Research Institute, Hangzhou
-- *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
 
 # 📕 Notes
 
