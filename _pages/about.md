@@ -16,11 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Prof.[Dahong Qian](https://scholar.google.com/citations?user=oymfXUIAAAAJ&hl=zh-C).
+I am now a visiting student working with Prof. [Ming-Husan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Prof.[Dahong Qian](https://scholar.google.com/citations?user=oymfXUIAAAAJ&hl=zh-C).
 
-My previous research experience  included Medical Image Analysis(Classification, Detection, Segmentation) and Face Recognition, Spatial-temporal Forecasting/Video Prediction, Time Series Forecasting and AI4Science(Medical, Climate, Finance, etc.).
+My previous research experience  included Medical Image Analysis(Classification, Detection, Segmentation) and Face Recognition, **Spatial-temporal Forecasting/Video Prediction**, **Time Series Forecasting** and AI4Science(Medical, Climate, Finance, etc.).
 
-I'm actively applying for CS/CV internships, RAs  and Ph.D. positions in 2025 Spring or 2025 Fall. Feel free to email me(tangyujin0275@gmail.com) for cooperations or potential interviews.
+I'm actively applying for US CS Ph.D. positions in 2025 Fall. Feel free to email me(tangyujin0275@gmail.com) for cooperations or potential interviews.
 
 # 🔥 News
 
@@ -98,7 +98,8 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 # 💻 Internships
 
-- *2023.02 - now,* Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
+- *2024.06 - now,* Remote Visiting Student @ UC Merced and Onsite Visiting Student @ Shanghai Jiao Tong University
+- *2023.02 - 2024.05,* Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
 - *2022.09 - 2023.01,* Quant Researcher Intern, Kunshan Technology / Kunteng Investment, Shenzhen
 - *2022.06 - 2023.08*, Algorithm Engineer Intern, Hikvision Research Institute, Hangzhou
 - *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
