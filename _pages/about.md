@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a visiting student working with Prof. [Ming-Husan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Prof.[Dahong Qian](https://scholar.google.com/citations?user=oymfXUIAAAAJ&hl=zh-C).
+I am now a Visiting Student working with Prof. [Ming-Husan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Prof.[Dahong Qian](https://scholar.google.com/citations?user=oymfXUIAAAAJ&hl=zh-C).
 
 My previous research experience  included Medical Image Analysis(Classification, Detection, Segmentation) and Face Recognition, **Spatial-temporal Forecasting/Video Prediction**, **Time Series Forecasting** and AI4Science(Medical, Climate, Finance, etc.).
 
@@ -89,6 +89,7 @@ Zeying Gong, **Yujin Tang**, Junwei Liang
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -100,6 +101,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
+
 
 
 # 📕 Notes
