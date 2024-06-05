@@ -37,6 +37,7 @@ I'm actively applying for US CS Ph.D. positions in 2025 Fall. Feel free to email
 
 # 🔥 News
 
+- *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAI24 DSO Workshop](https://sites.google.com/view/ijcai-2024-dso-workshop)!
 - *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPR24 Precognition Workshop](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)! See you in Seattle(Virtually)!
 - *2024.03*: &nbsp;VMRNN was released. [Paper](https://arxiv.org/abs/2403.16536) [Code](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
 - *2024.03*: &nbsp;Yujin was invited to give a talk in CUHKSZ as the youngest graduate alumna in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
@@ -76,7 +77,7 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2023</div><img src='images/PatchMixer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI DSO Workshop, 2024</div><img src='images/PatchMixer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting
@@ -101,6 +102,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
+
 
 
 # 📕 Notes
