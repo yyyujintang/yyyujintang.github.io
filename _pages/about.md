@@ -22,7 +22,7 @@ My previous research experience included Time Series Forecasting(1D), Medical Im
 
 My Long-Term Research Interest lies in:
 
-* Next Generation Vision Backbone Design (Based on State Space Models like Mamba, Mamba-2, etc.)
+* Next Generation Vision Backbone Design
 * Video Large Language Models (VLM)
 
 Hope we can have better Video Understanding and Prediction ability with LLM and accelerate the coming of AGI!
@@ -97,7 +97,6 @@ Zeying Gong, **Yujin Tang**, Junwei Liang
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -109,7 +108,6 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
-
 
 
 # 📕 Notes
