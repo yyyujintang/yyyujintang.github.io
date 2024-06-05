@@ -18,9 +18,16 @@ redirect_from:
 
 I am now a Visiting Student working with Prof. [Ming-Husan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by Prof.[Dahong Qian](https://scholar.google.com/citations?user=oymfXUIAAAAJ&hl=zh-C).
 
-My previous research experience  included Medical Image Analysis(Classification, Detection, Segmentation) and Face Recognition, **Spatial-temporal Forecasting/Video Prediction**, **Time Series Forecasting** and AI4Science(Medical, Climate, Finance, etc.).
+My previous research experience included Time Series Forecasting(1D), Medical Image Analysis & Face Recognition(2D), Video Prediction(3D).
 
-I'm actively applying for US CS Ph.D. positions in 2025 Fall. Feel free to email me(tangyujin0275@gmail.com) for cooperations or potential interviews.
+My Incoming Ph.D. and Long-Term Research Interest lies in:
+
+* Next Generation Vision Backbone Design (Based on State Space Models like Mamba, Mamba-2, etc.)
+* Video Large Language Models (VLM)
+
+Hope we can have better Video Understanding and Prediction ablity with LLM and accelerate the coming of AGI!
+
+I'm actively applying for US CS Ph.D. positions in 2025 Fall. Feel free to email me for cooperations or potential interviews.
 
 # 📖 Educations
 
