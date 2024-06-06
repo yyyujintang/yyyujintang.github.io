@@ -109,7 +109,9 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 [ **Paper**](https://www.researchgate.net/profile/Cheng_Yuan23/publication/345259179_Ovarian_Cancer_Prediction_in_Proteomic_Data_Using_Stacked_Asymmetric_Convolution/links/6076b0d192851cb4a9dc6f77/Ovarian-Cancer-Prediction-in-Proteomic-Data-Using-Stacked-Asymmetric-Convolution.pd)
 
 </div>
-</div
+</div>
+
+
 
 
 
