@@ -112,11 +112,6 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 </div>
 
 
-
-
-
-
-
 # 📕 Notes
 
 Diffusion Model Seminar: A Review on Diffusion Models and It's Application in Spatiotemporal Forecasting [Slides](https://drive.google.com/file/d/1_go7vLO6bUg0nBfXFSJkkq_vZOUYHwI6/view?usp=sharing)
