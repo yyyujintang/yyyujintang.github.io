@@ -27,7 +27,7 @@ My Long-Term Research Interest lies in:
 
 Hope we can have better Video Understanding and Prediction ability with LLM and accelerate the coming of AGI!
 
-I'm actively applying for US CS Ph.D. positions in 2025 Fall. Feel free to email me for cooperations or potential interviews.
+I'm actively applying for US CS Ph.D. positions in 2025 Fall. Feel free to email me for academic cooperations or potential interviews.
 
 # 📖 Educations
 
@@ -44,7 +44,7 @@ I'm actively applying for US CS Ph.D. positions in 2025 Fall. Feel free to email
 
 # 🔥 News
 
-- *2024.06*:&nbsp;Yujin created Awesome-VideoLLM-Papers repository and keep updating it. [Link](https://github.com/yyyujintang/Awesome-VideoLLM-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
+- *2024.06*:&nbsp;Yujin created Awesome-VideoLLM-Papers repository and keep updating it. [Link](https://github.com/yyyujintang/Awesome-VideoLLM-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-VideoLLM-Papers)
 - *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAI24 DSO Workshop](https://sites.google.com/view/ijcai-2024-dso-workshop)!
 - *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPR24 Precognition Workshop](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)! See you in Seattle(Virtually)!
 - *2024.03*: &nbsp;Yujin was invited to give a talk in CUHKSZ in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
