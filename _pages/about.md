@@ -44,14 +44,13 @@ I'm actively applying for US CS Ph.D. positions in 2025 Fall. Feel free to email
 
 # 🔥 News
 
+- *2024.06*:&nbsp;Yujin created Awesome-VideoLLM-Papers repository and keep updating it. [Link](https://github.com/yyyujintang/Awesome-VideoLLM-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
 - *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAI24 DSO Workshop](https://sites.google.com/view/ijcai-2024-dso-workshop)!
 - *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPR24 Precognition Workshop](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)! See you in Seattle(Virtually)!
-- *2024.03*: &nbsp;VMRNN was released. [Paper](https://arxiv.org/abs/2403.16536) [Code](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
-- *2024.03*: &nbsp;Yujin was invited to give a talk in CUHKSZ as the youngest graduate alumna in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
+- *2024.03*: &nbsp;Yujin was invited to give a talk in CUHKSZ in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
 - *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted by [ICLR24 Workshop: Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/iclr2024)! See you in Vienna!
 - *2024.01*: &nbsp;Yujin created Awesome-Mamba-Papers repository and keep updating it. [Link](https://github.com/yyyujintang/Awesome-Mamba-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
-- *2023.11*: &nbsp;Yujin graduated from CUHKSZ with a master's degree in Data Science!
-- *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge, ranking 6th over 1000+ teams after first round, second round and final as the only single-person team even without atmosphere background! [Slides](https://docs.google.com/presentation/d/1NTxQQr-b-zcBdQkIx42IhUKVZgKbo5U7QDIxCo0q-Qw/edit?usp=sharing)
+- *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge! [Slides](https://docs.google.com/presentation/d/1NTxQQr-b-zcBdQkIx42IhUKVZgKbo5U7QDIxCo0q-Qw/edit?usp=sharing)
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
 
 # 📝 Publications
@@ -66,7 +65,9 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 [ **Paper**](https://arxiv.org/abs/2403.16536) [ **Code**](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
 
 </div>
-</div>
+</div
+
+
 
 
 
@@ -108,7 +109,9 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 [ **Paper**](https://www.researchgate.net/profile/Cheng_Yuan23/publication/345259179_Ovarian_Cancer_Prediction_in_Proteomic_Data_Using_Stacked_Asymmetric_Convolution/links/6076b0d192851cb4a9dc6f77/Ovarian-Cancer-Prediction-in-Proteomic-Data-Using-Stacked-Asymmetric-Convolution.pd)
 
 </div>
-</div>
+</div
+
+
 
 
 
@@ -127,6 +130,10 @@ Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools  [Li
 Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command  [Link](https://zhuanlan.zhihu.com/p/676491841)
 
 # 🔗 Resources  for CV Researchers
+
+[Ming-Hsuan Yang-UCM](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): How to Get Your CVPR Paper Rejected? [Link](https://vision.sjtu.edu.cn/files/How-to-get-your-CVPR-paper-rejected.pdf)
+
+[Chao Ma-SJTU](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): Research and Writing Tips for Computer Vision Researchers [Link](https://vision.sjtu.edu.cn/writing.html)
 
 [Sida Peng-ZJU](https://scholar.google.com/citations?hl=zh-CN&user=l9NCksYAAAAJ): The Process of Finishing a Research Project [Link](https://github.com/pengsida/learning_research)
 
