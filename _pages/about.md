@@ -27,7 +27,7 @@ My Long-Term Research Interest lies in:
 
 Hope we can have better Video Understanding and Prediction ability with LLM and accelerate the coming of AGI!
 
-*'She is a first-generation college student born in a small city in western China who grew up against adversity. She constantly overcomes environmental resistance, builds a strong spiritual core, and pushes herself to grow and progress with self-drive and self-discipline. She has tremendous leadership and vitality and has inspired thousands of people. Thinking before practice, iterating quickly in action, she aims to make beneficial changes to the world with artificial intelligence and promote social justice.'*
+*'She is a first-generation college student born in a small city in western China who grew up against adversity. She constantly overcomes environmental resistance, builds a strong spiritual core, and pushes herself to grow and progress with self-drive and self-discipline. She has tremendous leadership and vitality and has inspired thousands of people. Thinking before practice, iterating quickly in action, she aims to make beneficial changes to the world with artificial intelligence and promote social equity.'*
 
 I'm actively applying for US CS Ph.D. positions in 2025 Fall. Feel free to email me for academic cooperations or potential interviews.
 
@@ -99,6 +99,8 @@ Zeying Gong, **Yujin Tang**, Junwei Liang
 
 
 
+=
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -112,6 +114,8 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 </div>
 
 
+
+=
 
 # 📕 Notes
 
