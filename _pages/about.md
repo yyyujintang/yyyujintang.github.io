@@ -27,8 +27,6 @@ My Long-Term Research Interest lies in:
 
 Hope we can have better Video Understanding and Prediction ability with LLM and accelerate the coming of AGI!
 
-*'She is a first-generation college student born in a small city in western China. She constantly overcomes environmental resistance, builds a strong spiritual core, and pushes herself to grow and progress with self-drive and self-discipline. Thinking before practice, iterating quickly in action, she aims to make beneficial changes to the world with artificial intelligence and promote social equity.'*
-
 I'm actively applying for US CS Ph.D. positions in 2025 Fall. Feel free to email me for academic cooperations or potential interviews.
 
 # 📖 Educations
@@ -98,6 +96,7 @@ Zeying Gong, **Yujin Tang**, Junwei Liang
 </div>
 
 
+
 =
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
@@ -111,6 +110,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
+
 
 
 =
@@ -144,5 +144,7 @@ Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux 
 [Bill Freeman-MIT](https://scholar.google.com/citations?user=0zZnyMEAAAAJ&hl=zh-CN): How to Write Papers [Link](https://faculty.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf) Advice for Graduate Student  [Link](https://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf)
 
 **Thanks a lot to these generous people for sharing their valuable research experience!**
+
+'She is a first-generation college student born in a small city in western China. She constantly overcomes environmental resistance, builds a strong spiritual core, and pushes herself to grow and progress with self-drive and self-discipline. Thinking before practice, iterating quickly in action, she aims to make beneficial changes to the world with artificial intelligence and promote social equity.'
 
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
