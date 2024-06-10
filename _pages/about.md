@@ -22,8 +22,8 @@ My previous research experience included Time Series Forecasting(1D), Medical Im
 
 My Long-Term Research Interest lies in:
 
-* Next Generation Vision Backbone Design
-* Video Large Language Models (VLM)
+* Next Generation Vision and Video Backbone Design
+* Video Large Language Models (VLLM)
 
 Hope we can have better Video Understanding and Prediction ability with LLM and accelerate the coming of Video's GPT4 moment, when machines can do reasoning with video and chain-of-thought with video.
 
