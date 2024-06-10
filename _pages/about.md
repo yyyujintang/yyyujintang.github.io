@@ -20,9 +20,10 @@ I am now a Visiting Student working with Prof. [Ming-Husan Yang](https://scholar
 
 My previous research experience included Time Series Forecasting(1D), Medical Image Analysis and Face Recognition(2D), Video Prediction(3D).
 
-My Long-Term Research Interest lies in:
+My Long-Term Research Interests lie in:
 
-* Next Generation Vision and Video Backbone Design
+* Next Generation Vision Backbone Design
+* Next Generation Video Backbone Design
 * Video Large Language Models (VLLM)
 
 Hope we can have better Video Understanding and Prediction ability with LLM and accelerate the coming of Video's GPT4 moment, when machines can do reasoning with video and chain-of-thought with video.
