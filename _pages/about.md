@@ -68,9 +68,6 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 </div>
 
 
-
-machines will be able to do reasoning with video, chain-of-thought with video
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop, 2024</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -98,7 +95,6 @@ Zeying Gong, **Yujin Tang**, Junwei Liang
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -110,7 +106,6 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
-
 
 
 # 📕 Notes
