@@ -22,6 +22,7 @@ My previous research experience included Time Series Forecasting(1D), Medical Im
 
 My Long-Term Research Interests lie in:
 
+* Video Prediction
 * Next Generation Vision Backbone Design
 * Video Large Language Models (VLLM)
 
@@ -82,6 +83,7 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI DSO Workshop, 2024</div><img src='images/PatchMixer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -95,6 +97,7 @@ Zeying Gong, **Yujin Tang**, Junwei Liang
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -106,6 +109,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
+
 
 
 # 📕 Notes
@@ -122,11 +126,15 @@ Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools  [Li
 
 Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command  [Link](https://zhuanlan.zhihu.com/p/676491841)
 
+# ❄️ Friends
+
+[Zhenheng Tang](https://zhuanlan.zhihu.com/p/611491695) @ NUS, [Qian Wang](https://zhuanlan.zhihu.com/p/611491695) @ NUS, [Qian Wang](https://zhuanlan.zhihu.com/p/611491695) @ NUS, [Qian Wang](https://zhuanlan.zhihu.com/p/611491695) @ NUS
+
 # 🔗 Resources  for CV Researchers
 
 [Ming-Hsuan Yang-UCM](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): How to Get Your CVPR Paper Rejected? [Link](https://vision.sjtu.edu.cn/files/How-to-get-your-CVPR-paper-rejected.pdf)
 
-[Chao Ma-SJTU](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): Research and Writing Tips for Computer Vision Researchers [Link](https://vision.sjtu.edu.cn/writing.html)
+[Chao Ma-SJTU](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): (Collection) Research and Writing Tips for Computer Vision Researchers [Link](https://vision.sjtu.edu.cn/writing.html)
 
 [Sida Peng-ZJU](https://scholar.google.com/citations?hl=zh-CN&user=l9NCksYAAAAJ): The Process of Finishing a Research Project [Link](https://github.com/pengsida/learning_research)
 
@@ -135,6 +143,8 @@ Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux 
 [Yana Hasson-Inria](https://scholar.google.com/citations?hl=zh-CN&user=yhz7sFoAAAAJ): Useful Computer Vision PhD Resources [Link](https://github.com/hassony2/useful-computer-vision-phd-resources)
 
 [Bill Freeman-MIT](https://scholar.google.com/citations?user=0zZnyMEAAAAJ&hl=zh-CN): How to Write Papers [Link](https://faculty.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf) Advice for Graduate Student  [Link](https://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf)
+
+[Wensheng Dou](https://scholar.google.com/citations?user=NYHyagEAAAAJ): (Collection) Advice for postgraduate students [Link](http://www.tcse.cn/~wsdou/advice.html)
 
 **Thanks a lot to these generous people for sharing their valuable research experience!**
 
