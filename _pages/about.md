@@ -31,10 +31,8 @@ My Long-Term Research Interests lie in:
 
 Hope we can have better Video Understanding and Prediction ability with LLM and accelerate the coming of Video's GPT4 moment, when machines can do reasoning with video and chain-of-thought with video.
 
-
 </div>
 </div>
-
 
 
 
@@ -109,7 +107,6 @@ Zeying Gong, **Yujin Tang**, Junwei Liang
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI, 2020</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -138,7 +135,7 @@ Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools  [Li
 
 Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command  [Link](https://zhuanlan.zhihu.com/p/676491841)
 
-# 🔗 Resources  for CV Researchers
+# 🔗 Resources for CV Researchers
 
 [Ming-Hsuan Yang-UCM](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): How to Get Your CVPR Paper Rejected? [Link](https://vision.sjtu.edu.cn/files/How-to-get-your-CVPR-paper-rejected.pdf)
 
