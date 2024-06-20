@@ -26,6 +26,18 @@ My Long-Term Research Interests lie in:
 * Next Generation Vision Backbone Design (SSM, Mamba, Linear Attention, etc.)
 * Video Large Language Models (VLLM)
 
+
+
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align: center;">
+        <img src='images/VMRNN_Cell.png' alt="sym" style="width: 50%; margin: 0 auto;">
+    </div>
+    <div class='paper-box-text' markdown="1">
+        <!-- 这里可以放一些文字内容，如果不需要可以留空 -->
+    </div>
+</div
+
+
 Hope we can have better Video Understanding and Prediction ability with LLM and accelerate the coming of Video's GPT4 moment, when machines can do reasoning with video and chain-of-thought with video.
 
 I'm actively applying for CS Ph.D. positions in 2025 Fall. Feel free to email me for academic cooperations or potential interviews.
