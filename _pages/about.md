@@ -36,7 +36,11 @@ Hope we can have better Video Understanding and Prediction ability with LLM and 
 </div>
 
 
-I'm actively applying for CS Ph.D. positions in 2025 Fall. Feel free to email me for academic cooperations or potential interviews.
+
+
+<div style="color: red;">
+    I'm actively applying for CS Ph.D. positions in 2025 Fall. Feel free to email me for academic cooperations or potential interviews.
+</div>
 
 # 📖 Educations
 
