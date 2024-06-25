@@ -22,9 +22,9 @@ My previous research experience included Time Series Forecasting(1D), Medical Im
 
 My Long-Term Research Interests lie in:
 
-* Video Prediction
-* Next Generation Vision Backbone Design (SSM, Mamba, Linear Attention, etc.)
-* Video Large Language Models (VLLM)
+* Next Generation Vision and Video Backbone Design (SSM, Mamba, Linear Attention, Token Design)
+* Video Centered Reseach(Understanding, Generation, Editing, Prediction, Quality Assesment, Human Pose)
+* Video Large Language Models (VideoLLM)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VIVID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -117,7 +117,6 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
-
 
 
 # 📕 Notes
