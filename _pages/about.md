@@ -26,7 +26,7 @@ My Long-Term Research Interests lie in:
 * Video Centered Reseach(Understanding, Generation, Editing, Prediction, Quality Assesment, Human Pose)
 * Video Large Language Models (VideoLLM)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VIVID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VIVID_Lab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Hope we can have better Video Understanding and Prediction ability with LLM and accelerate the coming of Video's GPT4 moment, when machines can do reasoning with Video and Chain-of-Thought with Video.
