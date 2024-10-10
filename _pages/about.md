@@ -40,25 +40,14 @@ Hope we can have better Video Understanding and Prediction ability with LLM and 
     I'm actively applying for CS Ph.D. positions in 2025 Fall. Feel free to email me for academic cooperations or potential interviews.
 </div>
 
-# 📖 Educations
-
-- *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
-- *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
-
-# 💻 Internships
-
-- *2024.06 - now,* Remote Visiting Student @ UC Merced and Onsite Visiting Student @ Shanghai Jiao Tong University
-- *2023.02 - 2024.05,* Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
-- *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
-
 # 🔥 News
 
 - *2024.10*: &nbsp;PredFormer is available! `<span style="color: red;">` **This is the first pure-vit based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free**. PredFormer outperforms previous models by large margins with superior efficiency.
 - *2024.06*:&nbsp;Yujin created Awesome-VideoLLM-Papers repository and keep updating it. [Link](https://github.com/yyyujintang/Awesome-VideoLLM-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-VideoLLM-Papers)
 - *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAI24 DSO Workshop](https://sites.google.com/view/ijcai-2024-dso-workshop)!
-- *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPR24 Precognition Workshop](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)! See you in Seattle(Virtually)!
+- *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPR24 Precognition Workshop](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)!
 - *2024.03*: &nbsp;Yujin was invited to give a talk in CUHKSZ in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
-- *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted by [ICLR24 Workshop: Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/iclr2024)! See you in Vienna!
+- *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted by [ICLR24 Workshop: Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/iclr2024)!
 - *2024.01*: &nbsp;Yujin created Awesome-Mamba-Papers repository and keep updating it. `<span style="color: red;">` **This is the first Awesome Mamba repository and promotes Mamba related research**. [Link](https://github.com/yyyujintang/Awesome-Mamba-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
 - *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge! [Slides](https://docs.google.com/presentation/d/1NTxQQr-b-zcBdQkIx42IhUKVZgKbo5U7QDIxCo0q-Qw/edit?usp=sharing)
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
@@ -106,7 +95,6 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI DSO Workshop, 2024</div><img src='images/PatchMixer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -134,6 +122,16 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 </div>
 
 
+# 📖 Educations
+
+- *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
+- *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
+
+# 💻 Internships
+
+- *2024.06 - now,* Remote Visiting Student @ UC Merced and Onsite Visiting Student @ Shanghai Jiao Tong University
+- *2023.02 - 2024.05,* Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
+- *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
 
 # 📕 Notes
 
@@ -162,8 +160,6 @@ Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux 
 [Yana Hasson-Inria](https://scholar.google.com/citations?hl=zh-CN&user=yhz7sFoAAAAJ): Useful Computer Vision PhD Resources [Link](https://github.com/hassony2/useful-computer-vision-phd-resources)
 
 [Bill Freeman-MIT](https://scholar.google.com/citations?user=0zZnyMEAAAAJ&hl=zh-CN): How to Write Papers [Link](https://faculty.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf) Advice for Graduate Student  [Link](https://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf)
-
-[Wensheng Dou](https://scholar.google.com/citations?user=NYHyagEAAAAJ): (Collection) Advice for postgraduate students [Link](http://www.tcse.cn/~wsdou/advice.html)
 
 **Thanks a lot to these generous people for sharing their valuable research experience!**
 
