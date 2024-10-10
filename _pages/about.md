@@ -53,7 +53,7 @@ Hope we can have better Video Understanding and Prediction ability with LLM and 
 
 # 🔥 News
 
-- *2024.10*: &nbsp;PredFormer is available! This is the first pure-vit based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free. PredFormer outperforms previous models by large margins with superior efficiency.
+- *2024.10*: &nbsp;PredFormer is available! `<span style="color: red;">` **This is the first pure-vit based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free**. PredFormer outperforms previous models by large margins with superior efficiency.
 - *2024.06*:&nbsp;Yujin created Awesome-VideoLLM-Papers repository and keep updating it. [Link](https://github.com/yyyujintang/Awesome-VideoLLM-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-VideoLLM-Papers)
 - *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAI24 DSO Workshop](https://sites.google.com/view/ijcai-2024-dso-workshop)!
 - *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPR24 Precognition Workshop](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)! See you in Seattle(Virtually)!
