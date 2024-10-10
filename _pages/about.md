@@ -22,8 +22,8 @@ My previous research experience included Time Series Forecasting(1D), Medical Im
 
 My Long-Term Research Interests lie in:
 
-* Next Generation Vision and Video Backbone Design (SSM, Mamba, Linear Attention, Token Design)
-* Video Centered Reseach(Understanding, Generation, Editing, Prediction, Quality Assesment, Human Pose)
+* Video Backbone Design (Transformer, SSM, Mamba, Linear Attention, Token Design)
+* Video Centered Downstream Reseach(Understanding, Generation, Editing, Prediction, Quality Assesment, Human Pose)
 * Video Large Language Models (VideoLLM)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VIVID_Lab.png' alt="sym" width="100%"></div></div>
@@ -53,6 +53,7 @@ Hope we can have better Video Understanding and Prediction ability with LLM and 
 
 # 🔥 News
 
+- *2024.10*: &nbsp;PredFormer is available! This is the first pure-vit based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free. PredFormer outperforms previous models by large margins with superior efficiency.
 - *2024.06*:&nbsp;Yujin created Awesome-VideoLLM-Papers repository and keep updating it. [Link](https://github.com/yyyujintang/Awesome-VideoLLM-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-VideoLLM-Papers)
 - *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAI24 DSO Workshop](https://sites.google.com/view/ijcai-2024-dso-workshop)!
 - *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPR24 Precognition Workshop](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)! See you in Seattle(Virtually)!
@@ -63,6 +64,24 @@ Hope we can have better Video Understanding and Prediction ability with LLM and 
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
 
 # 📝 Publications
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners
+
+**Yujin Tang**, Lu Qi, Fei Xie, Xiangtai Li, Chao Ma, Ming-Hsuan Yang
+
+[ **Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
+
+</div>
+</div>
+
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Precognition Workshop, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -117,6 +136,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
+
 
 
 # 📕 Notes
