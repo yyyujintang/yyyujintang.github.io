@@ -66,7 +66,7 @@ Hope we can have better Video Understanding and Prediction ability with LLM and 
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2024</div><img src='images/PredFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners
