@@ -20,15 +20,15 @@ I am now a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar
 
 My previous research experience included Spatial-Temporal Forcasting(Video Prediction), Weather Forecasting, Time Series Forecasting and Medical Image Analysis.
 
-<div style="color: red;">
-    Representative Work: PredFormer, VMRNN, Awesome-Mamba-Papers
-</div>
-
 My Long-Term Research Interests lie in:
 
 * General Video Backbone Design (CNN, Transformer, SSM, Mamba, Linear Attention, Token Design)
 * Video Centered Reseach(Prediction, Understanding, Generation, Editing)
 * AI4Science(Weather Forecasting, Healthcare)
+
+<div style="color: red;">
+    Representative Work: PredFormer, VMRNN, Awesome-Mamba-Papers
+</div>
 
 <div style="color: red;">
     I'm actively applying for CS Ph.D. positions in 2025 Fall. Feel free to email me for academic cooperations or potential interviews.
