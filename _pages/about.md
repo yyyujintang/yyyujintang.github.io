@@ -22,9 +22,9 @@ My previous research experience included Spatial-Temporal Forcasting(Video Predi
 
 My Long-Term Research Interests lie in:
 
-* Video Backbone Design (Transformer, SSM, Mamba, Linear Attention, Token Design)
-* Video Centered Downstream Reseach(Understanding, Prediction, Generation, Editing)
-* Video Large Language Models (VideoLLM)
+* General Video Backbone Design (CNN, Transformer, SSM, Mamba, Linear Attention, Token Design)
+* Video Centered Reseach(Prediction, Understanding, Generation, Editing)
+* AI4Science(Weather Forecasting, Healthcare)
 
 <div style="color: red;">
     I'm actively applying for CS Ph.D. positions in 2025 Fall. Feel free to email me for academic cooperations or potential interviews.
