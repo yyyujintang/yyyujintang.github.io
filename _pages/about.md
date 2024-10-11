@@ -23,18 +23,8 @@ My previous research experience included Spatial-Temporal Forcasting(Video Predi
 My Long-Term Research Interests lie in:
 
 * Video Backbone Design (Transformer, SSM, Mamba, Linear Attention, Token Design)
-* Video Centered Downstream Reseach(Understanding, Generation, Editing, Prediction, Quality Assesment, Human Pose)
+* Video Centered Downstream Reseach(Understanding, Prediction, Generation, Editing)
 * Video Large Language Models (VideoLLM)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/VIVID_Lab.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Hope we can have better Video Understanding and Prediction ability with LLM and accelerate the coming of Video's GPT4 moment, when machines can do reasoning with Video and Chain-of-Thought with Video.
-
-</div>
-</div>
-
-
 
 <div style="color: red;">
     I'm actively applying for CS Ph.D. positions in 2025 Fall. Feel free to email me for academic cooperations or potential interviews.
@@ -47,11 +37,11 @@ Hope we can have better Video Understanding and Prediction ability with LLM and 
 - *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPR24 Precognition Workshop](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)!
 - *2024.03*: &nbsp;Yujin was invited to give a talk in CUHKSZ in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
 - *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted by [ICLR24 Workshop: Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/iclr2024)!
-- *2024.01*: &nbsp;Yujin created Awesome-Mamba-Papers repository and keep updating it. **This is the first Awesome Mamba repository and promotes Mamba related research**. [Link](https://github.com/yyyujintang/Awesome-Mamba-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers) 
+- *2024.01*: &nbsp;Yujin created Awesome-Mamba-Papers repository and keep updating it. **This is the first Awesome Mamba repository and promotes Mamba related research**. [Link](https://github.com/yyyujintang/Awesome-Mamba-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
 - *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge! [Slides](https://docs.google.com/presentation/d/1NTxQQr-b-zcBdQkIx42IhUKVZgKbo5U7QDIxCo0q-Qw/edit?usp=sharing)
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
 
-# 📝 Publications
+# 📝 Publication & PrePrint
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2024</div><img src='images/PredFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,6 +84,7 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI DSO Workshop, 2024</div><img src='images/PatchMixer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -119,6 +110,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 </div>
 </div>
+
 
 
 # 📖 Educations
