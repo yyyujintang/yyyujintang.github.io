@@ -27,7 +27,7 @@ My Long-Term Research Interests lie in:
 * AI4Science(Weather Forecasting, Healthcare)
 
 <div style="color: red;">
-    Representative Work: PredFormer, VMRNN, Awesome-Mamba-Papers
+    Representative Work: PredFormer(Under Review), VMRNN(CVPRW24), Awesome-Mamba-Papers(1.1k+ Stars).
 </div>
 
 <div style="color: red;">
