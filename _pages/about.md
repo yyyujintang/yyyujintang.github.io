@@ -143,7 +143,7 @@ Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools  [Li
 Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command  [Link](https://zhuanlan.zhihu.com/p/676491841)
 
 <div style="color: red;">
-   [Strongly Recommend] Successful Ph.D Journey: Arts, Methods and Reward System [Link](https://zhuanlan.zhihu.com/p/96078163)
+   [Strongly Recommend] Successful Ph.D Journey: Arts, Methods and Reward System [Link](https://zhuanlan.zhihu.com/p/960781637)
 </div>
 
 # 🔗 Resources for CV Researchers
