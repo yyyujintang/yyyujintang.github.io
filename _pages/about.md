@@ -142,6 +142,10 @@ Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools  [Li
 
 Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command  [Link](https://zhuanlan.zhihu.com/p/676491841)
 
+<div style="color: red;">
+   [Strongly Recommend] Successful Ph.D Journey: Arts, Methods and Reward System [Link](https://zhuanlan.zhihu.com/p/96078163)
+</div>
+
 # 🔗 Resources for CV Researchers
 
 [Ming-Hsuan Yang-UCM](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): How to Get Your CVPR Paper Rejected? [Link](https://vision.sjtu.edu.cn/files/How-to-get-your-CVPR-paper-rejected.pdf)
