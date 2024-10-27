@@ -24,7 +24,7 @@ My Long-Term Research Interests lie in:
 
 * Spatial-Temporal Modeling
 * Time Series Forecasting
-* AI4Science (AI+Weather/Climate/Energy/Electricity/Finance)
+* AI4Science (AI+Weather/Climate/Illness/Electricity/Finance, etc)
 
 <div style="color: red;">
     Representative Work: PredFormer(Under Review), VMRNN(CVPRW24), Awesome-Mamba-Papers(1.1k+ Stars).
