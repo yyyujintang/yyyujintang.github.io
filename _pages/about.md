@@ -18,13 +18,17 @@ redirect_from:
 
 I am now a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I am working closely with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en), Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **Tiktok** and Dr. [Fei Xie](https://scholar.google.com/citations?user=GbGmwiwAAAAJ&hl=zh-CN) at **SJTU**. I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master's degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
-My previous research experience included Spatial-Temporal Forcasting(Video Prediction), Weather Forecasting, Time Series Forecasting and Medical Image Analysis.
+My previous research experience included Spatial-Temporal Forcasting, Weather Forecasting, Time Series Forecasting and Medical Image Analysis.
 
-My Long-Term Research Interests lie in:
+My long-term research interests lie in:
 
 * Spatial-Temporal Modeling
 * Time Series Forecasting
 * AI4Science (AI+Weather/Climate/Illness/Electricity/Finance, etc)
+
+<div style="color: red;">
+    'A wise person sees what is coming before it happens.'
+</div>
 
 <div style="color: red;">
     Representative Work: PredFormer(Under Review), VMRNN(CVPRW24), Awesome-Mamba-Papers(1.1k+ Stars).
