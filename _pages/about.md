@@ -22,9 +22,9 @@ My previous research experience included Spatial-Temporal Forcasting(Video Predi
 
 My Long-Term Research Interests lie in:
 
-* General Video Backbone Design (CNN, Transformer, SSM, Mamba, Linear Attention, Token Design)
-* Video Centered Reseach(Prediction, Understanding, Generation, Editing)
-* AI4Science(Weather Forecasting, Healthcare)
+* Spatial-Temporal Modeling
+* Time Series Forecasting
+* AI4Science(AI+Weather/Climate)
 
 <div style="color: red;">
     Representative Work: PredFormer(Under Review), VMRNN(CVPRW24), Awesome-Mamba-Papers(1.1k+ Stars).
@@ -68,7 +68,7 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 
 **Yujin Tang**, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang
 
-[ **Paper**](https://arxiv.org/abs/2403.16536) [ **Code**](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch) 
+[ **Paper**](https://arxiv.org/abs/2403.16536) [ **Code**](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
 
 </div>
 </div>
