@@ -41,10 +41,10 @@ My long-term research interests lie in:
 # 🔥 News
 
 - *2024.10*: &nbsp;PredFormer is available!  This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. [**Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
-- *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAI24 DSO Workshop](https://sites.google.com/view/ijcai-2024-dso-workshop)!
-- *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPR24 Precognition Workshop](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)!
+- *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAIW24](https://sites.google.com/view/ijcai-2024-dso-workshop)!
+- *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPRW24](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)!
 - *2024.03*: &nbsp;Yujin was invited to give a talk in CUHKSZ in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
-- *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted by [ICLR24 Workshop: Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/iclr2024)!
+- *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted by [ICLRW24](https://www.climatechange.ai/events/iclr2024)!
 - *2024.01*: &nbsp;Yujin created Awesome-Mamba-Papers repository and keep updating it. **This is the first Awesome Mamba repository and promotes Mamba related research**. [Link](https://github.com/yyyujintang/Awesome-Mamba-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
 - *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge! [Slides](https://docs.google.com/presentation/d/1NTxQQr-b-zcBdQkIx42IhUKVZgKbo5U7QDIxCo0q-Qw/edit?usp=sharing)
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
