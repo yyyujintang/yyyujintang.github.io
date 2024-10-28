@@ -31,7 +31,7 @@ My long-term research interests lie in:
 </div>
 
 <div style="color: red;">
-    Representative Work: PredFormer(Under Review), VMRNN(CVPRW24), Awesome-Mamba-Papers(1.1k+ Stars).
+    Representative Work: PredFormer(Under Review)
 </div>
 
 <div style="color: red;">
@@ -40,7 +40,7 @@ My long-term research interests lie in:
 
 # 🔥 News
 
-- *2024.10*: &nbsp;PredFormer is available!  **This is the first pure-vit based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free**. PredFormer outperforms previous models by large margins with superior efficiency. [**Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
+- *2024.10*: &nbsp;PredFormer is available!  This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. [**Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
 - *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAI24 DSO Workshop](https://sites.google.com/view/ijcai-2024-dso-workshop)!
 - *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPR24 Precognition Workshop](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)!
 - *2024.03*: &nbsp;Yujin was invited to give a talk in CUHKSZ in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
