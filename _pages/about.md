@@ -22,9 +22,9 @@ My previous research experience included Spatial-Temporal Forcasting,  Time Seri
 
 My long-term research interests lie in:
 
-* Spatial-Temporal/Video Modeling
-* Time Series Forecasting
-* AI4Science (AI+Climate/Energy/Healthcare, et)
+* Modern Computer Vision System Design (Neural network structures, training procedures, optimization and generalization)
+* Spatial-Temporal and Time Series Modeling
+* AI4Science(Climate, Environment, Healthcare, etc)
 
 <div style="color: red;">
     'A wise person sees what is coming before it happens.'
