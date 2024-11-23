@@ -23,8 +23,8 @@ My previous research experience included Spatial-Temporal Forcasting,  Time Seri
 My long-term research interests lie in:
 
 * Modern Computer Vision System Design (Neural network structures, training procedures, optimization and generalization)
-* Spatial-Temporal and Time Series Modeling
-* AI4Science(Climate, Environment, Healthcare, etc)
+* Video-Centered Research (Generation, Prediction, Editing, Understanding)
+* AI4Science(Weather, Healthcare, etc)
 
 <div style="color: red;">
     'A wise person sees what is coming before it happens.'
@@ -63,7 +63,7 @@ PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners
 </div>
 </div>
 
-
+w
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Precognition Workshop, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
