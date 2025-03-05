@@ -18,7 +18,9 @@ redirect_from:
 
 I am an incoming CS Ph.D. student at [Dartmouth College](https://home.dartmouth.edu/) and a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en).
 
-I was previously a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I work closely with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en), Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **Tiktok** and Dr. [Fei Xie](https://scholar.google.com/citations?user=GbGmwiwAAAAJ&hl=zh-CN) at **SJTU**. I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master's degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
+I was previously a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I work closely with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en), Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **Tiktok** and Dr. [Fei Xie](https://scholar.google.com/citations?user=GbGmwiwAAAAJ&hl=zh-CN) at **SJTU**. I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). 
+
+I got my master's degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
 My previous research experience included Video Prediction,  Weather Forecasting, Time Series Forecasting and Medical Image Analysis.
 
@@ -35,6 +37,12 @@ My long-term research interests lie in:
     I’m open for academic collaborations. If you are interested, please feel free to email me.
 
 </div>
+
+# 📖 Educations
+
+- *2025.09 - 2030.07(Expected)*, Ph.D., **Dartmouth College**, Computer Science
+- *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
+- *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
 
 # 🔥 News
 
@@ -123,15 +131,10 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 
 
-# 📖 Educations
-
-- *2025.09 - 2030.07(Expected)*, Ph.D., **Dartmouth College**, Computer Science
-- *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
-- *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
-
 # 💻 Internships
 
-- *2024.06 - now,* Remote Visiting Student @ UC Merced and Onsite Visiting Student @ Shanghai Jiao Tong University
+- *2025.03 - now,* Algorithm Engineer Intern, Alibaba DAMO Academy
+- *2024.06 - 2025.03,* Remote Visiting Student @ UC Merced and Onsite Visiting Student @ Shanghai Jiao Tong University
 - *2023.02 - 2024.05,* Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
 - *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
 
