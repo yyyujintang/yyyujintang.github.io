@@ -125,6 +125,7 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 
 # 📖 Educations
 
+- *2025.09 - 2030.07(Expected)*, Ph.D., **Dartmouth College**, Computer Science
 - *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
 - *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
 
