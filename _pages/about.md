@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming CS Ph.D. student at [Dartmouth College](https://home.dartmouth.edu/) and a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en).
+I am now a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en).
 
 I was previously a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I work closely with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en), Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **Tiktok** and Dr. [Fei Xie](https://scholar.google.com/citations?user=GbGmwiwAAAAJ&hl=zh-CN) at **SJTU**. I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master's degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
@@ -24,8 +24,8 @@ My previous research experience included Video Prediction,  Weather Forecasting,
 
 My long-term research interests lie in:
 
-* Human-Centric Video Understanding
 * Multimodal Learning
+* Human-Centric Video Understanding
 
 <div style="color: red;">
     Representative Work: PredFormer(Under Review)
@@ -38,15 +38,13 @@ My long-term research interests lie in:
 
 # 📖 Educations
 
-- *2025.09 - 2030.07(Expected)*, Ph.D., **Dartmouth College**, Computer Science
 - *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
 - *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
 
 # 🔥 News
 
 - *2025.03*: &nbsp;Yujin will join Alibaba DAMO Academy as a research intern.
-- *2025.03*: &nbsp;Accepted by Dartmouth CS Ph.D. Program.
-- *2025.02*: &nbsp;1 Paper accepted by CVPR25.
+- *2025.02*: 1 Paper accepted by CVPR25.
 - *2024.10*: &nbsp;PredFormer is available!  This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. [**Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
 - *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAIW24](https://sites.google.com/view/ijcai-2024-dso-workshop)!
 - *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPRW24](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)!
@@ -69,7 +67,6 @@ PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners
 
 </div>
 </div>
-
 
 
 
