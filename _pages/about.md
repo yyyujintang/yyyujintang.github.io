@@ -18,7 +18,7 @@ redirect_from:
 
 I am now a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en).
 
-I was previously a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I work closely with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en), Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **Tiktok** and Dr. [Fei Xie](https://scholar.google.com/citations?user=GbGmwiwAAAAJ&hl=zh-CN) at **SJTU**. I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I got my master's degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
+I was previously a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I work closely with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en), Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **Tiktok** and Dr. [Fei Xie](https://scholar.google.com/citations?user=GbGmwiwAAAAJ&hl=zh-CN) at **SJTU**. I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I also work closely with Dr. [Zhenheng Tang](https://scholar.google.com/citations?user=FlYcrEcAAAAJ&hl=zh-CN) at **HKUST**, Dr. [Peijie Dong](https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN) at **HKUST(GZ)**. I got my master's degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
 My previous research experience included Video Prediction,  Weather Forecasting, Time Series Forecasting and Medical Image Analysis.
 
@@ -95,7 +95,6 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI DSO Workshop, 2024</div><img src='images/PatchMixer.png' alt="sym" width="100%"></div></div>
