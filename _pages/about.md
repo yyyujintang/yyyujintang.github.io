@@ -42,9 +42,16 @@ My long-term research interests lie in:
 - *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
 - *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
 
+# 💻 Internships
+
+- *2025.03 - now,* Algorithm Engineer Intern, **Alibaba DAMO Academy**
+- *2024.06 - 2025.03,* Remote Visiting Student @ **UC Merced** and Onsite Visiting Student @ **Shanghai Jiao Tong University**
+- *2023.02 - 2024.05,* Research Assistant, **The Hong Kong University of Science and Technology (Guangzhou)**
+- *2021.07 - 2022.02*, Reseach Assistant, **Shenzhen Research Institute of Big Data**
+
 # 🔥 News
 
-- *2025.03*: &nbsp;Yujin will join Alibaba DAMO Academy as a research intern.
+- *2025.03*: &nbsp;Yujin joined Alibaba DAMO Academy as a research intern.
 - *2025.02*: 1 Paper accepted by CVPR25.
 - *2024.10*: &nbsp;PredFormer is available!  This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. [**Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
 - *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAIW24](https://sites.google.com/view/ijcai-2024-dso-workshop)!
@@ -126,13 +133,6 @@ Yuan Cheng, **Yujin Tang**, Dahong Qian
 </div>
 
 
-
-# 💻 Internships
-
-- *2025.03 - now,* Algorithm Engineer Intern, Alibaba DAMO Academy
-- *2024.06 - 2025.03,* Remote Visiting Student @ UC Merced and Onsite Visiting Student @ Shanghai Jiao Tong University
-- *2023.02 - 2024.05,* Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
-- *2021.07 - 2022.02*, Reseach Assistant, Shenzhen Research Institute of Big Data, Shenzhen
 
 # 📕 Notes
 
