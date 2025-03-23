@@ -24,8 +24,9 @@ My previous research experience included Video Prediction,  Weather Forecasting,
 
 My long-term research interests lie in:
 
-* Multimodal Learning
 * Human-Centric Video Understanding
+* Video Generation
+* Video Editing
 
 <div style="color: red;">
     Representative Work: PredFormer(Under Review)
