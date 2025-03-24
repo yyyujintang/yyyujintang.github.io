@@ -22,15 +22,9 @@ I was previously a Visiting Student working with Prof. [Ming-Hsuan Yang](https:/
 
 My previous research experience included Video Prediction,  Weather Forecasting, Time Series Forecasting and Medical Image Analysis.
 
-My research interests lie in:
+My long-term research interests lie in:
 
-* Conditional Video Generation
-* Unconditional Video Generation
-
-<div style="color: red;">
-    Representative Work: PredFormer(Under Review)
-</div>
-
+* Video Generation
 
 <div style="color: red;">
     Representative Work: PredFormer(Under Review)
