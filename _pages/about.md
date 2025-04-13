@@ -25,6 +25,7 @@ My previous research experience included Video Prediction,  Weather Forecasting,
 My long-term research interests lie in:
 
 * Video Generation
+* Video Understanding
 
 <div style="color: red;">
     Representative Work: PredFormer(Under Review)
@@ -51,7 +52,7 @@ My long-term research interests lie in:
 # 🔥 News
 
 - *2025.03*: &nbsp;Yujin joined Alibaba DAMO Academy as a research intern.
-- *2025.02*: 1 Paper accepted by CVPR25.
+- *2025.02*:     Mamba-Adaptor was accepted by CVPR25. Congratulations to Fei Xie!
 - *2024.10*: &nbsp;PredFormer is available!  This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. [**Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
 - *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAIW24](https://sites.google.com/view/ijcai-2024-dso-workshop)!
 - *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPRW24](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)!
@@ -70,7 +71,7 @@ PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners
 
 **Yujin Tang**, Lu Qi, Fei Xie, Xiangtai Li, Chao Ma, Ming-Hsuan Yang
 
-[ **Paper**](https://arxiv.org/abs/2410.04733) [**Website**](https://yyyujintang.github.io/predformer-project/)[  **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer) [知乎](https://zhuanlan.zhihu.com/p/938884694) [时空探索之旅](https://mp.weixin.qq.com/s/hkUyFnwwrIOMJYA6yVQ6_Q) [圆圆的算法笔记](https://mp.weixin.qq.com/s/SmVYqvoDJ5fm8KxEEX8dqg) [CVer](https://mp.weixin.qq.com/s/_NJAawEt_7TC8fFZP7gh5A) [Kaggle竞赛宝典](https://mp.weixin.qq.com/s/QLF-DBqeHaor3morIlWC5w) [深度学习工坊](https://mp.weixin.qq.com/s/ejhUnpkQcsaMYFoRKyK40A) [我爱计算机视觉](https://mp.weixin.qq.com/s/OMks7JRIIZlbvXJEO7TAgg)
+[ **Paper**](https://arxiv.org/abs/2410.04733) [**Website**](https://yyyujintang.github.io/predformer-project/)[ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer) [知乎](https://zhuanlan.zhihu.com/p/938884694) [时空探索之旅](https://mp.weixin.qq.com/s/hkUyFnwwrIOMJYA6yVQ6_Q) [圆圆的算法笔记](https://mp.weixin.qq.com/s/SmVYqvoDJ5fm8KxEEX8dqg) [CVer](https://mp.weixin.qq.com/s/_NJAawEt_7TC8fFZP7gh5A) [Kaggle竞赛宝典](https://mp.weixin.qq.com/s/QLF-DBqeHaor3morIlWC5w) [深度学习工坊](https://mp.weixin.qq.com/s/ejhUnpkQcsaMYFoRKyK40A) [我爱计算机视觉](https://mp.weixin.qq.com/s/OMks7JRIIZlbvXJEO7TAgg)
 
 </div>
 </div>
