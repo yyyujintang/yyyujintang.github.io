@@ -70,7 +70,7 @@ PredFormer: Transformers Are Effective Spatial-Temporal Predictive Learners
 
 **Yujin Tang**, Lu Qi, Fei Xie, Xiangtai Li, Chao Ma, Ming-Hsuan Yang
 
-[ **Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer) [知乎](https://zhuanlan.zhihu.com/p/938884694) [时空探索之旅](https://mp.weixin.qq.com/s/hkUyFnwwrIOMJYA6yVQ6_Q) [圆圆的算法笔记](https://mp.weixin.qq.com/s/SmVYqvoDJ5fm8KxEEX8dqg) [CVer](https://mp.weixin.qq.com/s/_NJAawEt_7TC8fFZP7gh5A) [Kaggle竞赛宝典](https://mp.weixin.qq.com/s/QLF-DBqeHaor3morIlWC5w) [深度学习工坊](https://mp.weixin.qq.com/s/ejhUnpkQcsaMYFoRKyK40A) [我爱计算机视觉](https://mp.weixin.qq.com/s/OMks7JRIIZlbvXJEO7TAgg)
+[ **Paper**](https://arxiv.org/abs/2410.04733) [**Website**](https://yyyujintang.github.io/predformer-project/)[  **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer) [知乎](https://zhuanlan.zhihu.com/p/938884694) [时空探索之旅](https://mp.weixin.qq.com/s/hkUyFnwwrIOMJYA6yVQ6_Q) [圆圆的算法笔记](https://mp.weixin.qq.com/s/SmVYqvoDJ5fm8KxEEX8dqg) [CVer](https://mp.weixin.qq.com/s/_NJAawEt_7TC8fFZP7gh5A) [Kaggle竞赛宝典](https://mp.weixin.qq.com/s/QLF-DBqeHaor3morIlWC5w) [深度学习工坊](https://mp.weixin.qq.com/s/ejhUnpkQcsaMYFoRKyK40A) [我爱计算机视觉](https://mp.weixin.qq.com/s/OMks7JRIIZlbvXJEO7TAgg)
 
 </div>
 </div>
