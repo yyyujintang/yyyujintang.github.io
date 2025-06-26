@@ -52,7 +52,6 @@ My long-term research interests lie in:
 # 🔥 News
 
 - *2025.03*: &nbsp;Yujin joined Alibaba DAMO Academy as a research intern.
-- *2025.02*:     Mamba-Adaptor was accepted by CVPR25. Congratulations to Fei Xie!
 - *2024.10*: &nbsp;PredFormer is available!  This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. [**Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
 - *2024.06*: &nbsp;🎉🎉 PatchMixer was accepted by [IJCAIW24](https://sites.google.com/view/ijcai-2024-dso-workshop)!
 - *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPRW24](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)!
