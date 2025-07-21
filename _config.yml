@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yujin Tang(唐毓瑾)"
-description              : "Vision and Video"
+title                    : "Yujin Tang"
+description              : "Thinker"
 repository               : "yyyujintang/yyyujintang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yujin Tang"
   avatar           : "images/photo.png"
-  bio              : "唐毓瑾, Honest, Humble, Learning"
+  bio              : "Honest, Humble, Learning"
   location         : "Hangzhou"
   employer         :
   pubmed           : 

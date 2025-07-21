@@ -24,12 +24,9 @@ My previous research experience included Video Prediction,  Weather Forecasting,
 
 My long-term research interests lie in:
 
-* Human-centric Video Generation
-* Human-centric Video Understanding
-
-<div style="color: red;">
-    Representative Work: PredFormer(Under Review)
-</div>
+* Video Understanding
+* Representative Learning
+* Large Language Model
 
 <div style="color: red;">
     I’m open for academic collaborations. If you are interested, please feel free to email me.
