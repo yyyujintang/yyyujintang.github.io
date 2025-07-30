@@ -24,9 +24,8 @@ My previous research experience mainly lies in Video Prediction.
 
 My long-term research interests lie in:
 
-* Video Understanding
-* Representative Learning
-* Large Language Model
+* Long Context: Compression, Retrieval, Generation
+* Long Context for LLM and Video Generation
 
 <div style="color: red;">
     I’m open for academic collaborations. If you are interested, please feel free to email me.
@@ -98,6 +97,7 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 </div>
 </div>
+
 
 
 # 📕 Notes
