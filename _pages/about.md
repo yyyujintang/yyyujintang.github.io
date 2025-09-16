@@ -26,7 +26,7 @@ My long-term research interests lie in:
 
 * Long Video Understanding
 * Multimodal Large Language Models
-* Unfied Video Understanding and Generation
+* Unfied Long Video Understanding and Generation
 
 <div style="color: red;">
     I’m open for academic collaborations. If you are interested, please feel free to email me (tangyujin0275@gmail.com).
