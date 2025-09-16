@@ -20,12 +20,13 @@ I am a first-year CS Ph.D. Student at [Dartmouth College](https://home.dartmouth
 
 I was previously a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en) for 5 wonderful months. I was previously a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I work closely with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en), Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **Tiktok**. I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I also work closely with Dr. [Peijie Dong](https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN) at **HKUST(GZ)**.
 
-My previous research experience mainly lies in Video Prediction (Conditional Video Generation) and Time Series Forecasting.
+My previous research experience mainly lies in Video Prediction.
 
 My long-term research interests lie in:
 
-* Efficient Long-Context Multimodal Modeling
-* Efficient Long Video Generation
+* Long Video Understanding
+* Multimodal Large Language Models
+* Unfied Video Understanding and Generation
 
 <div style="color: red;">
     I’m open for academic collaborations. If you are interested, please feel free to email me (tangyujin0275@gmail.com).
