@@ -48,6 +48,7 @@ My long-term research interests lie in:
 
 # 🔥 News
 
+- *2025.09*: &nbsp;Yujin enrolled in Dartmouth College as a Ph.D. student in Computer Science.
 - *2025.03*: &nbsp;Yujin joined Alibaba DAMO Academy as a research intern.
 - *2024.10*: &nbsp;PredFormer is available!  This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. [**Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
 - *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPRW24](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)!
