@@ -24,9 +24,10 @@ My previous research experience mainly lies in Video Prediction.
 
 My long-term research interests lie in:
 
-* Long Video Understanding
 * Multimodal Large Language Models
-* Unfied Long Video Understanding and Generation
+* Video Understanding
+* Unfied Understanding and Generation Model
+* Visual Tokenzier
 
 <div style="color: red;">
     I’m open for academic collaborations. If you are interested, please feel free to email me (tangyujin0275@gmail.com).
@@ -100,7 +101,7 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 </div>
 </div>
 
-
+Long Video Understanding
 
 # 📕 Notes
 
