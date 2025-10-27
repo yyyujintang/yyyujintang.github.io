@@ -18,16 +18,15 @@ redirect_from:
 
 I am a first-year CS Ph.D. Student at [Dartmouth College](https://home.dartmouth.edu). I got my master's degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
-I was previously a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en) for 5 wonderful months, mentored by Dr. [Tian Zhou](https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=en). I was previously a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I work closely with Prof. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en), Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **Tiktok**. I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I also work closely with Dr. [Peijie Dong](https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN) and Dr. [Zhenheng Tang](https://scholar.google.com/citations?user=FlYcrEcAAAAJ&hl=zh-CN) at **HKUST(GZ)**.
+I was previously a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en) for 5 wonderful months. I was previously a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I work closely with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en), Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **Tiktok**. I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I also work closely with Dr. [Peijie Dong](https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN) at **HKUST(GZ)**.
 
-My previous research experience mainly lies in Video Prediction and Time Series Forecasting.
+My previous research experience mainly lies in Video Prediction.
 
 My long-term research interests lie in:
 
 * Multimodal Large Language Models
-* Video Understanding
+* Long Video Understanding and Generation
 * Unfied Understanding and Generation Model
-* Visual Tokenzier
 
 <div style="color: red;">
     I’m open for academic collaborations. If you are interested, please feel free to email me (tangyujin0275@gmail.com).
@@ -45,6 +44,8 @@ My long-term research interests lie in:
 - *2025.03 -2025.07,* Algorithm Engineer Intern, **Alibaba DAMO Academy**
 - *2024.06 - 2025.03,* Remote Visiting Student @ **UC Merced** and Onsite Visiting Student @ **Shanghai Jiao Tong University**
 - *2023.02 - 2024.05,* Research Assistant, **The Hong Kong University of Science and Technology (Guangzhou)**
+- 2022.09 - 2023.01, Quant Researcher Intern, High-frequency Intraday Trading, Shenzhen
+- 2022.03 - 2022.08, Algorithm Engineer Intern, Face Recognition, Hangzhou
 - *2021.07 - 2022.02*, Reseach Assistant, **Shenzhen Research Institute of Big Data**
 
 # 🔥 News
@@ -74,6 +75,7 @@ Video Prediction Transformers without Recurrence or Convolution
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Precognition Workshop, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,10 +103,8 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 </div>
 
 
-# 🌏 Academic Service
 
-* **2025** – Reviewer, *Transactions on Machine Learning Research (TMLR)*
-* **2024** – Reviewer,  *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)* ; *NeurIPS Climate Change Workshop*
+Long Video Understanding
 
 # 📕 Notes
 
