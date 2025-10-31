@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yujin Tang"
-description              : "Thinker"
+description              : "Computer Vision Reseacher"
 repository               : "yyyujintang/yyyujintang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yujin Tang"
   avatar           : "images/photo.png"
   bio              : "Honest, Humble, Learning"
-  location         : "NH, USA"
+  location         : "New Hampshire, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=T41IQ1EAAAAJ"
