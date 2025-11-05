@@ -25,8 +25,7 @@ My previous research experience mainly lies in Video Prediction.
 My long-term research interests lie in:
 
 * Multimodal Large Language Models
-* Long Video Understanding and Generation
-* Unified Understanding and Generation Model
+* Visual Representation Learning
 
 <div style="color: red;">
     I’m open for academic collaborations. If you are interested, please feel free to email me (tangyujin0275@gmail.com).
@@ -102,9 +101,10 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 </div>
 </div>
 
+# 💻 Academic Service
 
-
-Long Video Understanding
+* **2025:** Reviewer for *Transactions on Machine Learning Research (TMLR)* and *International Journal of Computer Vision (IJCV)*
+* **2024:** Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
 
 # 📕 Notes
 
