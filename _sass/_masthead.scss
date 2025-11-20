@@ -21,7 +21,7 @@
     @include container;
     @include clearfix;
     padding: 1em 1.5em;
-    font-family: $sans-serif-narrow;
+    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
