@@ -44,12 +44,12 @@
 }
 
   .page__lead {
-    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-family: $global-font-family;
     font-size: $type-size-4;
   }
 
 .page__content {
-  font-family: $sans-serif;
+  font-family: $global-font-family;
   
   #about-me{
     padding: 1.5em;
@@ -58,12 +58,12 @@
     border: 1px solid $border-color;
     margin-bottom: 2em;
     margin-top: 1em;
-    font-family: $sans-serif;
+    font-family: $global-font-family;
     
     p {
       line-height: 1.8;
       margin-bottom: 1em;
-      font-family: $sans-serif;
+      font-family: $global-font-family;
     }
   }
   h1 {
@@ -111,15 +111,15 @@
   p, li, dl {
     font-size: 1em;
     color: $text-color;
-    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-family: $global-font-family;
   }
   
   ul, ol {
-    font-family: $sans-serif;
+    font-family: $global-font-family;
     
     li {
       margin-bottom: 0.6em;
-      font-family: $sans-serif;
+      font-family: $global-font-family;
       
       &::marker {
         color: $info-color;
@@ -127,7 +127,7 @@
       }
       
       strong, em, a, span {
-        font-family: $sans-serif;
+        font-family: $global-font-family;
       }
     }
   }
@@ -165,13 +165,13 @@
 
   dt {
     margin-top: 1em;
-    font-family: $sans-serif;
+    font-family: $global-font-family;
     font-weight: bold;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $sans-serif;
+    font-family: $global-font-family;
     font-size: $type-size-6;
   }
 
@@ -307,7 +307,7 @@
 .page__meta {
   margin-top: 2em;
   color: mix(#fff, $gray, 25%);
-  font-family: $sans-serif;
+  font-family: $global-font-family;
   font-size: $type-size-6;
 
   p {

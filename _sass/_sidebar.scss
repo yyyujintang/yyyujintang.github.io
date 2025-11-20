@@ -31,7 +31,7 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-family: $global-font-family;
   }
 
   h3, h4 {
@@ -39,7 +39,7 @@
   }
 
   p, li {
-    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-family: $global-font-family;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -144,7 +144,7 @@
 
   .author__name {
     margin: 0;
-    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-family: $global-font-family;
 
     @include breakpoint($large) {
       margin-top: 10px;
@@ -156,7 +156,7 @@
     @include breakpoint($medium) {
       font-size: $type-size-3;
     }
-    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-family: $global-font-family;
     font-size: $type-size-4;
   }
 
@@ -173,7 +173,7 @@
     position: relative;
     display: table-cell;
     vertical-align: middle;
-    font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-family: $global-font-family;
     z-index: 10;
     position: relative;
     margin-left: auto;
