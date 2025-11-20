@@ -49,6 +49,8 @@
   }
 
 .page__content {
+  font-family: $sans-serif;
+  
   #about-me{
     padding: 1.5em;
     background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
@@ -56,10 +58,12 @@
     border: 1px solid $border-color;
     margin-bottom: 2em;
     margin-top: 1em;
+    font-family: $sans-serif;
     
     p {
       line-height: 1.8;
       margin-bottom: 1em;
+      font-family: $sans-serif;
     }
   }
   h1 {
@@ -111,12 +115,19 @@
   }
   
   ul, ol {
+    font-family: $sans-serif;
+    
     li {
       margin-bottom: 0.6em;
+      font-family: $sans-serif;
       
       &::marker {
         color: $info-color;
         font-weight: 600;
+      }
+      
+      strong, em, a, span {
+        font-family: $sans-serif;
       }
     }
   }
