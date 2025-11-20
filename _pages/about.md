@@ -50,7 +50,7 @@ My long-term research interests lie in:
 
 <div class="education-item">
   <div class="logo-container">
-    <img src="images/dartmouth-logo.png" alt="Dartmouth College Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <img src="/images/dartmouth-logo.png" alt="Dartmouth College Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
     <div class="logo-placeholder" style="display:none;">D</div>
   </div>
   <div class="content">
@@ -62,7 +62,7 @@ My long-term research interests lie in:
 
 <div class="education-item">
   <div class="logo-container">
-    <img src="images/cuhksz-logo.png" alt="CUHKSZ Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <img src="/images/cuhksz-logo.png" alt="CUHKSZ Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
     <div class="logo-placeholder" style="display:none;">CUHK</div>
   </div>
   <div class="content">
@@ -75,7 +75,7 @@ My long-term research interests lie in:
 
 <div class="education-item">
   <div class="logo-container">
-    <img src="images/sjtu-logo.png" alt="SJTU Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <img src="/images/sjtu-logo.png" alt="SJTU Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
     <div class="logo-placeholder" style="display:none;">SJTU</div>
   </div>
   <div class="content">
@@ -91,7 +91,7 @@ My long-term research interests lie in:
 
 <div class="internship-item highlight">
   <div class="logo-container">
-    <img src="images/alibaba-logo.png" alt="Alibaba DAMO Academy Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <img src="/images/alibaba-logo.png" alt="Alibaba DAMO Academy Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
     <div class="logo-placeholder" style="display:none;">阿里</div>
   </div>
   <div class="content">
@@ -104,7 +104,7 @@ My long-term research interests lie in:
 
 <div class="internship-item">
   <div class="logo-container">
-    <img src="images/ucmerced-logo.png" alt="UC Merced Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <img src="/images/ucmerced-logo.png" alt="UC Merced Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
     <div class="logo-placeholder" style="display:none;">UCM</div>
   </div>
   <div class="content">
@@ -117,7 +117,7 @@ My long-term research interests lie in:
 
 <div class="internship-item">
   <div class="logo-container">
-    <img src="images/hkust-gz-logo.png" alt="HKUST-GZ Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <img src="/images/hkust-gz-logo.png" alt="HKUST-GZ Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
     <div class="logo-placeholder" style="display:none;">HKUST</div>
   </div>
   <div class="content">
@@ -128,40 +128,6 @@ My long-term research interests lie in:
   </div>
 </div>
 
-<div class="internship-item">
-  <div class="logo-container">
-    <div class="logo-placeholder">💰</div>
-  </div>
-  <div class="content">
-    <div class="title">Quant Researcher Intern</div>
-    <div class="subtitle">High-frequency Intraday Trading</div>
-    <div class="date">2022.09 - 2023.01</div>
-    <div class="description">Shenzhen</div>
-  </div>
-</div>
-
-<div class="internship-item">
-  <div class="logo-container">
-    <div class="logo-placeholder">👤</div>
-  </div>
-  <div class="content">
-    <div class="title">Algorithm Engineer Intern</div>
-    <div class="subtitle">Face Recognition</div>
-    <div class="date">2022.03 - 2022.08</div>
-    <div class="description">Hangzhou</div>
-  </div>
-</div>
-
-<div class="internship-item">
-  <div class="logo-container">
-    <img src="images/sribd-logo.png" alt="SRIBD Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
-    <div class="logo-placeholder" style="display:none;">SRIBD</div>
-  </div>
-  <div class="content">
-    <div class="title">Shenzhen Research Institute of Big Data</div>
-    <div class="subtitle">Research Assistant</div>
-    <div class="date">2021.07 - 2022.02</div>
-  </div>
 </div>
 
 # News

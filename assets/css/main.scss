@@ -298,6 +298,7 @@ h1:before, .anchor:before {
         padding: 0.5em;
         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
         position: relative;
+        overflow: hidden;
         
         img {
             max-width: 100%;
@@ -306,12 +307,19 @@ h1:before, .anchor:before {
             height: auto;
             object-fit: contain;
             display: block;
+            position: relative;
+            z-index: 2;
+        }
+        
+        // 当图片加载失败被隐藏时
+        img[style*="display: none"] {
+            z-index: 0;
         }
         
         .logo-placeholder {
-            width: 100%;
-            height: 100%;
-            display: flex;
+            width: calc(100% - 1em);
+            height: calc(100% - 1em);
+            display: none;
             align-items: center;
             justify-content: center;
             background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%);
@@ -320,14 +328,15 @@ h1:before, .anchor:before {
             font-weight: bold;
             color: $info-color;
             position: absolute;
-            top: 0.5em;
-            left: 0.5em;
-            right: 0.5em;
-            bottom: 0.5em;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 1;
         }
         
+        // 当图片加载失败被隐藏时显示占位符
         img[style*="display: none"] + .logo-placeholder {
-            display: flex;
+            display: flex !important;
         }
     }
     
