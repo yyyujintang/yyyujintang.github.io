@@ -39,7 +39,6 @@ My long-term research interests lie in:
       <li>Efficient vision-language projectors</li>
       <li>Manifold-to-Euclidean space mappings</li>
       <li>Token compression/pruning/merging for efficient inference</li>
-      <li>Impact of visual representations on multimodal understanding</li>
     </ul>
   </div>
   <div class="interest-box">
@@ -63,8 +62,7 @@ My long-term research interests lie in:
 
 <div class="education-item">
   <div class="logo-container">
-    <img src="images/dartmouth-logo.png" alt="Dartmouth College Logo" onerror="this.onerror=null; this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
-    <div class="logo-placeholder" style="display:none;">D</div>
+    <img src="images/dartmouth-logo.png" alt="Dartmouth College Logo" loading="lazy">
   </div>
   <div class="content">
     <div class="title">Dartmouth College</div>
@@ -75,8 +73,7 @@ My long-term research interests lie in:
 
 <div class="education-item">
   <div class="logo-container">
-    <img src="images/cuhksz-logo.png" alt="CUHKSZ Logo" onerror="this.onerror=null; this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
-    <div class="logo-placeholder" style="display:none;">CUHK</div>
+    <img src="images/cuhksz-logo.png" alt="CUHKSZ Logo" loading="lazy">
   </div>
   <div class="content">
     <div class="title">The Chinese University of Hong Kong, Shenzhen</div>
@@ -88,8 +85,7 @@ My long-term research interests lie in:
 
 <div class="education-item">
   <div class="logo-container">
-    <img src="images/sjtu-logo.png" alt="SJTU Logo" onerror="this.onerror=null; this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
-    <div class="logo-placeholder" style="display:none;">SJTU</div>
+    <img src="images/sjtu-logo.png" alt="SJTU Logo" loading="lazy">
   </div>
   <div class="content">
     <div class="title">Shanghai Jiao Tong University</div>
@@ -104,8 +100,7 @@ My long-term research interests lie in:
 
 <div class="internship-item highlight">
   <div class="logo-container">
-    <img src="images/alibaba-logo.png" alt="Alibaba DAMO Academy Logo" onerror="this.onerror=null; this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
-    <div class="logo-placeholder" style="display:none;">阿里</div>
+    <img src="images/alibaba-logo.png" alt="Alibaba DAMO Academy Logo" loading="lazy">
   </div>
   <div class="content">
     <div class="title">Alibaba DAMO Academy</div>
@@ -117,8 +112,7 @@ My long-term research interests lie in:
 
 <div class="internship-item">
   <div class="logo-container">
-    <img src="images/ucmerced-logo.png" alt="UC Merced Logo" onerror="this.onerror=null; this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
-    <div class="logo-placeholder" style="display:none;">UCM</div>
+    <img src="images/ucmerced-logo.png" alt="UC Merced Logo" loading="lazy">
   </div>
   <div class="content">
     <div class="title">UC Merced & Shanghai Jiao Tong University</div>
@@ -130,8 +124,7 @@ My long-term research interests lie in:
 
 <div class="internship-item">
   <div class="logo-container">
-    <img src="images/hkust-gz-logo.png" alt="HKUST-GZ Logo" onerror="this.onerror=null; this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
-    <div class="logo-placeholder" style="display:none;">HKUST</div>
+    <img src="images/hkust-gz-logo.png" alt="HKUST-GZ Logo" loading="lazy">
   </div>
   <div class="content">
     <div class="title">The Hong Kong University of Science and Technology (Guangzhou)</div>
@@ -140,7 +133,6 @@ My long-term research interests lie in:
     <div class="description">Supervised by Prof. <a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a>. Also working closely with Dr. <a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a>.</div>
   </div>
 </div>
-
 
 # News
 
@@ -187,6 +179,7 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop, 2024</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -198,6 +191,7 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 </div>
 </div>
+
 
 
 # Academic Service
