@@ -229,36 +229,36 @@ h1:before, .anchor:before {
         }
     }
     
-    // 莫兰迪配色 - 柔和、高级的色调
+    // 莫兰迪配色 - 柔和、高级的色调（更浅的版本）
     .interest-box:nth-child(1) {
-        // 灰绿色调
-        background: linear-gradient(135deg, #a8c4a2 0%, #8fa88a 100%);
-        box-shadow: 0 4px 12px rgba(168, 196, 162, 0.3);
+        // 浅灰绿色调
+        background: linear-gradient(135deg, #c4d9c0 0%, #b5d0b0 100%);
+        box-shadow: 0 4px 12px rgba(196, 217, 192, 0.3);
         
         &:hover {
-            box-shadow: 0 8px 24px rgba(168, 196, 162, 0.4);
+            box-shadow: 0 8px 24px rgba(196, 217, 192, 0.4);
             transform: translateY(-6px);
         }
     }
     
     .interest-box:nth-child(2) {
-        // 灰蓝色调
-        background: linear-gradient(135deg, #9eb5c3 0%, #7a9fb0 100%);
-        box-shadow: 0 4px 12px rgba(158, 181, 195, 0.3);
+        // 浅灰蓝色调
+        background: linear-gradient(135deg, #b8d1e0 0%, #a8c8d8 100%);
+        box-shadow: 0 4px 12px rgba(184, 209, 224, 0.3);
         
         &:hover {
-            box-shadow: 0 8px 24px rgba(158, 181, 195, 0.4);
+            box-shadow: 0 8px 24px rgba(184, 209, 224, 0.4);
             transform: translateY(-6px);
         }
     }
     
     .interest-box:nth-child(3) {
-        // 灰紫色调
-        background: linear-gradient(135deg, #b8a9c9 0%, #9d8db0 100%);
-        box-shadow: 0 4px 12px rgba(184, 169, 201, 0.3);
+        // 浅灰紫色调
+        background: linear-gradient(135deg, #d4c9e2 0%, #c5b8d6 100%);
+        box-shadow: 0 4px 12px rgba(212, 201, 226, 0.3);
         
         &:hover {
-            box-shadow: 0 8px 24px rgba(184, 169, 201, 0.4);
+            box-shadow: 0 8px 24px rgba(212, 201, 226, 0.4);
             transform: translateY(-6px);
         }
     }
@@ -318,11 +318,6 @@ h1:before, .anchor:before {
             z-index: 2;
         }
         
-        // 当图片加载失败被隐藏时
-        img[style*="display: none"] {
-            z-index: 0;
-        }
-        
         .logo-placeholder {
             width: calc(100% - 1em);
             height: calc(100% - 1em);
@@ -343,6 +338,12 @@ h1:before, .anchor:before {
         
         // 当图片加载失败被隐藏时显示占位符
         img[style*="display: none"] + .logo-placeholder {
+            display: flex !important;
+        }
+        
+        // 确保占位符在图片不存在时显示
+        &:not(:has(img[src])) .logo-placeholder,
+        &:has(img[style*="display: none"]) .logo-placeholder {
             display: flex !important;
         }
     }

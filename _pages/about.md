@@ -18,9 +18,9 @@ redirect_from:
 
 I am a first-year Ph.D. student in Computer Science at [Dartmouth College](https://home.dartmouth.edu), where I pursue cutting-edge research in computer vision and machine learning. Previously, I earned my Master's degree in Data Science from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), under the guidance of Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). My academic journey began with a Bachelor's degree in Biomedical Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
-I have had the privilege of working as a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en) for five months, mentored by [Tian Zhou](https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN). I also served as a Visiting Student with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at the [AI Institute](https://ai.sjtu.edu.cn) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I maintain active collaborations with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en) and Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **TikTok**, as well as with Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en) and Dr. [Peijie Dong](https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN) at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
+I worked as a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en) for five months, mentored by [Tian Zhou](https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN). I also served as a Visiting Student with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at the [AI Institute](https://ai.sjtu.edu.cn) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I have previously collaborated with Prof. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en) and Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **TikTok**, as well as with Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en) and Dr. [Peijie Dong](https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN) at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
 
-My research background primarily focuses on video prediction and spatiotemporal forecasting, with contributions to both theoretical understanding and practical applications.
+My research background primarily focuses on video prediction and spatiotemporal forecasting.
 
 My long-term research interests lie in:
 
@@ -50,7 +50,7 @@ My long-term research interests lie in:
 
 <div class="education-item">
   <div class="logo-container">
-    <img src="/images/dartmouth-logo.png" alt="Dartmouth College Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
+    <img src="images/dartmouth-logo.png" alt="Dartmouth College Logo" onerror="this.onerror=null; this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
     <div class="logo-placeholder" style="display:none;">D</div>
   </div>
   <div class="content">
@@ -62,7 +62,7 @@ My long-term research interests lie in:
 
 <div class="education-item">
   <div class="logo-container">
-    <img src="/images/cuhksz-logo.png" alt="CUHKSZ Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
+    <img src="images/cuhksz-logo.png" alt="CUHKSZ Logo" onerror="this.onerror=null; this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
     <div class="logo-placeholder" style="display:none;">CUHK</div>
   </div>
   <div class="content">
@@ -75,7 +75,7 @@ My long-term research interests lie in:
 
 <div class="education-item">
   <div class="logo-container">
-    <img src="/images/sjtu-logo.png" alt="SJTU Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
+    <img src="images/sjtu-logo.png" alt="SJTU Logo" onerror="this.onerror=null; this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
     <div class="logo-placeholder" style="display:none;">SJTU</div>
   </div>
   <div class="content">
@@ -91,7 +91,7 @@ My long-term research interests lie in:
 
 <div class="internship-item highlight">
   <div class="logo-container">
-    <img src="/images/alibaba-logo.png" alt="Alibaba DAMO Academy Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
+    <img src="images/alibaba-logo.png" alt="Alibaba DAMO Academy Logo" onerror="this.onerror=null; this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
     <div class="logo-placeholder" style="display:none;">阿里</div>
   </div>
   <div class="content">
@@ -104,7 +104,7 @@ My long-term research interests lie in:
 
 <div class="internship-item">
   <div class="logo-container">
-    <img src="/images/ucmerced-logo.png" alt="UC Merced Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
+    <img src="images/ucmerced-logo.png" alt="UC Merced Logo" onerror="this.onerror=null; this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
     <div class="logo-placeholder" style="display:none;">UCM</div>
   </div>
   <div class="content">
@@ -117,7 +117,7 @@ My long-term research interests lie in:
 
 <div class="internship-item">
   <div class="logo-container">
-    <img src="/images/hkust-gz-logo.png" alt="HKUST-GZ Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
+    <img src="images/hkust-gz-logo.png" alt="HKUST-GZ Logo" onerror="this.onerror=null; this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
     <div class="logo-placeholder" style="display:none;">HKUST</div>
   </div>
   <div class="content">

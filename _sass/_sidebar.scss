@@ -260,8 +260,55 @@
     white-space: nowrap;
   }
 
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    
+    a, span {
+      display: flex;
+      align-items: center;
+      padding: 0.5em 0.75em;
+      padding-right: 5px;
+      color: $text-color;
+      font-size: $type-size-5;
+      text-decoration: none;
+      border-radius: $border-radius;
+      transition: $global-transition;
+      width: 100%;
+      
+      i {
+        margin-right: 0.5em;
+        width: 1.2em;
+        text-align: center;
+        color: $gray;
+        transition: $global-transition;
+        flex-shrink: 0;
+      }
+    }
+    
+    a {
+      &:hover {
+        background-color: lighten($info-color, 45%);
+        color: $info-color;
+        transform: translateX(3px);
+        text-decoration: none;
+      }
+      
+      &:hover i {
+        color: $info-color;
+      }
+    }
+    
+    span {
+      cursor: default;
+    }
+  }
+  
+  // 保持向后兼容
   a {
-    display: block;
+    display: flex;
+    align-items: center;
     margin-bottom: 8px;
     padding: 0.5em 0.75em;
     padding-right: 5px;
