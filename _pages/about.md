@@ -24,9 +24,20 @@ My previous research experience mainly lies in Video Prediction.
 
 My long-term research interests lie in:
 
-* Multimodal Large Language Models
-* Visual Representation Learning
-* AI Agents
+<div class="research-interests">
+  <div class="interest-box">
+    <h3>🧠 Multimodal Large Language Models</h3>
+    <p>Exploring the integration of vision, language, and other modalities to build more intelligent AI systems that can understand and interact with the world in multiple ways.</p>
+  </div>
+  <div class="interest-box">
+    <h3>👁️ Visual Representation Learning</h3>
+    <p>Developing effective methods to learn rich visual representations that capture semantic information and can be transferred across tasks and domains.</p>
+  </div>
+  <div class="interest-box">
+    <h3>🤖 AI Agents</h3>
+    <p>Building autonomous AI agents that can perceive, reason, and act in complex environments to solve real-world problems efficiently.</p>
+  </div>
+</div>
 
 <div style="color: red;">
     I’m open for academic collaborations. If you are interested, please feel free to email me (tangyujin0275@gmail.com).
@@ -34,21 +45,125 @@ My long-term research interests lie in:
 </div>
 
 # 📖 Educations
+{: .section-title .section-title-education}
 
-- *2025.09 - 2030.07(expected)*, Ph.D, **Dartmouth College**, Computer Science
-- *2021.09 - 2023.07*, MSc, **The Chinese University of Hongkong, Shenzhen**, Data Science
-- *2017.09 - 2021.06*, Bachelor, **Shanghai Jiao Tong University**, Biomedical Engineering
+<div class="education-item">
+  <div class="logo-container">
+    <img src="images/dartmouth-logo.png" alt="Dartmouth College Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class="logo-placeholder" style="display:none;">D</div>
+  </div>
+  <div class="content">
+    <div class="title">Dartmouth College</div>
+    <div class="subtitle">Ph.D. in Computer Science</div>
+    <div class="date">2025.09 - 2030.07 (expected)</div>
+  </div>
+</div>
+
+<div class="education-item">
+  <div class="logo-container">
+    <img src="images/cuhksz-logo.png" alt="CUHKSZ Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class="logo-placeholder" style="display:none;">CUHK</div>
+  </div>
+  <div class="content">
+    <div class="title">The Chinese University of Hong Kong, Shenzhen</div>
+    <div class="subtitle">M.Sc. in Data Science</div>
+    <div class="date">2021.09 - 2023.07</div>
+    <div class="description">Advised by Prof. <a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></div>
+  </div>
+</div>
+
+<div class="education-item">
+  <div class="logo-container">
+    <img src="images/sjtu-logo.png" alt="SJTU Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class="logo-placeholder" style="display:none;">SJTU</div>
+  </div>
+  <div class="content">
+    <div class="title">Shanghai Jiao Tong University</div>
+    <div class="subtitle">B.Eng. in Biomedical Engineering</div>
+    <div class="date">2017.09 - 2021.06</div>
+  </div>
+</div>
 
 # 💻 Internships
+{: .section-title .section-title-internship}
 
-- *2025.03 -2025.07,* Algorithm Engineer Intern, **Alibaba DAMO Academy**
-- *2024.06 - 2025.03,* Remote Visiting Student @ **UC Merced** and Onsite Visiting Student @ **Shanghai Jiao Tong University**
-- *2023.02 - 2024.05,* Research Assistant, **The Hong Kong University of Science and Technology (Guangzhou)**
-- 2022.09 - 2023.01, Quant Researcher Intern, High-frequency Intraday Trading, Shenzhen
-- 2022.03 - 2022.08, Algorithm Engineer Intern, Face Recognition, Hangzhou
-- *2021.07 - 2022.02*, Reseach Assistant, **Shenzhen Research Institute of Big Data**
+<div class="internship-item highlight">
+  <div class="logo-container">
+    <img src="images/alibaba-logo.png" alt="Alibaba DAMO Academy Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class="logo-placeholder" style="display:none;">阿里</div>
+  </div>
+  <div class="content">
+    <div class="title">Alibaba DAMO Academy</div>
+    <div class="subtitle">Algorithm Engineer Intern</div>
+    <div class="date">2025.03 - 2025.07</div>
+    <div class="description">Research intern for 5 wonderful months. Working on cutting-edge AI research and development.</div>
+  </div>
+</div>
+
+<div class="internship-item">
+  <div class="logo-container">
+    <img src="images/ucmerced-logo.png" alt="UC Merced Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class="logo-placeholder" style="display:none;">UCM</div>
+  </div>
+  <div class="content">
+    <div class="title">UC Merced & Shanghai Jiao Tong University</div>
+    <div class="subtitle">Remote Visiting Student @ UC Merced & Onsite Visiting Student @ SJTU</div>
+    <div class="date">2024.06 - 2025.03</div>
+    <div class="description">Working with Prof. <a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a> at UC Merced and Prof. <a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a> at <a href="https://ai.sjtu.edu.cn">AI Institute, SJTU</a>.</div>
+  </div>
+</div>
+
+<div class="internship-item">
+  <div class="logo-container">
+    <img src="images/hkust-gz-logo.png" alt="HKUST-GZ Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class="logo-placeholder" style="display:none;">HKUST</div>
+  </div>
+  <div class="content">
+    <div class="title">The Hong Kong University of Science and Technology (Guangzhou)</div>
+    <div class="subtitle">Research Assistant at AI Thrust</div>
+    <div class="date">2023.02 - 2024.05</div>
+    <div class="description">Supervised by Prof. <a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a>. Also working closely with Dr. <a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a>.</div>
+  </div>
+</div>
+
+<div class="internship-item">
+  <div class="logo-container">
+    <div class="logo-placeholder">💰</div>
+  </div>
+  <div class="content">
+    <div class="title">Quant Researcher Intern</div>
+    <div class="subtitle">High-frequency Intraday Trading</div>
+    <div class="date">2022.09 - 2023.01</div>
+    <div class="description">Shenzhen</div>
+  </div>
+</div>
+
+<div class="internship-item">
+  <div class="logo-container">
+    <div class="logo-placeholder">👤</div>
+  </div>
+  <div class="content">
+    <div class="title">Algorithm Engineer Intern</div>
+    <div class="subtitle">Face Recognition</div>
+    <div class="date">2022.03 - 2022.08</div>
+    <div class="description">Hangzhou</div>
+  </div>
+</div>
+
+<div class="internship-item">
+  <div class="logo-container">
+    <img src="images/sribd-logo.png" alt="SRIBD Logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+    <div class="logo-placeholder" style="display:none;">SRIBD</div>
+  </div>
+  <div class="content">
+    <div class="title">Shenzhen Research Institute of Big Data</div>
+    <div class="subtitle">Research Assistant</div>
+    <div class="date">2021.07 - 2022.02</div>
+  </div>
+</div>
 
 # 🔥 News
+{: .section-title .section-title-news}
 
 - *2025.09*: &nbsp;Yujin enrolled in Dartmouth College as a Ph.D. student in Computer Science.
 - *2025.03*: &nbsp;Yujin joined Alibaba DAMO Academy as a research intern.
@@ -61,6 +176,7 @@ My long-term research interests lie in:
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
 
 # 📝 Publication & PrePrint
+{: .section-title .section-title-publication}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2024</div><img src='images/PredFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -105,11 +221,13 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 
 # 💻 Academic Service
+{: .section-title .section-title-service}
 
 * **2025:** Reviewer for *Transactions on Machine Learning Research (TMLR)* and *International Journal of Computer Vision (IJCV)*
 * **2024:** Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
 
 # 📕 Notes
+{: .section-title}
 
 Computer Vision PhD Survival Guide Series(1) CV Paper Tracking and Writing [Link](https://zhuanlan.zhihu.com/p/610774199)
 
@@ -118,6 +236,7 @@ Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools  [Li
 Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command  [Link](https://zhuanlan.zhihu.com/p/676491841)
 
 # 🔗 Resources for CV Researchers
+{: .section-title}
 
 [Ming-Hsuan Yang-UCM](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): How to Get Your CVPR Paper Rejected? [Link](https://vision.sjtu.edu.cn/files/How-to-get-your-CVPR-paper-rejected.pdf)
 

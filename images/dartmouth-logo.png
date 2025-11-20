@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script>document.documentElement.className += ' js';</script>
+    <meta charset="UTF-8" />
+    <meta name = "viewport" content="initial-scale=1.0, width=device-width, , user-scalable=yes" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+
+    <title>Page Not Found | Dartmouth</title>
+
+    <link rel="stylesheet" href="//www.dartmouth.edu/home/files/styles/style.css" media="all">
+    <link rel="stylesheet" href="//www.dartmouth.edu/home/files/styles/custom.css" media="all">
+    <link rel="stylesheet" href="//www.dartmouth.edu/home/files/styles/print.css" media="print"  />
+
+    <!--[if lt IE 8]>
+      <link rel="stylesheet" href="//www.dartmouth.edu/home/files/styles/ie8.css" media="all">
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 10]>
+      <link type="text/css" rel="stylesheet" href="//www.dartmouth.edu/quicklinks/css/ie.css media="all" />
+    <![endif]-->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="//home.dartmouth.edu/sites/all/themes/dartmouth_base/favicon.ico" type="image/vnd.microsoft.icon" />
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, user-scalable=no">
+
+    <link type="text/css" rel="stylesheet" href="//home.dartmouth.edu/sites/all/themes/dartmouth_base/css/fonts.css" media="all" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://ws.dartmouth.edu/sites/all/modules/custom/dart_wrapper/embedding/dart_wrapper_full.js"></script>
+  </head>
+
+  <body>
+    <!--#include virtual="/emergency/banner/notice.html" -->
+    <section class="site-wrapper">
+      <div class="clear-all bt2be academics-page-wrapper">
+        <article class="col">
+          <header>
+            <h2 class="os30-l0-k0 g262626">Page Not Found</h2>
+          </header>
+          <div class="clear-all">
+            <p>The page you requested is not available. You may have used an outdated link or may have typed the address (URL) incorrectly.</p>
+            <p> Please try the search box above, or use the links below to get back on track:</p>
+            <ul>
+              <li><a href="//www.dartmouth.edu/home/about_site/site_map.html">Site Map</a></li>
+              <li><a href="//www.dartmouth.edu/home/about_site/site_index.html">A-Z Index</a></li>
+            </ul>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <div id="mobile-nav-container" class="container">
+      <div class="row">
+        <div class="twelve column">
+          <header>
+            <span class="logo hide-txt">Dartmouth College</span>
+          </header>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="https://www.dartmouth.edu/quicklinks/js/dart_quicklinks.js"></script>
+    <script type="text/javascript">
+      <!--//--><![CDATA[//><!--
+      var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-17623200-1"]);_gaq.push(["_setDomainName", ".dartmouth.edu"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "https://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+      //--><!]]>
+    </script>
+  </body>
+</html>

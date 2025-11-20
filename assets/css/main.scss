@@ -168,3 +168,277 @@ h1:before, .anchor:before {
     letter-spacing: 0.5px;
     text-transform: uppercase;
 }
+
+// Research Interests 框图样式
+.research-interests {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5em;
+    margin: 2em 0;
+    
+    .interest-box {
+        flex: 1;
+        min-width: 280px;
+        padding: 2em 1.5em;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        border-radius: $border-radius * 2;
+        box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+        color: white;
+        transition: $global-transition;
+        position: relative;
+        overflow: hidden;
+        
+        @include breakpoint(max-width $medium) {
+            min-width: 100%;
+        }
+        
+        &::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+            opacity: 0;
+            transition: $global-transition;
+        }
+        
+        &:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 24px rgba(102, 126, 234, 0.4);
+            
+            &::before {
+                opacity: 1;
+            }
+        }
+        
+        h3 {
+            margin: 0 0 0.8em 0;
+            font-size: 1.3em;
+            font-weight: 600;
+            color: white;
+            line-height: 1.3;
+        }
+        
+        p {
+            margin: 0;
+            opacity: 0.95;
+            line-height: 1.7;
+            font-size: 0.95em;
+        }
+    }
+    
+    .interest-box:nth-child(1) {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+        
+        &:hover {
+            box-shadow: 0 8px 24px rgba(102, 126, 234, 0.4);
+        }
+    }
+    
+    .interest-box:nth-child(2) {
+        background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+        box-shadow: 0 4px 12px rgba(245, 87, 108, 0.3);
+        
+        &:hover {
+            box-shadow: 0 8px 24px rgba(245, 87, 108, 0.4);
+        }
+    }
+    
+    .interest-box:nth-child(3) {
+        background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        box-shadow: 0 4px 12px rgba(79, 172, 254, 0.3);
+        
+        &:hover {
+            box-shadow: 0 8px 24px rgba(79, 172, 254, 0.4);
+        }
+    }
+}
+
+// Education 和 Internship 卡片样式
+.education-item, .internship-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5em;
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+    background: linear-gradient(to right, #ffffff 0%, #f8f9fa 100%);
+    border: 1px solid $border-color;
+    border-radius: $border-radius * 2;
+    border-left: 4px solid $info-color;
+    box-shadow: $box-shadow;
+    transition: $global-transition;
+    
+    @include breakpoint(max-width $medium) {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    &:hover {
+        transform: translateX(5px);
+        box-shadow: $box-shadow-hover;
+        border-left-color: $info-color;
+    }
+    
+    .logo-container {
+        flex-shrink: 0;
+        width: 80px;
+        height: 80px;
+        min-width: 80px;
+        min-height: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: white;
+        border: 2px solid $border-color;
+        border-radius: $border-radius;
+        padding: 0.5em;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        position: relative;
+        
+        img {
+            max-width: 100%;
+            max-height: 100%;
+            width: auto;
+            height: auto;
+            object-fit: contain;
+            display: block;
+        }
+        
+        .logo-placeholder {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%);
+            border-radius: $border-radius - 2px;
+            font-size: 1.5em;
+            font-weight: bold;
+            color: $info-color;
+            position: absolute;
+            top: 0.5em;
+            left: 0.5em;
+            right: 0.5em;
+            bottom: 0.5em;
+        }
+        
+        img[style*="display: none"] + .logo-placeholder {
+            display: flex;
+        }
+    }
+    
+    .content {
+        flex: 1;
+        
+        .title {
+            font-size: 1.2em;
+            font-weight: 600;
+            color: $darker-gray;
+            margin: 0 0 0.3em 0;
+        }
+        
+        .subtitle {
+            color: $gray;
+            margin: 0 0 0.5em 0;
+            font-size: 0.95em;
+        }
+        
+        .date {
+            color: $info-color;
+            font-weight: 500;
+            font-size: 0.9em;
+        }
+        
+        .description {
+            margin-top: 0.5em;
+            color: $text-color;
+            line-height: 1.6;
+            
+            a {
+                color: $link-color;
+                text-decoration: none;
+                border-bottom: 1px solid transparent;
+                
+                &:hover {
+                    color: $link-color-hover;
+                    border-bottom-color: $link-color-hover;
+                }
+            }
+        }
+    }
+}
+
+// 突出 Alibaba 的样式
+.internship-item.highlight {
+    background: linear-gradient(to right, #fff8f0 0%, #fff5eb 100%);
+    border-left-color: #ff6a00;
+    box-shadow: 0 4px 16px rgba(255, 106, 0, 0.15);
+    
+    .logo-container {
+        border-color: #ff6a00;
+        background: linear-gradient(135deg, #fff8f0 0%, #fff5eb 100%);
+    }
+    
+    &:hover {
+        box-shadow: 0 6px 20px rgba(255, 106, 0, 0.25);
+        transform: translateX(8px) scale(1.02);
+    }
+}
+
+// 改进的章节标题样式
+.page__content {
+    h2.section-title {
+        margin-top: 2.5em;
+        margin-bottom: 1.5em;
+        padding: 0.8em 1.2em;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border-radius: $border-radius * 2;
+        font-size: 1.5em;
+        font-weight: 600;
+        box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+        position: relative;
+        display: inline-block;
+        
+        &::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 4px;
+            background: linear-gradient(90deg, transparent, #667eea, transparent);
+            border-radius: 2px;
+        }
+    }
+    
+    h2.section-title-education {
+        background: linear-gradient(135deg, #4299e1 0%, #2c5282 100%);
+        box-shadow: 0 4px 12px rgba(66, 153, 225, 0.3);
+    }
+    
+    h2.section-title-internship {
+        background: linear-gradient(135deg, #f56565 0%, #c53030 100%);
+        box-shadow: 0 4px 12px rgba(245, 101, 101, 0.3);
+    }
+    
+    h2.section-title-news {
+        background: linear-gradient(135deg, #ed8936 0%, #c05621 100%);
+        box-shadow: 0 4px 12px rgba(237, 137, 54, 0.3);
+    }
+    
+    h2.section-title-publication {
+        background: linear-gradient(135deg, #48bb78 0%, #2f855a 100%);
+        box-shadow: 0 4px 12px rgba(72, 187, 120, 0.3);
+    }
+    
+    h2.section-title-service {
+        background: linear-gradient(135deg, #9f7aea 0%, #6b46c1 100%);
+        box-shadow: 0 4px 12px rgba(159, 122, 234, 0.3);
+    }
+}
