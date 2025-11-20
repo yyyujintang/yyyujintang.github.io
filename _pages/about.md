@@ -59,8 +59,7 @@ My long-term research interests lie in:
 </div>
 
 # Educations
-
-{: .section-title .section-title-education}
+{: #educations .section-title .section-title-education}
 
 <div class="education-item">
   <div class="logo-container">
@@ -97,8 +96,7 @@ My long-term research interests lie in:
 </div>
 
 # Internships
-
-{: .section-title .section-title-internship}
+{: #internships .section-title .section-title-internship}
 
 <div class="internship-item highlight">
   <div class="logo-container">
@@ -137,8 +135,7 @@ My long-term research interests lie in:
 </div>
 
 # News
-
-{: .section-title .section-title-news}
+{: #news .section-title .section-title-news}
 
 - *2025.09*: &nbsp;Yujin enrolled in Dartmouth College as a Ph.D. student in Computer Science.
 - *2025.03*: &nbsp;Yujin joined Alibaba DAMO Academy as a research intern.
@@ -151,8 +148,7 @@ My long-term research interests lie in:
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
 
 # Publication & PrePrint
-
-{: .section-title .section-title-publication}
+{: #publication--preprint .section-title .section-title-publication}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2024</div><img src='images/PredFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -168,7 +164,7 @@ Video Prediction Transformers without Recurrence or Convolution
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Precognition Workshop, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting
@@ -179,7 +175,6 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop, 2024</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
@@ -195,17 +190,14 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 </div>
 
 
-
 # Academic Service
-
-{: .section-title .section-title-service}
+{: #academic-service .section-title .section-title-service}
 
 * **2025:** Reviewer for *Transactions on Machine Learning Research (TMLR)* and *International Journal of Computer Vision (IJCV)*
 * **2024:** Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
 
 # Notes
-
-{: .section-title .section-title-notes}
+{: #notes .section-title .section-title-notes}
 
 Computer Vision PhD Survival Guide Series(1) CV Paper Tracking and Writing [Link](https://zhuanlan.zhihu.com/p/610774199)
 
@@ -214,8 +206,7 @@ Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools  [Li
 Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command  [Link](https://zhuanlan.zhihu.com/p/676491841)
 
 # Resources for CV Researchers
-
-{: .section-title .section-title-resources}
+{: #resources-for-cv-researchers .section-title .section-title-resources}
 
 [Ming-Hsuan Yang-UCM](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): How to Get Your CVPR Paper Rejected? [Link](https://vision.sjtu.edu.cn/files/How-to-get-your-CVPR-paper-rejected.pdf)
 
