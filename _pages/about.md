@@ -18,7 +18,7 @@ redirect_from:
 
 I am a first-year CS Ph.D. Student at [Dartmouth College](https://home.dartmouth.edu). I got my master's degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
-I was previously a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en) for 5 wonderful months. I was previously a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I work closely with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en), Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **Tiktok**. I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I also work closely with Dr. [Peijie Dong](https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN) at **HKUST(GZ)**.
+I was previously a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en) for 5 wonderful months, mentored by [Tian Zhou](https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN). I was previously a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I work closely with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en), Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **Tiktok**. I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I also work closely with Dr. [Peijie Dong](https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN) at **HKUST(GZ)**.
 
 My previous research experience mainly lies in Video Prediction.
 
@@ -26,16 +26,16 @@ My long-term research interests lie in:
 
 <div class="research-interests">
   <div class="interest-box">
-    <h3>🧠 Multimodal Large Language Models</h3>
-    <p>Exploring the integration of vision, language, and other modalities to build more intelligent AI systems that can understand and interact with the world in multiple ways.</p>
+    <h3>👁️ Visual Representation Learning</h3>
+    <p>Advancing continuous visual representations over discrete ones and developing superior tokenization strategies for Vision Transformers to capture richer semantic structures.</p>
   </div>
   <div class="interest-box">
-    <h3>👁️ Visual Representation Learning</h3>
-    <p>Developing effective methods to learn rich visual representations that capture semantic information and can be transferred across tasks and domains.</p>
+    <h3>🧠 Multimodal Large Language Models</h3>
+    <p>Designing efficient vision-language projectors, exploring manifold-to-Euclidean space mappings, and developing token compression/pruning/merging techniques for efficient inference. Investigating how enhanced visual representations improve multimodal understanding.</p>
   </div>
   <div class="interest-box">
     <h3>🤖 AI Agents</h3>
-    <p>Building autonomous AI agents that can perceive, reason, and act in complex environments to solve real-world problems efficiently.</p>
+    <p>Enhancing multi-agent systems through advanced interaction mechanisms, efficient consensus protocols (voting, judgment, decision-making), and applying these frameworks to solve real-world problems.</p>
   </div>
 </div>
 
@@ -44,7 +44,8 @@ My long-term research interests lie in:
 
 </div>
 
-# 📖 Educations
+# Educations
+
 {: .section-title .section-title-education}
 
 <div class="education-item">
@@ -84,7 +85,8 @@ My long-term research interests lie in:
   </div>
 </div>
 
-# 💻 Internships
+# Internships
+
 {: .section-title .section-title-internship}
 
 <div class="internship-item highlight">
@@ -162,7 +164,8 @@ My long-term research interests lie in:
   </div>
 </div>
 
-# 🔥 News
+# News
+
 {: .section-title .section-title-news}
 
 - *2025.09*: &nbsp;Yujin enrolled in Dartmouth College as a Ph.D. student in Computer Science.
@@ -175,7 +178,8 @@ My long-term research interests lie in:
 - *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge! [Slides](https://docs.google.com/presentation/d/1NTxQQr-b-zcBdQkIx42IhUKVZgKbo5U7QDIxCo0q-Qw/edit?usp=sharing)
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
 
-# 📝 Publication & PrePrint
+# Publication & PrePrint
+
 {: .section-title .section-title-publication}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2024</div><img src='images/PredFormer.png' alt="sym" width="100%"></div></div>
@@ -220,14 +224,16 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 
 
-# 💻 Academic Service
+# Academic Service
+
 {: .section-title .section-title-service}
 
 * **2025:** Reviewer for *Transactions on Machine Learning Research (TMLR)* and *International Journal of Computer Vision (IJCV)*
 * **2024:** Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
 
-# 📕 Notes
-{: .section-title}
+# Notes
+
+{: .section-title .section-title-notes}
 
 Computer Vision PhD Survival Guide Series(1) CV Paper Tracking and Writing [Link](https://zhuanlan.zhihu.com/p/610774199)
 
@@ -235,8 +241,9 @@ Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools  [Li
 
 Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command  [Link](https://zhuanlan.zhihu.com/p/676491841)
 
-# 🔗 Resources for CV Researchers
-{: .section-title}
+# Resources for CV Researchers
+
+{: .section-title .section-title-resources}
 
 [Ming-Hsuan Yang-UCM](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): How to Get Your CVPR Paper Rejected? [Link](https://vision.sjtu.edu.cn/files/How-to-get-your-CVPR-paper-rejected.pdf)
 
