@@ -13,7 +13,9 @@ body {
   padding-bottom: 0em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -22,10 +24,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 1em 0 0.5em;
-  line-height: 1.2;
+  margin: 1.2em 0 0.6em;
+  line-height: 1.3;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: 600;
+  color: $darker-gray;
+  letter-spacing: -0.01em;
 }
 
 h1 {
@@ -59,7 +63,7 @@ small, .small {
 }
 
 p {
-  margin-bottom: 0.5em;
+  margin-bottom: 1em;
 }
 
 u,
@@ -74,6 +78,15 @@ ins {
 ul {
   padding-inline-start: 2em;
   margin-block-start: 0.5em;
+  
+  li {
+    margin-bottom: 0.5em;
+    line-height: 1.7;
+    
+    &::marker {
+      color: $info-color;
+    }
+  }
 }
 
 del a {
@@ -118,6 +131,10 @@ blockquote {
 /* links */
 
 a {
+  color: $link-color;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: $global-transition;
   
   &:focus {
     @extend %tab-focus;
@@ -126,6 +143,12 @@ a {
   &:hover,
   &:active {
     outline: 0;
+    color: $link-color-hover;
+    border-bottom-color: $link-color-hover;
+  }
+  
+  &:visited {
+    color: $link-color-visited;
   }
 }
 
@@ -144,13 +167,14 @@ a > code,
 li > code,
 figcaption > code,
 td > code {
-  padding-top: 0.1rem;
-  padding-bottom: 0.1rem;
-  font-size: $type-size-6;
+  padding: 0.2em 0.4em;
+  font-size: 0.9em;
   background: $code-background-color;
-  border: 1px solid $lighter-gray;
+  border: 1px solid $light-gray;
   border-radius: $border-radius;
-  box-shadow: $box-shadow;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  color: #e83e8c;
+  font-weight: 500;
 
   &:before, &:after {
     letter-spacing: -0.2em;

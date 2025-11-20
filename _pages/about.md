@@ -26,10 +26,11 @@ My long-term research interests lie in:
 
 * Multimodal Large Language Models
 * Visual Representation Learning
+* AI Agents
 
-<div style="color: red;">
-    I’m open for academic collaborations. If you are interested, please feel free to email me (tangyujin0275@gmail.com).
-
+<div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #fff5f5 0%, #fff1f1 100%); border-left: 4px solid #f56565; border-radius: 8px; box-shadow: 0 2px 8px rgba(245, 101, 101, 0.1);">
+    <strong style="color: #c53030; font-size: 1.1em; display: block; margin-bottom: 0.5em;">🤝 Open for Collaboration</strong>
+    <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations. If you are interested, please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a>.</p>
 </div>
 
 # 📖 Educations
@@ -100,6 +101,8 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 </div>
 </div>
+
+
 
 # 💻 Academic Service
 

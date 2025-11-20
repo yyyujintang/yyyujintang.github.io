@@ -51,23 +51,82 @@
 .page__content {
   #about-me{
     margin-top: -10em;
-      &:before { 
-        content: ''; 
-        display: block; 
-        position: relative; 
-        width: 0; 
-        height: 10em; 
-        margin-top: -10em;
+    padding: 1.5em;
+    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+    border-radius: $border-radius * 2;
+    border: 1px solid $border-color;
+    margin-bottom: 2em;
+    
+    &:before { 
+      content: ''; 
+      display: block; 
+      position: relative; 
+      width: 0; 
+      height: 10em; 
+      margin-top: -10em;
+    }
+    
+    p {
+      line-height: 1.8;
+      margin-bottom: 1em;
     }
   }
   h1 {
-    margin-top: 1em;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    padding-bottom: 0.6em;
+    border-bottom: 2px solid $border-color;
+    font-weight: 600;
+    position: relative;
+    
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 60px;
+      height: 2px;
+      background: linear-gradient(to right, $info-color, lighten($info-color, 20%));
+      border-radius: 2px;
+    }
+  }
+  
+  h2 {
+    margin-top: 2em;
+    margin-bottom: 1em;
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    font-weight: 600;
+    color: $darker-gray;
+    position: relative;
+    padding-left: 0.75em;
+    border-left: 4px solid $info-color;
+    
+    &::before {
+      content: '';
+      position: absolute;
+      left: -4px;
+      top: 0;
+      bottom: 0;
+      width: 4px;
+      background: linear-gradient(to bottom, $info-color, lighten($info-color, 15%));
+      border-radius: 2px 0 0 2px;
+    }
   }
 
   p, li, dl {
     font-size: 1em;
+    color: $text-color;
+  }
+  
+  ul, ol {
+    li {
+      margin-bottom: 0.6em;
+      
+      &::marker {
+        color: $info-color;
+        font-weight: 600;
+      }
+    }
   }
 
   /* paragraph indents */
@@ -84,13 +143,19 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    color: $link-color;
+    border-bottom: 1px solid transparent;
+    transition: $global-transition;
 
     &:hover {
-      text-decoration: underline;
+      color: $link-color-hover;
+      border-bottom-color: $link-color-hover;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 4px 16px rgba(#000, 0.2);
+        transform: scale(1.02);
+        transition: $global-transition;
       }
     }
   }

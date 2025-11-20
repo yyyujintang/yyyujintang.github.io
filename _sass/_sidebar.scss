@@ -69,6 +69,13 @@
    Author profile and links
    ========================================================================== */
 .profile_box{
+  padding: 1.5em;
+  background: linear-gradient(to bottom, #ffffff, #fafbfc);
+  border: 1px solid $border-color;
+  border-radius: $border-radius * 2;
+  box-shadow: $box-shadow;
+  transition: $global-transition;
+  
   @include breakpoint($large) {
     display: block;
   }
@@ -76,6 +83,13 @@
   justify-content: flex-start;
   align-content: flex-start;
   align-items: center;
+  
+  @include breakpoint($large) {
+    &:hover {
+      box-shadow: $box-shadow-hover;
+      transform: translateY(-2px);
+    }
+  }
 }
 
 .author__avatar {
@@ -95,10 +109,19 @@
     max-width: 175px;
     min-width: 75px;
     border-radius: 50%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: $global-transition;
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 3px solid $border-color;
+      background: white;
+      
+      &:hover {
+        transform: scale(1.05);
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+        border-color: $info-color;
+      }
     }
   }
 }
@@ -186,7 +209,7 @@
   border-radius: $border-radius;
   background: #fff;
   z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  box-shadow: 0 4px 16px rgba(#000, 0.15);
   cursor: default;
 
   @include breakpoint($large) {
@@ -239,16 +262,32 @@
 
   a {
     display: block;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
+    padding: 0.5em 0.75em;
     padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    color: inherit;
+    color: $text-color;
     font-size: $type-size-5;
     text-decoration: none;
+    border-radius: $border-radius;
+    transition: $global-transition;
 
     &:hover {
-      text-decoration: underline;
+      background-color: lighten($info-color, 45%);
+      color: $info-color;
+      transform: translateX(3px);
+      text-decoration: none;
+    }
+    
+    i {
+      margin-right: 0.5em;
+      width: 1.2em;
+      text-align: center;
+      color: $gray;
+      transition: $global-transition;
+    }
+    
+    &:hover i {
+      color: $info-color;
     }
   }
 }
