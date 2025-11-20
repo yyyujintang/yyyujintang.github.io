@@ -16,11 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year CS Ph.D. Student at [Dartmouth College](https://home.dartmouth.edu). I got my master's degree from [The Chinese University of Hongkong, Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). Before that, I received my bachelor's degree from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
+I am a first-year Ph.D. student in Computer Science at [Dartmouth College](https://home.dartmouth.edu), where I pursue cutting-edge research in computer vision and machine learning. Previously, I earned my Master's degree in Data Science from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), under the guidance of Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). My academic journey began with a Bachelor's degree in Biomedical Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
-I was previously a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en) for 5 wonderful months, mentored by [Tian Zhou](https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN). I was previously a Visiting Student working with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at [AI Institute](https://ai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I work closely with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en), Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **Tiktok**. I was previously a Research Assistant at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en). I also work closely with Dr. [Peijie Dong](https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN) at **HKUST(GZ)**.
+I have had the privilege of working as a research intern at [Alibaba DAMO Academy](https://damo.alibaba.com/research-areas?language=en) for five months, mentored by [Tian Zhou](https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN). I also served as a Visiting Student with Prof. [Ming-Hsuan Yang](https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN) at [UC Merced](https://www.ucmerced.edu/) and Prof. [Chao Ma](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN) at the [AI Institute](https://ai.sjtu.edu.cn) of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I maintain active collaborations with Dr. [Lu Qi](https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en) and Dr. [Xiangtai Li](https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN) at **TikTok**, as well as with Prof. [Junwei Liang](https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en) and Dr. [Peijie Dong](https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN) at AI Thrust, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
 
-My previous research experience mainly lies in Video Prediction.
+My research background primarily focuses on video prediction and spatiotemporal forecasting, with contributions to both theoretical understanding and practical applications.
 
 My long-term research interests lie in:
 
@@ -39,9 +39,9 @@ My long-term research interests lie in:
   </div>
 </div>
 
-<div style="color: red;">
-    I’m open for academic collaborations. If you are interested, please feel free to email me (tangyujin0275@gmail.com).
-
+<div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #fff5f5 0%, #fff1f1 100%); border-left: 4px solid #f56565; border-bottom: 1px solid #f56565; border-radius: 8px; box-shadow: 0 2px 8px rgba(245, 101, 101, 0.1);">
+    <strong style="color: #c53030; font-size: 1.1em; display: block; margin-bottom: 0.5em;">🤝 Open for Collaboration</strong>
+    <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations. If you are interested, please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a>.</p>
 </div>
 
 # Educations
