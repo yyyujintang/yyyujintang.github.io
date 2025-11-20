@@ -277,13 +277,18 @@
       transition: $global-transition;
       width: 100%;
       
-      i {
+      i, svg {
         margin-right: 0.5em;
         width: 1.2em;
+        height: 1.2em;
         text-align: center;
         color: $gray;
         transition: $global-transition;
         flex-shrink: 0;
+      }
+      
+      svg.icon-x, svg.icon-zhihu {
+        fill: currentColor;
       }
     }
     
@@ -295,7 +300,8 @@
         text-decoration: none;
       }
       
-      &:hover i {
+      &:hover i,
+      &:hover svg {
         color: $info-color;
       }
     }

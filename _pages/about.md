@@ -27,15 +27,28 @@ My long-term research interests lie in:
 <div class="research-interests">
   <div class="interest-box">
     <h3>👁️ Visual Representation Learning</h3>
-    <p>Advancing continuous visual representations over discrete ones and developing superior tokenization strategies for Vision Transformers to capture richer semantic structures.</p>
+    <ul>
+      <li>Continuous vs. discrete visual representations</li>
+      <li>Superior tokenization strategies for Vision Transformers</li>
+      <li>Richer semantic structure capture</li>
+    </ul>
   </div>
   <div class="interest-box">
     <h3>🧠 Multimodal Large Language Models</h3>
-    <p>Designing efficient vision-language projectors, exploring manifold-to-Euclidean space mappings, and developing token compression/pruning/merging techniques for efficient inference. Investigating how enhanced visual representations improve multimodal understanding.</p>
+    <ul>
+      <li>Efficient vision-language projectors</li>
+      <li>Manifold-to-Euclidean space mappings</li>
+      <li>Token compression/pruning/merging for efficient inference</li>
+      <li>Impact of visual representations on multimodal understanding</li>
+    </ul>
   </div>
   <div class="interest-box">
     <h3>🤖 AI Agents</h3>
-    <p>Enhancing multi-agent systems through advanced interaction mechanisms, efficient consensus protocols (voting, judgment, decision-making), and applying these frameworks to solve real-world problems.</p>
+    <ul>
+      <li>Multi-agent interaction mechanisms</li>
+      <li>Efficient consensus protocols (voting, judgment, decision-making)</li>
+      <li>Real-world problem solving frameworks</li>
+    </ul>
   </div>
 </div>
 
@@ -128,7 +141,6 @@ My long-term research interests lie in:
   </div>
 </div>
 
-</div>
 
 # News
 
@@ -175,7 +187,6 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop, 2024</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -187,7 +198,6 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 </div>
 </div>
-
 
 
 # Academic Service
