@@ -50,21 +50,12 @@
 
 .page__content {
   #about-me{
-    margin-top: -10em;
     padding: 1.5em;
     background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
     border-radius: $border-radius * 2;
     border: 1px solid $border-color;
     margin-bottom: 2em;
-    
-    &:before { 
-      content: ''; 
-      display: block; 
-      position: relative; 
-      width: 0; 
-      height: 10em; 
-      margin-top: -10em;
-    }
+    margin-top: 1em;
     
     p {
       line-height: 1.8;

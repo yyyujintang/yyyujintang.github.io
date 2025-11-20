@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yujin Tang"
-description              : "Computer Vision Reseacher"
+description              : "CV/NLP Reseacher"
 repository               : "yyyujintang/yyyujintang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yujin Tang"
+  name             : "Yujin(Jenny) Tang"
   avatar           : "images/photo.png"
   bio              : "Honest, Humble, Open, Learning, Adventure"
-  location         : "New Hampshire, USA"
+  location         : "NH, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=T41IQ1EAAAAJ"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  
+  linkedin         :  "https://www.linkedin.com/in/yujin-jenny-tang-542b321a7/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

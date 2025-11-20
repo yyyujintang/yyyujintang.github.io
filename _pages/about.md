@@ -14,7 +14,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<div id='about-me'>
 
 I am a first-year Ph.D. student in Computer Science at [Dartmouth College](https://home.dartmouth.edu), where I pursue cutting-edge research in computer vision and machine learning. Previously, I earned my Master's degree in Data Science from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), under the guidance of Prof. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN). My academic journey began with a Bachelor's degree in Biomedical Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 
@@ -38,7 +38,7 @@ My long-term research interests lie in:
     <ul>
       <li>Efficient vision-language projectors</li>
       <li>Manifold-to-Euclidean space mappings</li>
-      <li>Token compression/pruning/merging for efficient inference</li>
+      <li>Token compression for efficient inference</li>
     </ul>
   </div>
   <div class="interest-box">
@@ -49,6 +49,8 @@ My long-term research interests lie in:
       <li>Real-world problem solving frameworks</li>
     </ul>
   </div>
+</div>
+
 </div>
 
 <div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #fff5f5 0%, #fff1f1 100%); border-left: 4px solid #f56565; border-bottom: 1px solid #f56565; border-radius: 8px; box-shadow: 0 2px 8px rgba(245, 101, 101, 0.1);">
