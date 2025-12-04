@@ -16,7 +16,7 @@ redirect_from:
 
 <div id='about-me'>
 
-<p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>, where I pursue cutting-edge research in computer vision and machine learning. Previously, I earned my Master's degree in Data Science from <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a></strong>, under the guidance of Prof. <strong><a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></strong>. My academic journey began with a Bachelor's degree in Biomedical Engineering from <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>.</p>
+<p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>, advised by <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong>, where I pursue cutting-edge research in computer vision and machine learning. Previously, I earned my Master's degree in Data Science from <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a></strong>, under the guidance of Prof. <strong><a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></strong>. My academic journey began with a Bachelor's degree in Biomedical Engineering from <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>.</p>
 
 <p>I worked as a research intern at <strong><a href="https://damo.alibaba.com/research-areas?language=en">Alibaba DAMO Academy</a></strong> for five months, mentored by <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at <strong><a href="https://www.ucmerced.edu/">UC Merced</a></strong> and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the <strong><a href="https://ai.sjtu.edu.cn">AI Institute</a></strong> of <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at <strong>TikTok</strong>, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a></strong> at AI Thrust, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>.</p>
 
@@ -59,6 +59,7 @@ My long-term research interests lie in:
 </div>
 
 # Educations
+
 {: #educations .section-title .section-title-education}
 
 <div class="education-item">
@@ -96,6 +97,7 @@ My long-term research interests lie in:
 </div>
 
 # Internships
+
 {: #internships .section-title .section-title-internship}
 
 <div class="internship-item highlight">
@@ -135,6 +137,7 @@ My long-term research interests lie in:
 </div>
 
 # News
+
 {: #news .section-title .section-title-news}
 
 - *2025.09*: &nbsp;Yujin enrolled in Dartmouth College as a Ph.D. student in Computer Science.
@@ -148,6 +151,7 @@ My long-term research interests lie in:
 - *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
 
 # Publication & PrePrint
+
 {: #publication--preprint .section-title .section-title-publication}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2024</div><img src='images/PredFormer.png' alt="sym" width="100%"></div></div>
@@ -162,7 +166,7 @@ Video Prediction Transformers without Recurrence or Convolution
 </div>
 </div>
 
-
+a
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -176,6 +180,7 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 </div>
 </div>
 
+d
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop, 2024</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -189,14 +194,17 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 </div>
 </div>
 
+vise
 
 # Academic Service
+
 {: #academic-service .section-title .section-title-service}
 
 * **2025:** Reviewer for *Transactions on Machine Learning Research (TMLR)* and *International Journal of Computer Vision (IJCV)*
 * **2024:** Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
 
 # Notes
+
 {: #notes .section-title .section-title-notes}
 
 Computer Vision PhD Survival Guide Series(1) CV Paper Tracking and Writing [Link](https://zhuanlan.zhihu.com/p/610774199)
@@ -206,6 +214,7 @@ Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools  [Li
 Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command  [Link](https://zhuanlan.zhihu.com/p/676491841)
 
 # Resources for CV Researchers
+
 {: #resources-for-cv-researchers .section-title .section-title-resources}
 
 [Ming-Hsuan Yang-UCM](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): How to Get Your CVPR Paper Rejected? [Link](https://vision.sjtu.edu.cn/files/How-to-get-your-CVPR-paper-rejected.pdf)
