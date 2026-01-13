@@ -16,21 +16,23 @@ redirect_from:
 
 <div id='about-me'>
 
-<p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>, advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong>, where I pursue cutting-edge research in computer vision and machine learning. Previously, I earned my Master's degree in Data Science from <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a></strong>, under the guidance of Prof. <strong><a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></strong>. My academic journey began with a Bachelor's degree in Biomedical Engineering from <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>.</p>
+<p><em>As of 12 January 2026</em></p>
+
+<p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>, advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong>, where I pursue cutting-edge research at the intersection of Computer Vision and AI Agents. Previously, I earned my Master's degree in Data Science from <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a></strong>, under the guidance of Prof. <strong><a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></strong>. My academic journey began with a Bachelor's degree in Biomedical Engineering from <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>.</p>
 
 <p>I worked as a research intern at <strong><a href="https://damo.alibaba.com/research-areas?language=en">Alibaba DAMO Academy</a></strong> for five months, mentored by <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at <strong><a href="https://www.ucmerced.edu/">UC Merced</a></strong> and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the <strong><a href="https://ai.sjtu.edu.cn">AI Institute</a></strong> of <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at <strong>TikTok</strong>, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a></strong> at AI Thrust, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>.</p>
 
 <p>My previous research background primarily focused on video prediction and spatiotemporal forecasting.</p>
 
-My Ph.D. and long-term research interests lie in:
+My Ph.D. research interests lie in the intersection of AI Agents and Computer Vision:
 
 <div class="research-interests">
   <div class="interest-box">
-    <h3>👁️ Visual Representation Learning</h3>
+    <h3>🤖 AI Agents</h3>
     <ul>
-      <li>Continuous vs. discrete visual representations</li>
-      <li>Superior tokenization strategies for Vision Transformers</li>
-      <li>Richer semantic structure capture</li>
+      <li>Multi-agent interaction mechanisms</li>
+      <li>Efficient consensus protocols (voting, judgment, decision-making)</li>
+      <li>Real-world problem solving frameworks</li>
     </ul>
   </div>
   <div class="interest-box">
@@ -42,11 +44,11 @@ My Ph.D. and long-term research interests lie in:
     </ul>
   </div>
   <div class="interest-box">
-    <h3>🤖 AI Agents</h3>
+    <h3>👁️ Visual Representation Learning</h3>
     <ul>
-      <li>Multi-agent interaction mechanisms</li>
-      <li>Efficient consensus protocols (voting, judgment, decision-making)</li>
-      <li>Real-world problem solving frameworks</li>
+      <li>Continuous vs. discrete visual representations</li>
+      <li>Superior tokenization strategies for Vision Transformers</li>
+      <li>Richer semantic structure capture</li>
     </ul>
   </div>
 </div>
@@ -71,6 +73,7 @@ My Ph.D. and long-term research interests lie in:
     <div class="title">Dartmouth College</div>
     <div class="subtitle">Ph.D. in Computer Science</div>
     <div class="date">2025.09 - 2030.07 (expected)</div>
+    <div class="description">Advised by Prof. <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></div>
   </div>
 </div>
 
@@ -94,6 +97,7 @@ My Ph.D. and long-term research interests lie in:
     <div class="title">Shanghai Jiao Tong University</div>
     <div class="subtitle">B.Eng. in Biomedical Engineering</div>
     <div class="date">2017.09 - 2021.06</div>
+    <div class="description">Advised by Prof. <a href="https://bme.sjtu.edu.cn/En/FacultyDetail/41/">Dahong Qian</a></div>
   </div>
 </div>
 
@@ -133,7 +137,7 @@ My Ph.D. and long-term research interests lie in:
     <div class="title">The Hong Kong University of Science and Technology (Guangzhou)</div>
     <div class="subtitle">Research Assistant at AI Thrust</div>
     <div class="date">2023.02 - 2024.05</div>
-    <div class="description">Supervised by Prof. <a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a>. Also working closely with Dr. <a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a>.</div>
+    <div class="description">Supervised by Prof. <a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a>. </div>
   </div>
 </div>
 
@@ -183,7 +187,6 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop, 2024</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -195,7 +198,6 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 </div>
 </div>
-
 
 
 # Academic Service
@@ -210,9 +212,9 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 {: #teaching .section-title .section-title-teaching}
 
-* **2026:** Head Teaching Assistant for Principles of Machine Learning, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
-* **2025:** Teaching Assistant for Video Understanding, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
-* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>
+* **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College `</a></strong>`
+* **Fall 2025:** Teaching Assistant for Video Understanding, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College `</a></strong>`
+* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), `<strong><a href="https://www.hkust-gz.edu.cn/">`The Hong Kong University of Science and Technology (Guangzhou)`</a></strong>`
 
 # Notes
 
