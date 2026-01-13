@@ -20,9 +20,9 @@ redirect_from:
 
 <p>I worked as a research intern at <strong><a href="https://damo.alibaba.com/research-areas?language=en">Alibaba DAMO Academy</a></strong> for five months, mentored by <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at <strong><a href="https://www.ucmerced.edu/">UC Merced</a></strong> and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the <strong><a href="https://ai.sjtu.edu.cn">AI Institute</a></strong> of <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at <strong>TikTok</strong>, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a></strong> at AI Thrust, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>.</p>
 
-<p>My research background primarily focuses on video prediction and spatiotemporal forecasting.</p>
+<p>My previous research background primarily focused on video prediction and spatiotemporal forecasting.</p>
 
-My long-term research interests lie in:
+My Ph.D. and long-term research interests lie in:
 
 <div class="research-interests">
   <div class="interest-box">
@@ -141,6 +141,7 @@ My long-term research interests lie in:
 
 {: #news .section-title .section-title-news}
 
+- *2026.01*: &nbsp;PredFormer was accepted by TMLR.
 - *2025.09*: &nbsp;Yujin enrolled in Dartmouth College as a Ph.D. student in Computer Science.
 - *2025.03*: &nbsp;Yujin joined Alibaba DAMO Academy as a research intern.
 - *2024.10*: &nbsp;PredFormer is available!  This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. [**Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
@@ -155,12 +156,12 @@ My long-term research interests lie in:
 
 {: #publication--preprint .section-title .section-title-publication}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2024</div><img src='images/PredFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR, 2026</div><img src='images/PredFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Video Prediction Transformers without Recurrence or Convolution
 
-**Yujin Tang**, Lu Qi, Fei Xie, Xiangtai Li, Chao Ma, Ming-Hsuan Yang
+**Yujin Tang**, Lu Qi, Xiangtai Li, Chao Ma, Ming-Hsuan Yang
 
 [ **Paper**](https://arxiv.org/abs/2410.04733)  [**Website**](https://yyyujintang.github.io/predformer-project/)  [**Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer) [知乎](https://zhuanlan.zhihu.com/p/938884694) [时空探索之旅](https://mp.weixin.qq.com/s/hkUyFnwwrIOMJYA6yVQ6_Q) [圆圆的算法笔记](https://mp.weixin.qq.com/s/SmVYqvoDJ5fm8KxEEX8dqg) [CVer](https://mp.weixin.qq.com/s/_NJAawEt_7TC8fFZP7gh5A) [Kaggle竞赛宝典](https://mp.weixin.qq.com/s/QLF-DBqeHaor3morIlWC5w) [深度学习工坊](https://mp.weixin.qq.com/s/ejhUnpkQcsaMYFoRKyK40A) [我爱计算机视觉](https://mp.weixin.qq.com/s/OMks7JRIIZlbvXJEO7TAgg)
 
@@ -195,12 +196,23 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 </div>
 </div>
 
+
+
 # Academic Service
 
 {: #academic-service .section-title .section-title-service}
 
+* **2026:** Reviewer for *International Journal of Computer Vision (IJCV)*
 * **2025:** Reviewer for *Transactions on Machine Learning Research (TMLR)* and *International Journal of Computer Vision (IJCV)*
 * **2024:** Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
+
+# Teaching
+
+{: #teaching .section-title .section-title-teaching}
+
+* **2026:** Head Teaching Assistant for Principles of Machine Learning, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
+* **2025:** Teaching Assistant for Video Understanding, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
+* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>
 
 # Notes
 

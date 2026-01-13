@@ -542,6 +542,16 @@ h1:before, .anchor:before {
         }
     }
     
+    h2.section-title-teaching {
+        &::before {
+            background: linear-gradient(180deg, #f59e0b 0%, #d97706 100%);
+        }
+        
+        &::after {
+            background: linear-gradient(90deg, rgba(245, 158, 11, 0.3), transparent);
+        }
+    }
+    
     h2.section-title-notes {
         &::before {
             background: linear-gradient(180deg, #667eea 0%, #764ba2 100%);
