@@ -16,8 +16,6 @@ redirect_from:
 
 <div id='about-me'>
 
-<p><em>As of 12 January 2026</em></p>
-
 <p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>, advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong>, where I pursue cutting-edge research at the intersection of Computer Vision and AI Agents. Previously, I earned my Master's degree in Data Science from <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a></strong>, under the guidance of Prof. <strong><a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></strong>. My academic journey began with a Bachelor's degree in Biomedical Engineering from <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>.</p>
 
 <p>I worked as a research intern at <strong><a href="https://damo.alibaba.com/research-areas?language=en">Alibaba DAMO Academy</a></strong> for five months, mentored by <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at <strong><a href="https://www.ucmerced.edu/">UC Merced</a></strong> and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the <strong><a href="https://ai.sjtu.edu.cn">AI Institute</a></strong> of <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at <strong>TikTok</strong>, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a></strong> at AI Thrust, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>.</p>
@@ -58,7 +56,6 @@ My Ph.D. research interests lie in the intersection of AI Agents and Computer Vi
 <div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #fff5f5 0%, #fff1f1 100%); border-left: 4px solid #f56565; border-bottom: 1px solid #f56565; border-radius: 8px; box-shadow: 0 2px 8px rgba(245, 101, 101, 0.1);">
     <strong style="color: #c53030; font-size: 1.1em; display: block; margin-bottom: 0.5em;">🤝 Open for Collaboration</strong>
     <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations. If you are interested, please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a>.</p>
-    <p style="margin: 0.8em 0 0 0; color: #742a2a; line-height: 1.6;">If you are from SJTU/CUHKSZ or resource-constrained regions and are applying to US CS PhD programs, don't hesitate to email me. I will try my best to reply in time, as a way to give back to the mentors and community who have helped me.</p>
 </div>
 
 # Educations
@@ -113,7 +110,7 @@ My Ph.D. research interests lie in the intersection of AI Agents and Computer Vi
     <div class="title">Alibaba DAMO Academy</div>
     <div class="subtitle">Algorithm Engineer Intern</div>
     <div class="date">2025.03 - 2025.07</div>
-    <div class="description">Research intern for 5 wonderful months. Working on cutting-edge AI research and development.</div>
+    <div class="description">Research intern for 5 wonderful months. Working on cutting-edge AI research and development. Mentored by Dr. <a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a> and Dr. <a href="https://scholar.google.com/citations?user=D_cOMBgAAAAJ&hl=en">Liang Sun</a></div>
   </div>
 </div>
 
@@ -125,7 +122,7 @@ My Ph.D. research interests lie in the intersection of AI Agents and Computer Vi
     <div class="title">UC Merced & Shanghai Jiao Tong University</div>
     <div class="subtitle">Remote Visiting Student @ UC Merced & Onsite Visiting Student @ SJTU</div>
     <div class="date">2024.06 - 2025.03</div>
-    <div class="description">Working with Prof. <a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a> at UC Merced and Prof. <a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a> at <a href="https://ai.sjtu.edu.cn">AI Institute, SJTU</a>.</div>
+    <div class="description">Working with Prof. <a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a> at UC Merced, Prof. <a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a> at <a href="https://ai.sjtu.edu.cn">AI Institute, SJTU</a>, and Prof. <a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a> at WHU.</div>
   </div>
 </div>
 
@@ -187,6 +184,7 @@ VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotempor
 </div>
 
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop, 2024</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -198,6 +196,7 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 </div>
 </div>
+
 
 
 # Academic Service
