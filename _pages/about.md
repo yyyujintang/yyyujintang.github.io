@@ -211,9 +211,9 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 {: #teaching .section-title .section-title-teaching}
 
-* **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College `</a></strong>`
-* **Fall 2025:** Teaching Assistant for Video Understanding, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College `</a></strong>`
-* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), `<strong><a href="https://www.hkust-gz.edu.cn/">`The Hong Kong University of Science and Technology (Guangzhou)`</a></strong>`
+* **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
+* **Fall 2025:** Teaching Assistant for Video Understanding, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
+* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>
 
 # Notes
 
