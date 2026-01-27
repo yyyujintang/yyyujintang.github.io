@@ -16,7 +16,7 @@ redirect_from:
 
 <div id='about-me'>
 
-<p><em>Last updated: 12 January 2026</em></p>
+<p><em>Last updated: 27 January 2026</em></p>
 
 <p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>, advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong>, where I pursue cutting-edge research at the intersection of AI Agents and Computer Vision. Previously, I earned my Master's degree in Data Science from <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a></strong>, under the guidance of Prof. <strong><a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></strong>. My academic journey began with a Bachelor's degree in Biomedical Engineering from <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>.</p>
 
@@ -24,13 +24,13 @@ redirect_from:
 
 <p>My previous research background primarily focused on video prediction and spatiotemporal forecasting.</p>
 
-<p>My Ph.D. research interests lie in the intersection of AI Agents and Computer Vision, with a particular focus on <strong>AI Agents</strong>: agent memory mechanisms and architectures, long-term memory storage and retrieval for agents, and memory-augmented agent reasoning and decision-making.</p>
+<p>My Ph.D. research interests lie in the intersection of AI Agents and Computer Vision, with a particular focus on <strong>AI Agents</strong>: (1) agent memory mechanisms and architectures, (2) long-term memory storage and retrieval for agents, and (3) memory-augmented agent reasoning and decision-making.</p>
 
 </div>
 
 <div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #fff5f5 0%, #fff1f1 100%); border-left: 4px solid #f56565; border-bottom: 1px solid #f56565; border-radius: 8px; box-shadow: 0 2px 8px rgba(245, 101, 101, 0.1);">
     <strong style="color: #c53030; font-size: 1.1em; display: block; margin-bottom: 0.5em;">🤝 Open for Collaboration & Internship Opportunities</strong>
-    <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations and actively seeking <strong>agent-related summer internship opportunities</strong> based in the U.S. for 2026 and 2027. If you have suitable opportunities for collaboration or internships, please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a>.</p>
+    <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations and actively seeking <span style="background-color: #fed7d7; padding: 2px 6px; border-radius: 4px; font-weight: 700; color: #c53030;">agent-related summer internship opportunities</span> based in the U.S. for 2026 and 2027. If you have suitable opportunities for collaboration or internships, please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a>.</p>
 </div>
 
 # News
@@ -50,24 +50,45 @@ redirect_from:
 
 {: #publications .section-title .section-title-publication}
 
-- [Bridging past and future: Distribution-aware alignment for time series forecasting](https://arxiv.org/abs/2509.14181)
-  Yifan Hu, Jie Yang, Tian Zhou, Peiyuan Liu, **Yujin Tang**, Rong Jin, Liang Sun.
-  *International Conference on Learning Representations* (**ICLR**), 2026.
-- [Video Prediction Transformers without Recurrence or Convolution](https://arxiv.org/abs/2410.04733)
-  **Yujin Tang**, Qi Lu, Xiangtai Li, Chao Ma, Ming-Hsuan Yang.
-  *Transactions on Machine Learning Research* (**TMLR**), 2026.
-- [VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting](https://arxiv.org/abs/2403.16536)
-  **Yujin Tang**, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang.
-  *IEEE Conference on Computer Vision and Pattern Recognition Workshop* (**CVPR Workshop**), 2024.
-- [PostRainBench: A comprehensive benchmark and a new model for precipitation forecasting](https://arxiv.org/abs/2310.02676)
-  **Yujin Tang**, Jiaming Zhou, Xiang Pan, Zeying Gong, Junwei Liang.
-  *International Conference on Learning Representations Workshop* (**ICLR Workshop**), 2024.
-- [Patchmixer: A patch-mixing architecture for long-term time series forecasting](https://arxiv.org/abs/2310.00655)
-  Zeying Gong, **Yujin Tang**, Junwei Liang.
-  *International Joint Conference on Artificial Intelligence Workshop* (**IJCAI Workshop**), 2024.
-- [Ovarian Cancer Early Diagnosis in Proteomics Data Using Composite Asymmetric Convolution](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_26)
-  Cheng Yuan, **Yujin Tang** and Dahong Qian.
-  *International Conference on Medical Image Computing and Computer-Assisted Intervention* (**MICCAI**), 2020.
+<div class="publication-list">
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://arxiv.org/abs/2509.14181">Bridging past and future: Distribution-aware alignment for time series forecasting</a></div>
+<div class="pub-authors">Yifan Hu, Jie Yang, Tian Zhou, Peiyuan Liu, <strong>Yujin Tang</strong>, Rong Jin, Liang Sun.</div>
+<div class="pub-venue"><em>International Conference on Learning Representations</em> (<strong>ICLR</strong>), 2026.</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://arxiv.org/abs/2410.04733">Video Prediction Transformers without Recurrence or Convolution</a></div>
+<div class="pub-authors"><strong>Yujin Tang</strong>, Qi Lu, Xiangtai Li, Chao Ma, Ming-Hsuan Yang.</div>
+<div class="pub-venue"><em>Transactions on Machine Learning Research</em> (<strong>TMLR</strong>), 2026.</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://arxiv.org/abs/2403.16536">VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting</a></div>
+<div class="pub-authors"><strong>Yujin Tang</strong>, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang.</div>
+<div class="pub-venue"><em>IEEE Conference on Computer Vision and Pattern Recognition Workshop</em> (<strong>CVPR Workshop</strong>), 2024.</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://arxiv.org/abs/2310.02676">PostRainBench: A comprehensive benchmark and a new model for precipitation forecasting</a></div>
+<div class="pub-authors"><strong>Yujin Tang</strong>, Jiaming Zhou, Xiang Pan, Zeying Gong, Junwei Liang.</div>
+<div class="pub-venue"><em>International Conference on Learning Representations Workshop</em> (<strong>ICLR Workshop</strong>), 2024.</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://arxiv.org/abs/2310.00655">Patchmixer: A patch-mixing architecture for long-term time series forecasting</a></div>
+<div class="pub-authors">Zeying Gong, <strong>Yujin Tang</strong>, Junwei Liang.</div>
+<div class="pub-venue"><em>International Joint Conference on Artificial Intelligence Workshop</em> (<strong>IJCAI Workshop</strong>), 2024.</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-59713-9_26">Ovarian Cancer Early Diagnosis in Proteomics Data Using Composite Asymmetric Convolution</a></div>
+<div class="pub-authors">Cheng Yuan, <strong>Yujin Tang</strong> and Dahong Qian.</div>
+<div class="pub-venue"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<strong>MICCAI</strong>), 2020.</div>
+</div>
+
+</div>
 
 # Educations
 
@@ -161,8 +182,8 @@ redirect_from:
 
 {: #teaching .section-title .section-title-teaching}
 
-* **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College `</a></strong>`
-* **Fall 2025:** Teaching Assistant for Video Understanding, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College `</a></strong>`
+* **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College`</a></strong>`
+* **Fall 2025:** Teaching Assistant for Video Understanding, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College`</a></strong>`
 * **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), `<strong><a href="https://www.hkust-gz.edu.cn/">`The Hong Kong University of Science and Technology (Guangzhou)`</a></strong>`
 
 # Resources for Researchers

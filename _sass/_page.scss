@@ -478,3 +478,62 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Publication List (luqi.info style)
+   ========================================================================== */
+
+.publication-list {
+  margin-top: 1em;
+}
+
+.pub-item {
+  position: relative;
+  padding-left: 1.5em;
+  margin-bottom: 1.5em;
+  
+  &::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.5em;
+    width: 6px;
+    height: 6px;
+    background-color: #2a4365;
+    /* 小方块样式 */
+  }
+}
+
+.pub-title {
+  font-weight: 600;
+  margin-bottom: 0.25em;
+  
+  a {
+    color: #2a4365;
+    text-decoration: none;
+    
+    &:hover {
+      color: #c53030;
+      text-decoration: underline;
+    }
+  }
+}
+
+.pub-authors {
+  color: #4a5568;
+  margin-bottom: 0.25em;
+  font-size: 0.95em;
+  
+  strong {
+    color: #2a4365;
+  }
+}
+
+.pub-venue {
+  color: #718096;
+  font-size: 0.9em;
+  
+  strong {
+    color: #c53030;
+  }
+}

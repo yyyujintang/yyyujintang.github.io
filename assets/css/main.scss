@@ -293,18 +293,18 @@ h1:before, .anchor:before {
     }
 }
 
-// Education 和 Internship 卡片样式
+// Education 和 Internship 卡片样式（紧凑版）
 .education-item, .internship-item {
     display: flex;
     align-items: flex-start;
-    gap: 1.5em;
-    padding: 1.5em;
-    margin-bottom: 1.5em;
+    gap: 1em;
+    padding: 0.8em 1em;
+    margin-bottom: 0.8em;
     background: linear-gradient(to right, #ffffff 0%, #f8f9fa 100%);
     border: 1px solid $border-color;
-    border-radius: $border-radius * 2;
-    border-left: 4px solid $info-color;
-    box-shadow: $box-shadow;
+    border-radius: $border-radius;
+    border-left: 3px solid $info-color;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
     transition: $global-transition;
     
     @include breakpoint(max-width $medium) {
@@ -314,25 +314,25 @@ h1:before, .anchor:before {
     }
     
     &:hover {
-        transform: translateX(5px);
-        box-shadow: $box-shadow-hover;
+        transform: translateX(3px);
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
         border-left-color: $info-color;
     }
     
     .logo-container {
         flex-shrink: 0;
-        width: 80px;
-        height: 80px;
-        min-width: 80px;
-        min-height: 80px;
+        width: 50px;
+        height: 50px;
+        min-width: 50px;
+        min-height: 50px;
         display: flex;
         align-items: center;
         justify-content: center;
         background: white;
-        border: 2px solid $border-color;
+        border: 1px solid $border-color;
         border-radius: $border-radius;
-        padding: 0.5em;
-        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        padding: 0.3em;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
         position: relative;
         overflow: hidden;
         
@@ -348,14 +348,14 @@ h1:before, .anchor:before {
         }
         
         .logo-placeholder {
-            width: calc(100% - 1em);
-            height: calc(100% - 1em);
+            width: calc(100% - 0.6em);
+            height: calc(100% - 0.6em);
             display: none;
             align-items: center;
             justify-content: center;
             background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%);
             border-radius: $border-radius - 2px;
-            font-size: 1.5em;
+            font-size: 1em;
             font-weight: bold;
             color: $info-color;
             position: absolute;
@@ -382,31 +382,32 @@ h1:before, .anchor:before {
         font-family: $global-font-family;
         
         .title {
-            font-size: 1.2em;
+            font-size: 1em;
             font-weight: 600;
             color: $darker-gray;
-            margin: 0 0 0.3em 0;
+            margin: 0 0 0.15em 0;
             font-family: $global-font-family;
         }
         
         .subtitle {
             color: $gray;
-            margin: 0 0 0.5em 0;
-            font-size: 0.95em;
+            margin: 0 0 0.2em 0;
+            font-size: 0.88em;
             font-family: $global-font-family;
         }
         
         .date {
             color: $info-color;
             font-weight: 500;
-            font-size: 0.9em;
+            font-size: 0.82em;
             font-family: $global-font-family;
         }
         
         .description {
-            margin-top: 0.5em;
+            margin-top: 0.3em;
             color: $text-color;
-            line-height: 1.6;
+            line-height: 1.5;
+            font-size: 0.88em;
             font-family: $global-font-family;
             
             a {
@@ -428,7 +429,7 @@ h1:before, .anchor:before {
 .internship-item.highlight {
     background: linear-gradient(to right, #fff8f0 0%, #fff5eb 100%);
     border-left-color: #ff6a00;
-    box-shadow: 0 4px 16px rgba(255, 106, 0, 0.15);
+    box-shadow: 0 2px 8px rgba(255, 106, 0, 0.12);
     
     .logo-container {
         border-color: #ff6a00;
@@ -436,8 +437,8 @@ h1:before, .anchor:before {
     }
     
     &:hover {
-        box-shadow: 0 6px 20px rgba(255, 106, 0, 0.25);
-        transform: translateX(8px) scale(1.02);
+        box-shadow: 0 3px 10px rgba(255, 106, 0, 0.2);
+        transform: translateX(4px);
     }
 }
 
