@@ -18,47 +18,56 @@ redirect_from:
 
 <p><em>Last updated: 12 January 2026</em></p>
 
-<p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>, advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong>, where I pursue cutting-edge research at the intersection of Computer Vision and AI Agents. Previously, I earned my Master's degree in Data Science from <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a></strong>, under the guidance of Prof. <strong><a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></strong>. My academic journey began with a Bachelor's degree in Biomedical Engineering from <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>.</p>
+<p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>, advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong>, where I pursue cutting-edge research at the intersection of AI Agents and Computer Vision. Previously, I earned my Master's degree in Data Science from <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a></strong>, under the guidance of Prof. <strong><a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></strong>. My academic journey began with a Bachelor's degree in Biomedical Engineering from <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>.</p>
 
-<p>I worked as a research intern at <strong><a href="https://damo.alibaba.com/research-areas?language=en">Alibaba DAMO Academy</a></strong> for five months, mentored by <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at <strong><a href="https://www.ucmerced.edu/">UC Merced</a></strong> and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the <strong><a href="https://ai.sjtu.edu.cn">AI Institute</a></strong> of <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at <strong>TikTok</strong>, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a></strong> at AI Thrust, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>.</p>
+<p>I worked as a research intern at <strong><a href="https://damo.alibaba.com/research-areas?language=en">Alibaba DAMO Academy</a></strong> for five months, mentored by <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Dr.Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at <strong><a href="https://www.ucmerced.edu/">UC Merced</a></strong> and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the <strong><a href="https://ai.sjtu.edu.cn">AI Institute</a></strong> of <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at <strong>TikTok</strong>, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a></strong> at AI Thrust, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>.</p>
 
 <p>My previous research background primarily focused on video prediction and spatiotemporal forecasting.</p>
 
-My Ph.D. research interests lie in the intersection of AI Agents and Computer Vision:
-
-<div class="research-interests">
-  <div class="interest-box">
-    <h3>🤖 AI Agents</h3>
-    <ul>
-      <li>Multi-agent interaction mechanisms</li>
-      <li>Efficient consensus protocols (voting, judgment, decision-making)</li>
-      <li>Real-world problem solving frameworks</li>
-    </ul>
-  </div>
-  <div class="interest-box">
-    <h3>🧠 Multimodal Large Language Models</h3>
-    <ul>
-      <li>Efficient vision-language projectors</li>
-      <li>Manifold-to-Euclidean space mappings</li>
-      <li>Token compression for efficient inference</li>
-    </ul>
-  </div>
-  <div class="interest-box">
-    <h3>👁️ Visual Representation Learning</h3>
-    <ul>
-      <li>Continuous vs. discrete visual representations</li>
-      <li>Superior tokenization strategies for Vision Transformers</li>
-      <li>Richer semantic structure capture</li>
-    </ul>
-  </div>
-</div>
+<p>My Ph.D. research interests lie in the intersection of AI Agents and Computer Vision, with a particular focus on <strong>AI Agents</strong>: agent memory mechanisms and architectures, long-term memory storage and retrieval for agents, and memory-augmented agent reasoning and decision-making.</p>
 
 </div>
 
 <div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #fff5f5 0%, #fff1f1 100%); border-left: 4px solid #f56565; border-bottom: 1px solid #f56565; border-radius: 8px; box-shadow: 0 2px 8px rgba(245, 101, 101, 0.1);">
-    <strong style="color: #c53030; font-size: 1.1em; display: block; margin-bottom: 0.5em;">🤝 Open for Collaboration</strong>
-    <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations. If you are interested, please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a>.</p>
+    <strong style="color: #c53030; font-size: 1.1em; display: block; margin-bottom: 0.5em;">🤝 Open for Collaboration & Internship Opportunities</strong>
+    <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations and actively seeking <strong>agent-related summer internship opportunities</strong> based in the U.S. for 2026 and 2027. If you have suitable opportunities for collaboration or internships, please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a>.</p>
 </div>
+
+# News
+
+{: #news .section-title .section-title-news}
+
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.
+- *2026.01*: &nbsp;🎉🎉 PredFormer is accepted by TMLR 2026.
+- *2025.09*: &nbsp;🎓🎓 Yujin enrolled in Dartmouth College as a Ph.D. student in Computer Science.
+- *2025.03*: &nbsp;🔬🔬 Yujin joined Alibaba DAMO Academy as a research intern.
+- *2024.10*: &nbsp;🎉🎉 PredFormer is available!  This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. [**Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
+- *2024.04*: &nbsp;🎉🎉 VMRNN is accepted by [CVPRW24](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)!
+- *2024.03*: &nbsp;🎉🎉 PostRainBench is accepted by [ICLRW24](https://www.climatechange.ai/events/iclr2024)!
+- *2024.01*: &nbsp;🎉🎉 Yujin created Awesome-Mamba-Papers repository. **This is the first Awesome Mamba repository and promotes Mamba related research**. [Link](https://github.com/yyyujintang/Awesome-Mamba-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
+
+# Publications
+
+{: #publications .section-title .section-title-publication}
+
+- [Bridging past and future: Distribution-aware alignment for time series forecasting](https://arxiv.org/abs/2509.14181)
+  Yifan Hu, Jie Yang, Tian Zhou, Peiyuan Liu, **Yujin Tang**, Rong Jin, Liang Sun.
+  *International Conference on Learning Representations* (**ICLR**), 2026.
+- [Video Prediction Transformers without Recurrence or Convolution](https://arxiv.org/abs/2410.04733)
+  **Yujin Tang**, Qi Lu, Xiangtai Li, Chao Ma, Ming-Hsuan Yang.
+  *Transactions on Machine Learning Research* (**TMLR**), 2026.
+- [VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting](https://arxiv.org/abs/2403.16536)
+  **Yujin Tang**, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang.
+  *IEEE Conference on Computer Vision and Pattern Recognition Workshop* (**CVPR Workshop**), 2024.
+- [PostRainBench: A comprehensive benchmark and a new model for precipitation forecasting](https://arxiv.org/abs/2310.02676)
+  **Yujin Tang**, Jiaming Zhou, Xiang Pan, Zeying Gong, Junwei Liang.
+  *International Conference on Learning Representations Workshop* (**ICLR Workshop**), 2024.
+- [Patchmixer: A patch-mixing architecture for long-term time series forecasting](https://arxiv.org/abs/2310.00655)
+  Zeying Gong, **Yujin Tang**, Junwei Liang.
+  *International Joint Conference on Artificial Intelligence Workshop* (**IJCAI Workshop**), 2024.
+- [Ovarian Cancer Early Diagnosis in Proteomics Data Using Composite Asymmetric Convolution](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_26)
+  Cheng Yuan, **Yujin Tang** and Dahong Qian.
+  *International Conference on Medical Image Computing and Computer-Assisted Intervention* (**MICCAI**), 2020.
 
 # Educations
 
@@ -140,67 +149,6 @@ My Ph.D. research interests lie in the intersection of AI Agents and Computer Vi
   </div>
 </div>
 
-# News
-
-{: #news .section-title .section-title-news}
-
-- *2026.01*: &nbsp;PredFormer was accepted by TMLR.
-- *2025.09*: &nbsp;Yujin enrolled in Dartmouth College as a Ph.D. student in Computer Science.
-- *2025.03*: &nbsp;Yujin joined Alibaba DAMO Academy as a research intern.
-- *2024.10*: &nbsp;PredFormer is available!  This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. [**Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
-- *2024.04*: &nbsp;🎉🎉 VMRNN was accepted by [CVPRW24](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)!
-- *2024.03*: &nbsp;Yujin was invited to give a talk in CUHKSZ in Data Science College. Congratulations to the 10th anniversary of CUHKSZ! 🎉🎉 [Slides](https://docs.google.com/presentation/d/1JyFRflVfvXNLgOVdD7ZGX0llscv4voW8k5qLfsbRSpg/edit?usp=sharing)
-- *2024.03*: &nbsp;🎉🎉 PostRainBench was accepted by [ICLRW24](https://www.climatechange.ai/events/iclr2024)!
-- *2024.01*: &nbsp;Yujin created Awesome-Mamba-Papers repository and keep updating it. **This is the first Awesome Mamba repository and promotes Mamba related research**. [Link](https://github.com/yyyujintang/Awesome-Mamba-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
-- *2023.07*: &nbsp;🎉🎉 Yujin won Excellence Award in Jinan, Shandong in 0-24 hours Precipitation Nowcasting Challenge! [Slides](https://docs.google.com/presentation/d/1NTxQQr-b-zcBdQkIx42IhUKVZgKbo5U7QDIxCo0q-Qw/edit?usp=sharing)
-- *2023.01*: &nbsp;Yujin served as TA for AIAA 5032 Foundations of Artificial Intelligence in HKUSTGZ, Spring 2023, Instructors: Junwei Liang.
-
-# Publication & PrePrint
-
-{: #publication--preprint .section-title .section-title-publication}
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR, 2026</div><img src='images/PredFormer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Video Prediction Transformers without Recurrence or Convolution
-
-**Yujin Tang**, Lu Qi, Xiangtai Li, Chao Ma, Ming-Hsuan Yang
-
-[ **Paper**](https://arxiv.org/abs/2410.04733)  [**Website**](https://yyyujintang.github.io/predformer-project/)  [**Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer) [知乎](https://zhuanlan.zhihu.com/p/938884694) [时空探索之旅](https://mp.weixin.qq.com/s/hkUyFnwwrIOMJYA6yVQ6_Q) [圆圆的算法笔记](https://mp.weixin.qq.com/s/SmVYqvoDJ5fm8KxEEX8dqg) [CVer](https://mp.weixin.qq.com/s/_NJAawEt_7TC8fFZP7gh5A) [Kaggle竞赛宝典](https://mp.weixin.qq.com/s/QLF-DBqeHaor3morIlWC5w) [深度学习工坊](https://mp.weixin.qq.com/s/ejhUnpkQcsaMYFoRKyK40A) [我爱计算机视觉](https://mp.weixin.qq.com/s/OMks7JRIIZlbvXJEO7TAgg)
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop, 2024</div><img src='images/VMRNN_Cell.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting
-
-**Yujin Tang**, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang
-
-[ **Paper**](https://arxiv.org/abs/2403.16536)  [**Code**](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop, 2024</div><img src='images/PostRainBench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-PostRainBench: A comprehensive benchmark and a new model for precipitation forecasting
-
-**Yujin Tang**, Jiaming Zhou, Xiang Pan, Zeying Gong, Junwei Liang
-
-[ **Paper**](https://arxiv.org/abs/2310.02676) [ **Code**](https://github.com/yyyujintang/PostRainBench) ![Stars](https://img.shields.io/github/stars/yyyujintang/PostRainBench)
-
-</div>
-</div>
-
-
-
 # Academic Service
 
 {: #academic-service .section-title .section-title-service}
@@ -213,38 +161,26 @@ PostRainBench: A comprehensive benchmark and a new model for precipitation forec
 
 {: #teaching .section-title .section-title-teaching}
 
-* **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
-* **Fall 2025:** Teaching Assistant for Video Understanding, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
-* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>
+* **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College `</a></strong>`
+* **Fall 2025:** Teaching Assistant for Video Understanding, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College `</a></strong>`
+* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), `<strong><a href="https://www.hkust-gz.edu.cn/">`The Hong Kong University of Science and Technology (Guangzhou)`</a></strong>`
 
-# Notes
-
-{: #notes .section-title .section-title-notes}
-
-Computer Vision PhD Survival Guide Series(1) CV Paper Tracking and Writing [Link](https://zhuanlan.zhihu.com/p/610774199)
-
-Computer Vision PhD Survival Guide Series(2) Code Release Process and Tools  [Link](https://zhuanlan.zhihu.com/p/611491695)
-
-Computer Vision PhD Survival Guide Series(3) SSH Configuration and Common Linux Command  [Link](https://zhuanlan.zhihu.com/p/676491841)
-
-# Resources for CV Researchers
+# Resources for Researchers
 
 {: #resources-for-cv-researchers .section-title .section-title-resources}
 
+**Researchers I Admire:** [Yejin Choi-Stanford](https://yejinc.github.io/), [Yu Su-OSU](https://ysu1989.github.io/), [Shunyu Yao-OpenAI](https://ysymyth.github.io/)
+
 [Ming-Hsuan Yang-UCM](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): How to Get Your CVPR Paper Rejected? [Link](https://vision.sjtu.edu.cn/files/How-to-get-your-CVPR-paper-rejected.pdf)
-
-[Chao Ma-SJTU](https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=en): (Collection) Research and Writing Tips for Computer Vision Researchers [Link](https://vision.sjtu.edu.cn/writing.html)
-
-[Sida Peng-ZJU](https://scholar.google.com/citations?hl=zh-CN&user=l9NCksYAAAAJ): The Process of Finishing a Research Project [Link](https://github.com/pengsida/learning_research)
-
-[Bolei Zhou-UCLA](https://scholar.google.com/citations?hl=zh-CN&user=9D4aG8AAAAAJ): How to Make Posters for Top Conference Paper [Link](https://github.com/zhoubolei/bolei_awesome_posters)
-
-[Yana Hasson-Inria](https://scholar.google.com/citations?hl=zh-CN&user=yhz7sFoAAAAJ): Useful Computer Vision PhD Resources [Link](https://github.com/hassony2/useful-computer-vision-phd-resources)
 
 [Bill Freeman-MIT](https://scholar.google.com/citations?user=0zZnyMEAAAAJ&hl=zh-CN): How to Write Papers [Link](https://faculty.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf) Advice for Graduate Student  [Link](https://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf)
 
-**Thanks a lot to these generous people for sharing their valuable research experience!**
+# More About Me
 
-'She is a first-generation college student born in a small city in western China. She constantly overcomes environmental resistance, builds a strong spiritual core, and pushes herself to grow and progress with self-drive and self-discipline. Thinking before practice, iterating quickly in action, she aims to make beneficial changes to the world with artificial intelligence and promote social equity.'
+{: #more-about-me .section-title .section-title-about}
+
+- The boundaries of language are the boundaries of thought. I am a lifelong learner with a growth mindset and a writing enthusiast.
+- In academia, I embrace productivity ambiguity and dance with uncertainty.
+- I am from Dazhou, Sichuan Province, and I am skilled at cooking delicious Sichuan cuisine.
 
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>

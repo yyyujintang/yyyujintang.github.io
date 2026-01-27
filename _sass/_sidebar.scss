@@ -142,23 +142,23 @@
   }
 }
 
-  .author__name {
-    margin: 0;
+.author__name {
+  margin: 0;
     font-family: $global-font-family;
 
-    @include breakpoint($large) {
-      margin-top: 10px;
-      margin-bottom: 10px;
-    }
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
-  
-  .sidebar .author__name {
-    @include breakpoint($medium) {
-      font-size: $type-size-3;
-    }
+}
+
+.sidebar .author__name {
+  @include breakpoint($medium) {
+    font-size: $type-size-3;
+  }
     font-family: $global-font-family;
-    font-size: $type-size-4;
-  }
+  font-size: $type-size-4;
+}
 
 .author__bio {
   margin: 0;
@@ -169,15 +169,15 @@
   }
 }
 
-  .author__urls-wrapper {
-    position: relative;
-    display: table-cell;
-    vertical-align: middle;
+.author__urls-wrapper {
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
     font-family: $global-font-family;
-    z-index: 10;
-    position: relative;
-    margin-left: auto;
-    cursor: pointer;
+  z-index: 10;
+  position: relative;
+  margin-left: auto;
+  cursor: pointer;
 
   li:last-child {
     a {
