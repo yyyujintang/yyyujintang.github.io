@@ -204,4 +204,23 @@ redirect_from:
 - In academia, I embrace productivity ambiguity and dance with uncertainty.
 - I am from Dazhou, Sichuan Province, and I am skilled at cooking delicious Sichuan cuisine.
 
+<div class="life-gallery">
+  <div class="gallery-item">
+    <img src="images/life-1.jpg" alt="Life photo 1" loading="lazy">
+    <div class="caption">Caption 1</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/life-2.jpg" alt="Life photo 2" loading="lazy">
+    <div class="caption">Caption 2</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/life-3.jpg" alt="Life photo 3" loading="lazy">
+    <div class="caption">Caption 3</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/life-4.jpg" alt="Life photo 4" loading="lazy">
+    <div class="caption">Caption 4</div>
+  </div>
+</div>
+
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
