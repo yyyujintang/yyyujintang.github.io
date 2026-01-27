@@ -22,9 +22,9 @@ redirect_from:
 
 <p>I worked as a research intern at <strong><a href="https://damo.alibaba.com/research-areas?language=en">Alibaba DAMO Academy</a></strong> for five months, mentored by <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Dr.Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at <strong><a href="https://www.ucmerced.edu/">UC Merced</a></strong> and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the <strong><a href="https://ai.sjtu.edu.cn">AI Institute</a></strong> of <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at <strong>TikTok</strong>, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a></strong> at AI Thrust, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>.</p>
 
-<p>My previous research background primarily focused on video prediction and spatiotemporal forecasting.</p>
+<p>My previous research expertise lies in video prediction and spatiotemporal forecasting.</p>
 
-<p>My Ph.D. research interests lie in the intersection of AI Agents and Computer Vision, with a particular focus on <strong>AI Agents</strong>: (1) agent memory mechanisms and architectures, (2) long-term memory storage and retrieval for agents, and (3) memory-augmented agent reasoning and decision-making.</p>
+<p>My Ph.D. research interests lie in <strong>AI Agents</strong>: (1) agent memory mechanisms and architectures, (2) long-term memory storage and retrieval for agents, and (3) memory-augmented agent reasoning and decision-making.</p>
 
 </div>
 
@@ -182,9 +182,9 @@ redirect_from:
 
 {: #teaching .section-title .section-title-teaching}
 
-* **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College`</a></strong>`
-* **Fall 2025:** Teaching Assistant for Video Understanding, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College`</a></strong>`
-* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), `<strong><a href="https://www.hkust-gz.edu.cn/">`The Hong Kong University of Science and Technology (Guangzhou)`</a></strong>`
+* **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
+* **Fall 2025:** Teaching Assistant for Video Understanding, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
+* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>
 
 # Resources for Researchers
 
@@ -207,19 +207,19 @@ redirect_from:
 <div class="life-gallery">
   <div class="gallery-item">
     <img src="images/life-1.jpg" alt="Life photo 1" loading="lazy">
-    <div class="caption">Caption 1</div>
+    <div class="caption">Dartmouth Autumn</div>
   </div>
   <div class="gallery-item">
     <img src="images/life-2.jpg" alt="Life photo 2" loading="lazy">
-    <div class="caption">Caption 2</div>
+    <div class="caption">Miami</div>
   </div>
   <div class="gallery-item">
     <img src="images/life-3.jpg" alt="Life photo 3" loading="lazy">
-    <div class="caption">Caption 3</div>
+    <div class="caption">Miami</div>
   </div>
   <div class="gallery-item">
     <img src="images/life-4.jpg" alt="Life photo 4" loading="lazy">
-    <div class="caption">Caption 4</div>
+    <div class="caption">Miami</div>
   </div>
 </div>
 
