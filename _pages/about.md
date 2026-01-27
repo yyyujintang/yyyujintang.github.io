@@ -204,22 +204,22 @@ redirect_from:
 - In academia, I embrace productivity ambiguity and dance with uncertainty.
 - I am from Dazhou, Sichuan Province, and I am skilled at cooking delicious Sichuan cuisine.
 
-<div class="life-gallery">
-  <div class="gallery-item">
-    <img src="images/life-1.jpg" alt="Life photo 1" loading="lazy">
-    <div class="caption">Dartmouth Autumn</div>
+<div class="life-gallery-circle">
+  <div class="circle-item">
+    <img src="images/life-1.jpg" alt="Dartmouth Autumn" loading="lazy">
+    <span class="tooltip">Dartmouth Autumn</span>
   </div>
-  <div class="gallery-item">
-    <img src="images/life-2.jpg" alt="Life photo 2" loading="lazy">
-    <div class="caption">Miami</div>
+  <div class="circle-item">
+    <img src="images/life-2.jpg" alt="Miami" loading="lazy">
+    <span class="tooltip">Miami</span>
   </div>
-  <div class="gallery-item">
-    <img src="images/life-3.jpg" alt="Life photo 3" loading="lazy">
-    <div class="caption">Miami</div>
+  <div class="circle-item">
+    <img src="images/life-3.jpg" alt="Miami" loading="lazy">
+    <span class="tooltip">Miami</span>
   </div>
-  <div class="gallery-item">
-    <img src="images/life-4.jpg" alt="Life photo 4" loading="lazy">
-    <div class="caption">Miami</div>
+  <div class="circle-item">
+    <img src="images/life-4.jpg" alt="Miami" loading="lazy">
+    <span class="tooltip">Miami</span>
   </div>
 </div>
 
