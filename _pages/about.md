@@ -30,21 +30,25 @@ redirect_from:
 
 <div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #fff5f5 0%, #fff1f1 100%); border-left: 4px solid #f56565; border-bottom: 1px solid #f56565; border-radius: 8px; box-shadow: 0 2px 8px rgba(245, 101, 101, 0.1);">
     <strong style="color: #c53030; font-size: 1.1em; display: block; margin-bottom: 0.5em;">🤝 Open for Collaboration & Internship Opportunities</strong>
-    <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations and actively seeking <span style="background-color: #fed7d7; padding: 2px 6px; border-radius: 4px; font-weight: 700; color: #c53030;">agent-related summer internship opportunities</span> based in the U.S. for 2026 and 2027. If you have suitable opportunities for collaboration or internships, please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a>.</p>
+    <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations and actively seeking <span style="background-color: #fed7d7; padding: 2px 6px; border-radius: 4px; font-weight: 700; color: #c53030;">AI Agent-related </span> summer internship opportunities based in the U.S. for 2026 and 2027. If you have suitable opportunities for collaboration or internships, please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a>.</p>
 </div>
 
 # News
 
 {: #news .section-title .section-title-news}
 
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.
-- *2026.01*: &nbsp;🎉🎉 PredFormer is accepted by TMLR 2026.
-- *2025.09*: &nbsp;🎓🎓 Yujin enrolled in Dartmouth College as a Ph.D. student in Computer Science.
-- *2025.03*: &nbsp;🔬🔬 Yujin joined Alibaba DAMO Academy as a research intern.
-- *2024.10*: &nbsp;🎉🎉 PredFormer is available!  This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. [**Paper**](https://arxiv.org/abs/2410.04733) [ **Code**](https://github.com/yyyujintang/PredFormer) ![Stars](https://img.shields.io/github/stars/yyyujintang/PredFormer)
-- *2024.04*: &nbsp;🎉🎉 VMRNN is accepted by [CVPRW24](https://sites.google.com/view/ieeecvf-cvpr2024-precognition)!
-- *2024.03*: &nbsp;🎉🎉 PostRainBench is accepted by [ICLRW24](https://www.climatechange.ai/events/iclr2024)!
-- *2024.01*: &nbsp;🎉🎉 Yujin created Awesome-Mamba-Papers repository. **This is the first Awesome Mamba repository and promotes Mamba related research**. [Link](https://github.com/yyyujintang/Awesome-Mamba-Papers) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
+<div class="news-scroll-container">
+<ul class="news-list">
+<li><em>2026.01</em>:  🎉🎉 One paper is accepted by ICLR 2026.</li>
+<li><em>2026.01</em>:  🎉🎉 PredFormer is accepted by TMLR 2026.</li>
+<li><em>2025.09</em>:  🎓🎓 Yujin enrolled in Dartmouth College as a Ph.D. student in Computer Science.</li>
+<li><em>2025.03</em>:  🔬🔬 Yujin joined Alibaba DAMO Academy as a research intern.</li>
+<li><em>2024.10</em>:  🎉🎉 PredFormer is available! This is the first pure-transformer based model in spatial-temporal predictive learning, which is recurrent-free and convolution-free, outperforming previous models by large margins with superior efficiency. <a href="https://arxiv.org/abs/2410.04733"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/PredFormer"><strong>Code</strong></a> <img src="https://img.shields.io/github/stars/yyyujintang/PredFormer" alt="Stars"></li>
+<li><em>2024.04</em>:  🎉🎉 VMRNN is accepted by CVPRW 2024.</li>
+<li><em>2024.03</em>:  🎉🎉 PostRainBench is accepted by ICLRW 2024.</li>
+<li><em>2024.01</em>:  🎉🎉 Yujin created Awesome-Mamba-Papers repository. <strong>This is the first Awesome Mamba repository and promotes Mamba related research</strong>. <a href="https://github.com/yyyujintang/Awesome-Mamba-Papers">Link</a> <img src="https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers" alt="Stars"></li>
+</ul>
+</div>
 
 # Publications
 
@@ -182,9 +186,9 @@ redirect_from:
 
 {: #teaching .section-title .section-title-teaching}
 
-* **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
-* **Fall 2025:** Teaching Assistant for Video Understanding, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
-* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>
+* **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College `</a></strong>`
+* **Fall 2025:** Teaching Assistant for Video Understanding, `<strong><a href="https://home.dartmouth.edu">`Dartmouth College `</a></strong>`
+* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), `<strong><a href="https://www.hkust-gz.edu.cn/">`The Hong Kong University of Science and Technology (Guangzhou)`</a></strong>`
 
 # Resources for Researchers
 

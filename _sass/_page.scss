@@ -539,6 +539,69 @@
 }
 
 /*
+   News Scroll Container
+   ========================================================================== */
+
+.news-scroll-container {
+  max-height: 280px;
+  overflow-y: auto;
+  padding-right: 8px;
+  margin-top: 0.5em;
+  
+  /* Custom scrollbar styling */
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  &::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 3px;
+  }
+  
+  &::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 3px;
+    
+    &:hover {
+      background: #a1a1a1;
+    }
+  }
+  
+  /* Firefox scrollbar */
+  scrollbar-width: thin;
+  scrollbar-color: #c1c1c1 #f1f1f1;
+}
+
+.news-list {
+  list-style: disc;
+  padding-left: 1.5em;
+  margin: 0;
+  
+  li {
+    margin-bottom: 0.6em;
+    line-height: 1.5;
+    
+    em {
+      font-style: italic;
+    }
+    
+    a {
+      color: #1a73e8;
+      text-decoration: none;
+      
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+    
+    img {
+      vertical-align: middle;
+      margin-left: 4px;
+    }
+  }
+}
+
+/*
    Life Gallery (More About Me)
    ========================================================================== */
 
