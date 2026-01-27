@@ -539,81 +539,43 @@
 }
 
 /*
-   Life Gallery (More About Me) - Circle style like sidebar avatar
+   Life Gallery (More About Me)
    ========================================================================== */
 
-.life-gallery-circle {
+.life-gallery {
   display: flex;
-  justify-content: center;
-  gap: 1.2em;
+  flex-wrap: wrap;
+  gap: 0.8em;
   margin-top: 1.2em;
-  
-  @media (max-width: 480px) {
-    gap: 0.8em;
-  }
+  justify-content: flex-start;
 }
 
-.circle-item {
-  position: relative;
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
+.gallery-item {
+  flex: 0 0 auto;
+  width: 140px;
+  height: 180px;
+  border-radius: 8px;
   overflow: hidden;
-  border: 3px solid #e2e8f0;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
-  cursor: pointer;
-  
-  @media (max-width: 480px) {
-    width: 55px;
-    height: 55px;
-    border-width: 2px;
-  }
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
   
   &:hover {
-    transform: scale(1.1);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-    border-color: #667eea;
-    
-    .tooltip {
-      opacity: 1;
-      visibility: visible;
-      transform: translateX(-50%) translateY(0);
-    }
+    transform: translateY(-3px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
   }
   
   img {
     width: 100%;
-    height: 100%;
+    height: 140px;
     object-fit: cover;
     display: block;
   }
   
-  .tooltip {
-    position: absolute;
-    bottom: -28px;
-    left: 50%;
-    transform: translateX(-50%) translateY(-5px);
-    background: #2d3748;
-    color: white;
-    padding: 4px 8px;
-    border-radius: 4px;
-    font-size: 0.7em;
-    white-space: nowrap;
-    opacity: 0;
-    visibility: hidden;
-    transition: all 0.2s ease;
-    z-index: 10;
-    
-    &::before {
-      content: '';
-      position: absolute;
-      top: -4px;
-      left: 50%;
-      transform: translateX(-50%);
-      border-left: 5px solid transparent;
-      border-right: 5px solid transparent;
-      border-bottom: 5px solid #2d3748;
-    }
+  .caption {
+    padding: 0.5em;
+    text-align: center;
+    font-size: 0.75em;
+    color: #4a5568;
+    background: #f7fafc;
   }
 }
