@@ -16,15 +16,15 @@ redirect_from:
 
 <div id='about-me'>
 
-<p><em>Last updated: 27 January 2026</em></p>
+<p><em>Last updated: 18 February 2026</em></p>
 
-<p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>, advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong>, where I pursue cutting-edge research at the intersection of AI Agents and Computer Vision. Previously, I earned my Master's degree in Data Science from <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a></strong>, under the guidance of Prof. <strong><a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></strong>. My academic journey began with a Bachelor's degree in Biomedical Engineering from <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>.</p>
+<p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">Science and Art of Human-AI Systems (SAHAS) Lab</a></strong>, advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong>, where I pursue cutting-edge research at the intersection of AI Agents and Computer Vision. Previously, I earned my Master's degree in Data Science from <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a></strong>, under the guidance of Prof. <strong><a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></strong>. My academic journey began with a Bachelor's degree in Biomedical Engineering from <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>.</p>
 
 <p>I worked as a research intern at <strong><a href="https://damo.alibaba.com/research-areas?language=en">Alibaba DAMO Academy</a></strong> for five months, mentored by <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Dr.Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at <strong><a href="https://www.ucmerced.edu/">UC Merced</a></strong> and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the <strong><a href="https://ai.sjtu.edu.cn">AI Institute</a></strong> of <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at <strong>TikTok</strong>, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a></strong> at AI Thrust, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>.</p>
 
 <p>My previous research expertise lies in video prediction and spatiotemporal forecasting.</p>
 
-<p>My Ph.D. research interests lie in <strong>AI Agents</strong>: (1) agent memory mechanisms and architectures, (2) long-term memory storage and retrieval for agents, and (3) memory-augmented agent reasoning and decision-making.</p>
+<p>My Ph.D. research interests lie in <strong>AI Agents</strong>: (1) agent memory mechanisms and architectures, (2) multimodal learning and reasoning, and (3) long-horizon reasoning and decision-making.</p>
 
 </div>
 
@@ -106,7 +106,7 @@ redirect_from:
     <div class="title">Dartmouth College</div>
     <div class="subtitle">Ph.D. in Computer Science</div>
     <div class="date">2025.09 - 2030.07 (expected)</div>
-    <div class="description">Advised by Prof. <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></div>
+    <div class="description">Advised by Prof. <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>, <a href="https://www.sahaslab.com/">SAHAS</a> Lab</div>
   </div>
 </div>
 
@@ -178,7 +178,7 @@ redirect_from:
 
 {: #academic-service .section-title .section-title-service}
 
-* **2026:** Reviewer for *International Journal of Computer Vision (IJCV)*
+* **2026:** Reviewer for *International Journal of Computer Vision (IJCV)*, *ICLR 2026 Workshop MemAgents*
 * **2025:** Reviewer for *Transactions on Machine Learning Research (TMLR)* and *International Journal of Computer Vision (IJCV)*
 * **2024:** Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
 
