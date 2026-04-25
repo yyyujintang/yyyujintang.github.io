@@ -23,3 +23,7 @@ main:
 
   - title: "Resources"
     url: "/#resources-for-cv-researchers"
+
+  - title: "Blog"
+    url: "https://jenny-blog-eight.vercel.app/"
+    external: true
