@@ -236,6 +236,10 @@ redirect_from:
     <img src="images/life-4.jpg" alt="Life photo 4" loading="lazy">
     <div class="caption">Miami</div>
   </div>
+  <div class="gallery-item">
+    <img src="images/life-5.jpg" alt="Life photo 5" loading="lazy">
+    <div class="caption">Acadia</div>
+  </div>
 </div>
 
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
