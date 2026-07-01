@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yujin(Jenny) Tang 唐毓瑾"
-  avatar           : "images/photo.png"
-  bio              : "Honest, Humble, Open, Learning, Adventure"
+  name             : "Yujin Tang 唐毓瑾"
+  avatar           : "images/Dartmouth.jpg"
+  bio              : "I am rooted, but I flow."
   location         : "NH, USA"
   employer         :
   pubmed           : 
@@ -57,7 +57,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "30-76-66-6"
 
 
 # Reading Files

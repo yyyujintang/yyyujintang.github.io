@@ -22,7 +22,7 @@ redirect_from:
 
 <p>I worked as a research intern at <strong><a href="https://damo.alibaba.com/research-areas?language=en">Alibaba DAMO Academy</a></strong> for five months, mentored by <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Dr.Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at <strong><a href="https://www.ucmerced.edu/">UC Merced</a></strong> and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the <strong><a href="https://ai.sjtu.edu.cn">AI Institute</a></strong> of <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at <strong>TikTok</strong>, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a></strong> at AI Thrust, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>.</p>
 
-<p>My previous research expertise lies in video prediction and spatiotemporal forecasting.</p>
+<p>My previous research expertise lies in spatiotemporal forecasting and time series forecasting.</p>
 
 <p>My Ph.D. research interests lie in <strong>AI Agents</strong>: (1) agent memory mechanisms and architectures, (2) multimodal learning and reasoning, and (3) long-horizon reasoning and decision-making.</p>
 
@@ -30,7 +30,7 @@ redirect_from:
 
 <div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #fff5f5 0%, #fff1f1 100%); border-left: 4px solid #f56565; border-bottom: 1px solid #f56565; border-radius: 8px; box-shadow: 0 2px 8px rgba(245, 101, 101, 0.1);">
     <strong style="color: #c53030; font-size: 1.1em; display: block; margin-bottom: 0.5em;">🤝 Open for Collaboration & Internship Opportunities</strong>
-    <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations and actively seeking <span style="background-color: #fed7d7; padding: 2px 6px; border-radius: 4px; font-weight: 700; color: #c53030;">AI Agent-related </span> summer internship opportunities based in the U.S. for 2026 and 2027. If you have suitable opportunities for collaboration or internships, please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a>.</p>
+    <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations and actively seeking <span style="background-color: #fed7d7; padding: 2px 6px; border-radius: 4px; font-weight: 700; color: #c53030;">AI Agent-related </span> summer internship opportunities based in the U.S. for 2027. If you have suitable opportunities for collaboration or internships, please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a>.</p>
 </div>
 
 # News
