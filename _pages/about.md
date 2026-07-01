@@ -62,7 +62,13 @@ redirect_from:
 <div class="publication-list">
 
 <div class="pub-item">
-<div class="pub-title">Learning Video Dynamics with Predictive Differentiable Rendering</div>
+<div class="pub-title"><a href="https://arxiv.org/abs/2606.27499">DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection</a></div>
+<div class="pub-authors"><strong>Yujin Tang</strong>, Chenming Shang, Ruize Xu, Nikhil Singh.</div>
+<div class="pub-venue"><em>arXiv preprint</em>, 2026.</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title"><a href="https://arxiv.org/abs/2606.31050">Learning Video Dynamics with Predictive Differentiable Rendering</a></div>
 <div class="pub-authors"><strong>Yujin Tang</strong><sup>*</sup>, Tian Zhou<sup>*</sup>, Xin Lin, Cheng Tan, Yifan Hu, Rong Jin, Souyong Jin, Liang Sun.</div>
 <div class="pub-venue"><em>European Conference on Computer Vision</em> (<strong>ECCV</strong>), 2026.</div>
 </div>
