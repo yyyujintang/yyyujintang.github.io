@@ -16,11 +16,11 @@ redirect_from:
 
 <div id='about-me'>
 
-<p><em>Last updated: 19 June 2026</em></p>
+<p><em>Last updated: 1 July 2026</em></p>
 
 <p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">Science and Art of Human-AI Systems (SAHAS) Lab</a></strong>, advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong>, where I pursue cutting-edge research at the intersection of AI Agents and Computer Vision. Previously, I earned my Master's degree in Data Science from <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a></strong>, under the guidance of Prof. <strong><a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></strong>. My academic journey began with a Bachelor's degree in Biomedical Engineering from <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>.</p>
 
-<p>I worked as a research intern at <strong><a href="https://damo.alibaba.com/research-areas?language=en">Alibaba DAMO Academy</a></strong> for five months, mentored by <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Dr.Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at <strong><a href="https://www.ucmerced.edu/">UC Merced</a></strong> and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the <strong><a href="https://ai.sjtu.edu.cn">AI Institute</a></strong> of <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at <strong>TikTok</strong>, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=TqS6s4gAAAAJ&hl=zh-CN">Peijie Dong</a></strong> at AI Thrust, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>.</p>
+<p>I worked as a research intern at <strong><a href="https://damo.alibaba.com/research-areas?language=en">Alibaba DAMO Academy</a></strong> for five months, mentored by <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Dr.Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at <strong><a href="https://www.ucmerced.edu/">UC Merced</a></strong> and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the <strong><a href="https://ai.sjtu.edu.cn">AI Institute</a></strong> of <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at <strong>TikTok</strong>, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> at AI Thrust, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>.</p>
 
 <p>My previous research expertise lies in spatiotemporal forecasting and time series forecasting.</p>
 
@@ -40,7 +40,7 @@ redirect_from:
 <div class="news-scroll-container">
 <ul class="news-list">
 <li><em>2026.07</em>:  🚀🚀 DMV-Bench is online, the first interactive benchmark for multimodal-agent visual memory. <a href="https://arxiv.org/abs/2606.27499"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/DMV-Bench"><strong>Code</strong></a> <img src="https://img.shields.io/github/stars/yyyujintang/DMV-Bench" alt="Stars"> <a href="https://huggingface.co/datasets/yyyujintang/DMV-Bench-Images"><strong>HuggingFace</strong></a></li>
-<li><em>2026.06</em>:  🎉🎉 PDR / PredGS is accepted by ECCV 2026. Coming soon.</li>
+<li><em>2026.06</em>:  🎉🎉 PDR / PredGS is accepted by ECCV 2026. <a href="https://arxiv.org/abs/2606.31050"><strong>Paper</strong></a></li>
 <li><em>2026.06</em>:  📄📄 Our <a href="https://github.com/TROUBADOUR000/Awesome-Agentic-Time-Series/blob/main/The%20Landscape%20of%20Agentic%20Time%20Series%20Systems.pdf">survey</a> <strong>The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers</strong> is released! See the PDF in the <a href="https://github.com/TROUBADOUR000/Awesome-Agentic-Time-Series">repository</a> <img src="https://img.shields.io/github/stars/TROUBADOUR000/Awesome-Agentic-Time-Series" alt="Stars">.</li>
 <li><em>2026.04</em>:  📚📚 Yujin created <a href="https://github.com/yyyujintang/Awesome-Agent-Memory-Papers">Awesome-Agent-Memory-Papers</a> <img src="https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers" alt="Stars">, a curated list of papers on agent memory research. A companion <a href="https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/">website</a> provides organized and filterable browsing of the papers. Also synced to my <a href="https://jenny-blog-eight.vercel.app/">blog</a>. Hope it helps!</li>
 <li><em>2026.01</em>:  🎉🎉 One paper is accepted by ICLR 2026.</li>
@@ -222,9 +222,9 @@ redirect_from:
 
 {: #more-about-me .section-title .section-title-about}
 
-- The boundaries of language are the boundaries of thought. I am a lifelong learner with a growth mindset and a writing enthusiast.
-- In academia, I embrace productivity ambiguity and dance with uncertainty.
-- I am from Dazhou, Sichuan Province, and I am skilled at cooking delicious Sichuan cuisine.
+- I was born in Dazhou, Sichuan Province. It is where my life began, and where my roots are.
+- The cities where I have lived for more than six months trace my journey: Dazhou, Mianyang, Shanghai, Shenzhen, Guangzhou, Hangzhou, and Hannover. The cities I have traveled to include Chengdu, Chongqing, Xiamen, Xining, Nanjing, Lanzhou, Beijing, Changsha, Jinan, Dalian, Macau, Vienna, Hong Kong, Boston, and Miami. My favorite places are Chengdu, Shenzhen, and Hong Kong.
+- The boundaries of language are the boundaries of thought. High sensitivity is a gift as well as a curse, and my life dances with this energy.
 
 <div class="life-gallery">
   <div class="gallery-item">

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yujin Tang"
-description              : "CV/NLP Researcher"
+description              : ""
 repository               : "yyyujintang/yyyujintang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yujin Tang 唐毓瑾"
+  name             : "Yujin Tang"
   avatar           : "images/Dartmouth.jpg"
   bio              : "I am rooted, but I flow."
   location         : "NH, USA"
