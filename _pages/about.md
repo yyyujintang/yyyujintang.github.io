@@ -16,7 +16,7 @@ redirect_from:
 
 <div id='about-me'>
 
-<p><em>Last updated: 1 July 2026</em></p>
+<p><em>Last updated: 11 July 2026</em></p>
 
 <p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">Science and Art of Human-AI Systems (SAHAS) Lab</a></strong>, advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong>, where I work on the intersection of AI Agents and Computer Vision.</p>
 
@@ -40,7 +40,7 @@ redirect_from:
 <li><em>2026.07</em>:  🚀🚀 DMV-Bench is online, the first interactive benchmark for multimodal-agent visual memory. <a href="https://arxiv.org/abs/2606.27499"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/DMV-Bench"><strong>Code</strong></a> <a href="https://huggingface.co/datasets/yyyujintang/DMV-Bench-Images"><strong>HuggingFace</strong></a></li>
 <li><em>2026.06</em>:  🎉🎉 PDR / PredGS is accepted by ECCV 2026. <a href="https://arxiv.org/abs/2606.31050"><strong>Paper</strong></a></li>
 <li><em>2026.06</em>:  📄📄 Our <a href="https://github.com/TROUBADOUR000/Awesome-Agentic-Time-Series/blob/main/The%20Landscape%20of%20Agentic%20Time%20Series%20Systems.pdf">survey</a> <strong>The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers</strong> is released! See the PDF in the <a href="https://github.com/TROUBADOUR000/Awesome-Agentic-Time-Series">repository</a> <img src="https://img.shields.io/github/stars/TROUBADOUR000/Awesome-Agentic-Time-Series" alt="Stars">.</li>
-<li><em>2026.04</em>:  📚📚 Yujin created <a href="https://github.com/yyyujintang/Awesome-Agent-Memory-Papers">Awesome-Agent-Memory-Papers</a> <img src="https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers" alt="Stars">, a curated list of papers on agent memory research. A companion <a href="https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/">website</a> provides organized and filterable browsing of the papers. Also synced to my <a href="https://jenny-blog-eight.vercel.app/">blog</a>. Hope it helps!</li>
+<li><em>2026.04</em>:  📚📚 Yujin created <a href="https://github.com/yyyujintang/Awesome-Agent-Memory-Papers">Awesome-Agent-Memory-Papers</a> <img src="https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers.svg" alt="Stars">, a curated list of papers on agent memory research. A companion <a href="https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/">website</a> provides organized and filterable browsing of the papers. Also synced to my <a href="https://jenny-blog-eight.vercel.app/">blog</a>. Hope it helps!</li>
 <li><em>2026.01</em>:  🎉🎉 One paper is accepted by ICLR 2026.</li>
 <li><em>2026.01</em>:  🎉🎉 PredFormer is accepted by TMLR 2026.</li>
 <li><em>2025.09</em>:  🎓🎓 Yujin enrolled in Dartmouth College as a Ph.D. student in Computer Science.</li>
@@ -241,6 +241,10 @@ redirect_from:
   <div class="gallery-item">
     <img src="images/life-5.jpg" alt="Life photo 5" loading="lazy">
     <div class="caption">Acadia</div>
+  </div>
+  <div class="gallery-item">
+    <img src="images/life-6.jpg" alt="Life photo 6" loading="lazy">
+    <div class="caption">Boston</div>
   </div>
 </div>
 
