@@ -22,7 +22,13 @@ redirect_from:
 
 <p>I worked as a research intern at Alibaba DAMO Academy for five months, mentored by Dr. <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at UC Merced and Google DeepMind and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the AI Institute of Shanghai Jiao Tong University. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at TikTok, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> at AI Thrust, HKUST(GZ).</p>
 
-<p>My Ph.D. research interests lie in <strong>AI Agents</strong>: (1) agent memory mechanisms and architectures, (2) multimodal learning and reasoning, and (3) long-horizon reasoning and decision-making.</p>
+<p>My Ph.D. research interests lie in <strong>AI Agents</strong>:</p>
+
+<ul>
+<li>(1) agent memory mechanisms and architectures</li>
+<li>(2) multimodal learning and reasoning</li>
+<li>(3) long-horizon reasoning and decision-making</li>
+</ul>
 
 </div>
 
