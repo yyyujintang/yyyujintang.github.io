@@ -200,7 +200,7 @@ redirect_from:
 
 {: #academic-service .section-title .section-title-service}
 
-* **2026:** Reviewer for *International Journal of Computer Vision (IJCV)* x2, *ICLR 2026 Workshop MemAgents* x3, *IEEE Transactions on Multimedia (TMM)* x3
+* **2026:** Reviewer for *International Journal of Computer Vision (IJCV)* x2, *ICLR 2026 Workshop MemAgents* x3, *IEEE Transactions on Multimedia (TMM)* x3, *COLM 2026 Workshop on Agent Behavior* x2
 * **2025:** Reviewer for *Transactions on Machine Learning Research (TMLR)* and *International Journal of Computer Vision (IJCV)*
 * **2024:** Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
 
@@ -208,6 +208,7 @@ redirect_from:
 
 {: #teaching .section-title .section-title-teaching}
 
+* **Spring/Summer 2026:** Teaching Assistant for CS50: Software Design and Implementation, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
 * **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
 * **Fall 2025:** Teaching Assistant for Video Understanding, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
 * **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>
@@ -230,23 +231,11 @@ redirect_from:
 <div class="life-gallery">
   <div class="gallery-item">
     <img src="images/life-1.jpg" alt="Life photo 1" loading="lazy">
-    <div class="caption">Dartmouth Autumn</div>
-  </div>
-  <div class="gallery-item">
-    <img src="images/life-2.jpg" alt="Life photo 2" loading="lazy">
-    <div class="caption">Miami</div>
-  </div>
-  <div class="gallery-item">
-    <img src="images/life-3.jpg" alt="Life photo 3" loading="lazy">
-    <div class="caption">Miami</div>
+    <div class="caption">Hanover</div>
   </div>
   <div class="gallery-item">
     <img src="images/life-4.jpg" alt="Life photo 4" loading="lazy">
     <div class="caption">Miami</div>
-  </div>
-  <div class="gallery-item">
-    <img src="images/life-5.jpg" alt="Life photo 5" loading="lazy">
-    <div class="caption">Acadia</div>
   </div>
   <div class="gallery-item">
     <img src="images/life-6.jpg" alt="Life photo 6" loading="lazy">
