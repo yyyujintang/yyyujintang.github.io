@@ -16,11 +16,11 @@ redirect_from:
 
 <div id='about-me'>
 
-<p><em>Last updated: 11 July 2026</em></p>
+<p><em>Last updated: 20 July 2026</em></p>
 
-<p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">Science and Art of Human-AI Systems (SAHAS) Lab</a></strong>, advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong>, where I work on the intersection of AI Agents and Computer Vision.</p>
+<p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">Science and Art of Human-AI Systems (SAHAS) Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> (he's pretty nice) and work on the intersection of AI Agents and Multimodal Large Language Models.</p>
 
-<p>I worked as a research intern at Alibaba DAMO Academy for five months, mentored by Dr. <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at UC Merced and Google DeepMind and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the AI Institute of Shanghai Jiao Tong University. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at TikTok, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> at AI Thrust, HKUST(GZ).</p>
+<p>I worked as a research intern at Alibaba DAMO Academy, mentored by Dr. <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at UC Merced and Google DeepMind and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at the AI Institute of Shanghai Jiao Tong University. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at TikTok, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> at AI Thrust, HKUST(GZ).</p>
 
 <p>My Ph.D. research interests lie in <strong>AI Agents</strong>:</p>
 
@@ -211,7 +211,7 @@ redirect_from:
 * **Spring/Summer 2026:** Teaching Assistant for CS50: Software Design and Implementation, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
 * **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
 * **Fall 2025:** Teaching Assistant for Video Understanding, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
-* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence (for master students), <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>
+* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>
 
 # Resources for Researchers
 
@@ -226,6 +226,7 @@ redirect_from:
 {: #more-about-me .section-title .section-title-about}
 
 - I was born in Dazhou, Sichuan Province. It is where my life began, and where my roots are.
-- The boundaries of language are the boundaries of thought.
+- My MBTI is INTJ (Introverted, Intuitive, Thinking, Judging). I am good at turning abstract concepts into systematic plans and executing them steadfastly to achieve long-term goals.
+- My rich life experiences span vast distances across both the physical and the spiritual worlds. With high sensitivity and insight, I observe the world and write down my reflections. Thank you to all the friends who enjoy my writing, and thank you, for reading all the way to the last line.
 
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
