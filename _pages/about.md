@@ -228,19 +228,4 @@ redirect_from:
 - I was born in Dazhou, Sichuan Province. It is where my life began, and where my roots are.
 - The boundaries of language are the boundaries of thought.
 
-<div class="life-gallery">
-  <div class="gallery-item">
-    <img src="images/life-1.jpg" alt="Life photo 1" loading="lazy">
-    <div class="caption">Hanover 25.10</div>
-  </div>
-  <div class="gallery-item">
-    <img src="images/life-4.jpg" alt="Life photo 4" loading="lazy">
-    <div class="caption">Miami 25.11</div>
-  </div>
-  <div class="gallery-item">
-    <img src="images/life-6.jpg" alt="Life photo 6" loading="lazy">
-    <div class="caption">Boston 26.07</div>
-  </div>
-</div>
-
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
