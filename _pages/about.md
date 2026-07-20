@@ -231,15 +231,15 @@ redirect_from:
 <div class="life-gallery">
   <div class="gallery-item">
     <img src="images/life-1.jpg" alt="Life photo 1" loading="lazy">
-    <div class="caption">Hanover</div>
+    <div class="caption">Hanover 25.10</div>
   </div>
   <div class="gallery-item">
     <img src="images/life-4.jpg" alt="Life photo 4" loading="lazy">
-    <div class="caption">Miami</div>
+    <div class="caption">Miami 25.11</div>
   </div>
   <div class="gallery-item">
     <img src="images/life-6.jpg" alt="Life photo 6" loading="lazy">
-    <div class="caption">Boston</div>
+    <div class="caption">Boston 26.07</div>
   </div>
 </div>
 
