@@ -221,11 +221,4 @@ redirect_from:
 
 [Bill Freeman-MIT](https://scholar.google.com/citations?user=0zZnyMEAAAAJ&hl=zh-CN): How to Write Papers [Link](https://faculty.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf) Advice for Graduate Student  [Link](https://people.csail.mit.edu/billf/talks/10minFreeman2013.pdf)
 
-# More About Me
-
-{: #more-about-me .section-title .section-title-about}
-
-- I was born in Dazhou, Sichuan Province. It is where my life began, and where my roots are.
-- My MBTI is INTJ (Introverted, Intuitive, Thinking, Judging).
-
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
