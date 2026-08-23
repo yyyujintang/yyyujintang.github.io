@@ -16,7 +16,7 @@ redirect_from:
 
 <div id='about-me'>
 
-<p><em>Last updated: 20 July 2026</em></p>
+<p><em>Last updated: 22 August 2026</em></p>
 
 <p>I am a first-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">Science and Art of Human-AI Systems (SAHAS) Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> (he's pretty nice) and work on the intersection of AI Agents and Multimodal Large Language Models.</p>
 
@@ -43,8 +43,9 @@ redirect_from:
 
 <div class="news-scroll-container">
 <ul class="news-list">
-<li><em>2026.07</em>:  🚀🚀 DMV-Bench is online, the first interactive benchmark for multimodal-agent visual memory. <a href="https://arxiv.org/abs/2606.27499"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/DMV-Bench"><strong>Code</strong></a> <a href="https://huggingface.co/datasets/yyyujintang/DMV-Bench-Images"><strong>HuggingFace</strong></a></li>
-<li><em>2026.06</em>:  🎉🎉 PDR / PredGS is accepted by ECCV 2026. <a href="https://arxiv.org/abs/2606.31050"><strong>Paper</strong></a></li>
+<li><em>2026.08</em>:  🎉🎉 DMV-Bench is accepted by EMNLP 2026. Another coauthored paper is accepted by EMNLP 2026 Findings.</li>
+<li><em>2026.07</em>:  🚀🚀 DMV-Bench is online, the first interactive benchmark for multimodal-agent visual memory. <a href="https://arxiv.org/abs/2606.27499"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/DMV-Bench"><strong>Code</strong></a> <a href="https://huggingface.co/datasets/yyyujintang/DMV-Bench-Images"><strong>HuggingFace</strong></a> <img src="https://img.shields.io/github/stars/yyyujintang/DMV-Bench" alt="Stars"></li>
+<li><em>2026.06</em>:  🎉🎉 PDR / PredGS is accepted by ECCV 2026. <a href="https://arxiv.org/abs/2606.31050"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/PredGS"><strong>Code</strong></a> <img src="https://img.shields.io/github/stars/yyyujintang/PredGS" alt="Stars"></li>
 <li><em>2026.06</em>:  📄📄 Our <a href="https://github.com/TROUBADOUR000/Awesome-Agentic-Time-Series/blob/main/The%20Landscape%20of%20Agentic%20Time%20Series%20Systems.pdf">survey</a> <strong>The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers</strong> is released! See the PDF in the <a href="https://github.com/TROUBADOUR000/Awesome-Agentic-Time-Series">repository</a> <img src="https://img.shields.io/github/stars/TROUBADOUR000/Awesome-Agentic-Time-Series" alt="Stars">.</li>
 <li><em>2026.04</em>:  📚📚 Yujin created <a href="https://github.com/yyyujintang/Awesome-Agent-Memory-Papers">Awesome-Agent-Memory-Papers</a> <img src="https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers.svg" alt="Stars">, a curated list of papers on agent memory research. A companion <a href="https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/">website</a> provides organized and filterable browsing of the papers. Also synced to my <a href="https://jenny-blog-eight.vercel.app/">blog</a>. Hope it helps!</li>
 <li><em>2026.01</em>:  🎉🎉 One paper is accepted by ICLR 2026.</li>
@@ -69,7 +70,13 @@ redirect_from:
 <div class="pub-item">
 <div class="pub-title"><a href="https://arxiv.org/abs/2606.27499">DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection</a></div>
 <div class="pub-authors"><strong>Yujin Tang</strong>, Chenming Shang, Ruize Xu, Nikhil Singh.</div>
-<div class="pub-venue"><em>arXiv preprint</em>, 2026.</div>
+<div class="pub-venue"><em>Conference on Empirical Methods in Natural Language Processing</em> (<strong>EMNLP</strong>), 2026.</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-title">How do World Models and Policies Compose in LLM Agents? A Joint Spectral and Behavioral Account</div>
+<div class="pub-authors">Ruize Xu, Xiao Yu, <strong>Yujin Tang</strong>, Chenming Shang, Nikhil Singh.</div>
+<div class="pub-venue"><em>Findings of the Conference on Empirical Methods in Natural Language Processing</em> (<strong>EMNLP Findings</strong>), 2026.</div>
 </div>
 
 <div class="pub-item">
