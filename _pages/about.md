@@ -18,21 +18,25 @@ redirect_from:
 
 <p><em>Last updated: 31 August 2026</em></p>
 
-<p>I am a second-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">Science and Art of Human-AI Systems (SAHAS) Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> (he's pretty nice) and work at the intersection of <strong>AI Agents</strong> and <strong>Computer Vision</strong>, with a focus on VLMs and MLLMs.</p>
+<p>I am a second-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">SAHAS Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> and work at the intersection of <strong>AI Agents</strong> and <strong>Vision Science</strong>.</p>
 
 <p>I worked as a research intern at Alibaba DAMO Academy, mentored by Dr. <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at UC Merced and Google DeepMind and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at Shanghai Jiao Tong University. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at TikTok, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> at AI Thrust, HKUST(GZ).</p>
 
-<p>My Ph.D. research builds <strong>visual intelligence for AI agents</strong>. <em>"The limits of my language mean the limits of my world,"</em> wrote Wittgenstein &mdash; yet a picture is worth a thousand words precisely because images carry a granularity that language has no words for. I study how agents can perceive, remember, and reason at that granularity, rather than at the coarser resolution of the language available to describe it.</p>
+<p>My Ph.D. research builds <strong>visual intelligence for AI agents</strong>. <em style="color: #c53030;">"The limits of my language mean the limits of my world,"</em> wrote Wittgenstein &mdash; yet a picture is worth a thousand words precisely because images carry a granularity that language has no words for. I study how agents can perceive, remember, and reason at that granularity.</p>
 
-<p>I approach this as a <strong>science of measurement for AI agents' vision</strong>: diagnose first, then build. My first work, <strong><a href="https://arxiv.org/abs/2606.27499">DMV-Bench</a></strong> (EMNLP 2026), makes visual memory measurable by construction: in a long-horizon interactive environment, the details an agent must later recall are held out of every text channel, so only a memory that retains pixels can succeed. What the diagnosis exposes then motivates the architecture that fixes it: <strong>DualMem</strong>, a memory inspired by dual coding theory that keeps both a visual and a verbal trace of every observation.</p>
+<p>I approach this as a <strong>science of measurement for AI agents' vision</strong>: diagnose first, then build. My first work, <strong><a href="https://arxiv.org/abs/2606.27499">DMV-Bench</a></strong> <strong style="color: #c53030;">(EMNLP 2026)</strong>, makes visual memory measurable by construction: what the agent must later recall never reaches any text channel. That diagnosis motivates <strong>DualMem</strong>, a dual-coding memory that keeps both a visual and a verbal trace of every observation.</p>
 
-<p>My interests span:</p>
+<p>My research interests span:</p>
 
 <ul>
-<li>(1) <strong>Visual memory for agents</strong> &mdash; from long-horizon episodes to lifelong timescales</li>
-<li>(2) <strong>Agentic reinforcement learning</strong> &mdash; learning what to attend to, keep, and recall</li>
-<li>(3) <strong>Long-horizon reasoning and decision-making</strong> &mdash; acting on accumulated visual evidence</li>
+<li>(1) <strong>Visual memory for agents</strong></li>
+<li>(2) <strong>Agentic reinforcement learning</strong></li>
+<li>(3) <strong>Long-horizon reasoning and decision-making</strong></li>
 </ul>
+
+<p style="text-align: center; margin: 1.8em 0 0.6em;">
+<img src="images/research-overview.svg" alt="Visual intelligence for agents: a capability stack" style="width: 100%; max-width: 820px; height: auto;" loading="lazy">
+</p>
 
 </div>
 

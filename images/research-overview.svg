@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 378" width="900" height="378" role="img" aria-labelledby="tt ds">
+<title id="tt">Visual Intelligence for Agents</title>
+<desc id="ds">A capability stack: Perceive with VLMs and MLLMs, then Remember through visual memory, then Reason and Act over long horizons. Agentic reinforcement learning cuts across all three layers, and visual granularity must be preserved down the stack.</desc>
+<defs>
+  <style>
+    .t   { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .h1  { font-size: 22px; font-weight: 700; fill: #1a252f; letter-spacing: -0.3px; }
+    .lyr { font-size: 16px; font-weight: 700; }
+    .sub { font-size: 12.5px; fill: #4a5568; }
+    .pil { font-size: 11px; font-weight: 600; }
+    .ax  { font-size: 11px; font-weight: 600; fill: #8d97a3; letter-spacing: 0.6px; }
+    .rl  { font-size: 12px; fill: #9c5221; }
+  </style>
+  <marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+    <path d="M0 0 L10 5 L0 10 Z" fill="#cbd5e0"/>
+  </marker>
+  <marker id="lt" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+    <path d="M0 0 L10 5 L0 10 Z" fill="#f0a868"/>
+  </marker>
+</defs>
+
+<rect width="900" height="378" fill="#ffffff"/>
+
+<text class="t h1" x="28" y="36">Visual Intelligence for Agents</text>
+
+<!-- granularity axis: flows down the stack -->
+<line x1="44" y1="68" x2="44" y2="348" stroke="#cbd5e0" stroke-width="1.5" marker-end="url(#arw)"/>
+<text class="t ax" transform="rotate(-90 26 208)" x="26" y="208" text-anchor="middle">VISUAL GRANULARITY PRESERVED</text>
+
+<!-- layer 1: perceive -->
+<rect x="64" y="62" width="608" height="80" rx="10" fill="#ebf5fd" stroke="#bee0f7"/>
+<rect x="64" y="62" width="5" height="80" rx="2.5" fill="#4299e1"/>
+<text class="t lyr" x="88" y="94" fill="#2c5282">Perceive</text>
+<text class="t sub" x="88" y="117">VLMs and MLLMs &#8212; the visual detail language cannot name</text>
+
+<!-- layer 2: remember -->
+<rect x="64" y="158" width="608" height="100" rx="10" fill="#eef0fd" stroke="#c8cff7"/>
+<rect x="64" y="158" width="5" height="100" rx="2.5" fill="#667eea"/>
+<text class="t lyr" x="88" y="186" fill="#434190">Remember</text>
+<text class="t sub" x="88" y="208">visual memory, from long-horizon episodes to lifelong timescales</text>
+<rect x="88" y="218" width="166" height="26" rx="13" fill="#ffffff" stroke="#a3bffa"/>
+<text class="t pil" x="171" y="235" text-anchor="middle" fill="#434190">DMV-Bench (EMNLP 2026)</text>
+
+<!-- layer 3: reason and act -->
+<rect x="64" y="274" width="608" height="80" rx="10" fill="#f4effd" stroke="#ddcdf6"/>
+<rect x="64" y="274" width="5" height="80" rx="2.5" fill="#9f7aea"/>
+<text class="t lyr" x="88" y="306" fill="#553c9a">Reason &amp; Act</text>
+<text class="t sub" x="88" y="329">long-horizon decisions grounded in accumulated visual evidence</text>
+
+<!-- agentic RL spanning band -->
+<rect x="692" y="62" width="180" height="292" rx="10" fill="#fef4ea" stroke="#f8d5ae"/>
+<rect x="692" y="62" width="5" height="292" rx="2.5" fill="#ed8936"/>
+<text class="t lyr" x="716" y="166" fill="#9c4221">Agentic RL</text>
+<text class="t rl" x="716" y="196">learning what to</text>
+<text class="t rl" x="716" y="216">&#183; attend to</text>
+<text class="t rl" x="716" y="236">&#183; keep</text>
+<text class="t rl" x="716" y="256">&#183; recall</text>
+
+<!-- RL cuts across every layer -->
+<line x1="694" y1="102" x2="672" y2="102" stroke="#f0a868" stroke-width="1.5" marker-end="url(#lt)"/>
+<line x1="694" y1="208" x2="672" y2="208" stroke="#f0a868" stroke-width="1.5" marker-end="url(#lt)"/>
+<line x1="694" y1="314" x2="672" y2="314" stroke="#f0a868" stroke-width="1.5" marker-end="url(#lt)"/>
+
+</svg>
