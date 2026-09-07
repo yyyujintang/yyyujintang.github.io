@@ -34,10 +34,6 @@ redirect_from:
 <li>(3) <strong>Long-horizon reasoning and decision-making</strong></li>
 </ul>
 
-<p style="text-align: center; margin: 1.8em 0 0.6em;">
-<img src="images/research-overview.svg" alt="Visual intelligence for agents: a capability stack" style="width: 100%; max-width: 820px; height: auto;" loading="lazy">
-</p>
-
 </div>
 
 <div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #fff5f5 0%, #fff1f1 100%); border-left: 4px solid #f56565; border-bottom: 1px solid #f56565; border-radius: 8px; box-shadow: 0 2px 8px rgba(245, 101, 101, 0.1);">
@@ -82,7 +78,7 @@ redirect_from:
 </div>
 
 <div class="pub-item">
-<div class="pub-title">How do World Models and Policies Compose in LLM Agents? A Joint Spectral and Behavioral Account</div>
+<div class="pub-title"><a href="https://arxiv.org/abs/2608.30067">How do World Models and Policies Compose in LLM Agents? A Joint Spectral and Behavioral Account</a></div>
 <div class="pub-authors">Ruize Xu, Xiao Yu, <strong>Yujin Tang</strong>, Chenming Shang, Nikhil Singh.</div>
 <div class="pub-venue"><em>Findings of the Conference on Empirical Methods in Natural Language Processing</em> (<strong>EMNLP Findings</strong>), 2026.</div>
 </div>
@@ -90,7 +86,7 @@ redirect_from:
 <div class="pub-item">
 <div class="pub-title"><a href="https://arxiv.org/abs/2606.31050">Learning Video Dynamics with Predictive Differentiable Rendering</a></div>
 <div class="pub-authors"><strong>Yujin Tang</strong><sup>*</sup>, Tian Zhou<sup>*</sup>, Xin Lin, Cheng Tan, Yifan Hu, Rong Jin, Souyong Jin, Liang Sun.</div>
-<div class="pub-venue"><em>European Conference on Computer Vision</em> (<strong>ECCV</strong>), 2026.</div>
+<div class="pub-venue"><em>European Conference on Computer Vision</em> (<strong>ECCV</strong>), 2026. <a href="https://www.bilibili.com/video/BV1wote6gEDY/">中文讲解</a> &middot; <a href="https://www.youtube.com/watch?v=FrxSeqXg7X0">English Talk</a></div>
 </div>
 
 <div class="pub-item">
