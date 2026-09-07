@@ -16,7 +16,7 @@ redirect_from:
 
 <div id='about-me'>
 
-<p><em>Last updated: 31 August 2026</em></p>
+<p><em>Last updated: 7 September 2026</em></p>
 
 <p>I am a second-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">SAHAS Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> and work at the intersection of <strong>AI Agents</strong> and <strong>Vision Science</strong>.</p>
 
