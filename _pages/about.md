@@ -16,7 +16,7 @@ redirect_from:
 
 <div id='about-me'>
 
-<p><em>Last updated: 7 September 2026</em></p>
+<p><em>Last updated: 9 September 2026</em></p>
 
 <p>I am a second-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">SAHAS Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> and work at the intersection of <strong>AI Agents</strong> and <strong>Vision Science</strong>.</p>
 
@@ -69,60 +69,56 @@ redirect_from:
 
 <p><sup>*</sup> indicates equal contribution.</p>
 
+<h3 class="pub-subhead">Selected First-Author Publications <a href="https://scholar.google.com/citations?user=T41IQ1EAAAAJ">(full list)</a></h3>
+
 <div class="publication-list">
 
+
 <div class="pub-item">
+<div class="pub-thumb"><img src="images/publications/dmv-bench.png" alt="DMV-Bench teaser" loading="lazy"></div>
+<div class="pub-body">
 <div class="pub-title"><a href="https://arxiv.org/abs/2606.27499">DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection</a></div>
 <div class="pub-authors"><strong>Yujin Tang</strong>, Chenming Shang, Ruize Xu, Nikhil Singh.</div>
 <div class="pub-venue"><em>Conference on Empirical Methods in Natural Language Processing</em> (<strong>EMNLP</strong>), 2026.</div>
 </div>
-
-<div class="pub-item">
-<div class="pub-title"><a href="https://arxiv.org/abs/2608.30067">How do World Models and Policies Compose in LLM Agents? A Joint Spectral and Behavioral Account</a></div>
-<div class="pub-authors">Ruize Xu, Xiao Yu, <strong>Yujin Tang</strong>, Chenming Shang, Nikhil Singh.</div>
-<div class="pub-venue"><em>Findings of the Conference on Empirical Methods in Natural Language Processing</em> (<strong>EMNLP Findings</strong>), 2026.</div>
 </div>
-
 <div class="pub-item">
+<div class="pub-thumb"><img src="images/publications/predgs.png" alt="PredGS framework" loading="lazy"></div>
+<div class="pub-body">
 <div class="pub-title"><a href="https://arxiv.org/abs/2606.31050">Learning Video Dynamics with Predictive Differentiable Rendering</a></div>
 <div class="pub-authors"><strong>Yujin Tang</strong><sup>*</sup>, Tian Zhou<sup>*</sup>, Xin Lin, Cheng Tan, Yifan Hu, Rong Jin, Souyong Jin, Liang Sun.</div>
 <div class="pub-venue"><em>European Conference on Computer Vision</em> (<strong>ECCV</strong>), 2026. <a href="https://www.bilibili.com/video/BV1wote6gEDY/">中文讲解</a> &middot; <a href="https://www.youtube.com/watch?v=FrxSeqXg7X0">English Talk</a></div>
 </div>
-
-<div class="pub-item">
-<div class="pub-title"><a href="https://arxiv.org/abs/2509.14181">Bridging past and future: Distribution-aware alignment for time series forecasting</a></div>
-<div class="pub-authors">Yifan Hu, Jie Yang, Tian Zhou, Peiyuan Liu, <strong>Yujin Tang</strong>, Rong Jin, Liang Sun.</div>
-<div class="pub-venue"><em>International Conference on Learning Representations</em> (<strong>ICLR</strong>), 2026.</div>
 </div>
-
 <div class="pub-item">
+<div class="pub-thumb"><img src="images/publications/predformer.png" alt="PredFormer architecture" loading="lazy"></div>
+<div class="pub-body">
 <div class="pub-title"><a href="https://arxiv.org/abs/2410.04733">Video Prediction Transformers without Recurrence or Convolution</a></div>
 <div class="pub-authors"><strong>Yujin Tang</strong>, Qi Lu, Xiangtai Li, Chao Ma, Ming-Hsuan Yang.</div>
 <div class="pub-venue"><em>Transactions on Machine Learning Research</em> (<strong>TMLR</strong>), 2026.</div>
 </div>
-
-<div class="pub-item">
-<div class="pub-title"><a href="https://arxiv.org/abs/2403.16536">VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting</a></div>
-<div class="pub-authors"><strong>Yujin Tang</strong>, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang.</div>
-<div class="pub-venue"><em>IEEE Conference on Computer Vision and Pattern Recognition Workshop</em> (<strong>CVPR Workshop</strong>), 2024.</div>
 </div>
 
-<div class="pub-item">
-<div class="pub-title"><a href="https://arxiv.org/abs/2310.02676">PostRainBench: A comprehensive benchmark and a new model for precipitation forecasting</a></div>
-<div class="pub-authors"><strong>Yujin Tang</strong>, Jiaming Zhou, Xiang Pan, Zeying Gong, Junwei Liang.</div>
-<div class="pub-venue"><em>International Conference on Learning Representations Workshop</em> (<strong>ICLR Workshop</strong>), 2024.</div>
 </div>
 
-<div class="pub-item">
-<div class="pub-title"><a href="https://arxiv.org/abs/2310.00655">Patchmixer: A patch-mixing architecture for long-term time series forecasting</a></div>
-<div class="pub-authors">Zeying Gong, <strong>Yujin Tang</strong>, Junwei Liang.</div>
-<div class="pub-venue"><em>International Joint Conference on Artificial Intelligence Workshop</em> (<strong>IJCAI Workshop</strong>), 2024.</div>
-</div>
+<h3 class="pub-subhead">Selected Collaborative Publications <a href="https://scholar.google.com/citations?user=T41IQ1EAAAAJ">(full list)</a></h3>
+
+<div class="publication-list">
+
 
 <div class="pub-item">
-<div class="pub-title"><a href="https://link.springer.com/chapter/10.1007/978-3-030-59713-9_26">Ovarian Cancer Early Diagnosis in Proteomics Data Using Composite Asymmetric Convolution</a></div>
-<div class="pub-authors">Cheng Yuan, <strong>Yujin Tang</strong> and Dahong Qian.</div>
-<div class="pub-venue"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em> (<strong>MICCAI</strong>), 2020.</div>
+<div class="pub-body">
+<div class="pub-title"><a href="https://arxiv.org/abs/2608.30067">How do World Models and Policies Compose in LLM Agents? A Joint Spectral and Behavioral Account</a></div>
+<div class="pub-authors">Ruize Xu, Xiao Yu, <strong>Yujin Tang</strong>, Chenming Shang, Nikhil Singh.</div>
+<div class="pub-venue"><em>Findings of the Conference on Empirical Methods in Natural Language Processing</em> (<strong>EMNLP Findings</strong>), 2026.</div>
+</div>
+</div>
+<div class="pub-item">
+<div class="pub-body">
+<div class="pub-title"><a href="https://arxiv.org/abs/2509.14181">Bridging past and future: Distribution-aware alignment for time series forecasting</a></div>
+<div class="pub-authors">Yifan Hu, Jie Yang, Tian Zhou, Peiyuan Liu, <strong>Yujin Tang</strong>, Rong Jin, Liang Sun.</div>
+<div class="pub-venue"><em>International Conference on Learning Representations</em> (<strong>ICLR</strong>), 2026.</div>
+</div>
 </div>
 
 </div>

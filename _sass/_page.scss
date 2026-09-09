@@ -487,20 +487,52 @@
   margin-top: 1em;
 }
 
+.pub-subhead {
+  font-size: 1.15em;
+  font-weight: 700;
+  color: #2a4365;
+  margin: 2em 0 1em;
+
+  a {
+    font-size: 0.8em;
+    font-weight: 400;
+  }
+}
+
 .pub-item {
-  position: relative;
-  padding-left: 1.5em;
-  margin-bottom: 1.5em;
-  
-  &::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0.5em;
-    width: 6px;
-    height: 6px;
-    background-color: #2a4365;
-    /* 小方块样式 */
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25em;
+  margin-bottom: 1.75em;
+}
+
+.pub-thumb {
+  flex: 0 0 240px;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #e0e4e8;
+    border-radius: 6px;
+  }
+}
+
+.pub-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+/* stack the thumbnail above the text on phones */
+@media (max-width: 600px) {
+  .pub-item {
+    flex-direction: column;
+    gap: 0.6em;
+  }
+  .pub-thumb {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 320px;
   }
 }
 
