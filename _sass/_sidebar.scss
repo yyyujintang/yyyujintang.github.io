@@ -70,6 +70,18 @@
    ========================================================================== */
 .profile_box{
   padding: 1.5em;
+
+  @include breakpoint($large) {
+    padding: 1.5em 0.8em;
+  }
+  @include breakpoint($x-large) {
+    padding: 1.5em;
+  }
+
+  // phones: let the icon row wrap onto its own line under the name
+  @media (max-width: #{$small - 1px}) {
+    flex-wrap: wrap;
+  }
   background: linear-gradient(to bottom, #ffffff, #fafbfc);
   border: 1px solid $border-color;
   border-radius: $border-radius * 2;
@@ -152,17 +164,24 @@
   }
 }
 
+// "Yujin (Jenny) Tang" must stay on one line. The name's column width is
+// fixed per breakpoint, so each size below was measured to fit its range.
 .sidebar .author__name {
-  @include breakpoint($medium) {
-    font-size: $type-size-3;
-  }
-    font-family: $global-font-family;
-  font-size: $type-size-4;
+  font-family: $global-font-family;
+  font-size: min(18px, 5vw);          // phones: icons move below the name
+  white-space: nowrap;
+
+  @include breakpoint($small)   { font-size: 17px; }   // 600-767, ~178px column
+  @include breakpoint($medium)  { font-size: 20px; }   // 768-924, ~203px column
+  @include breakpoint($large)   { font-size: 14.5px; } // 925-1279, narrow sidebar
+  @include breakpoint($x-large) { font-size: 19px; }   // 1280+, ~194px column
 }
 
 .author__name-zh {
   display: block;
-  margin-top: 0.15em;
+  margin-top: 0.2em;
+  font-size: max(13px, 0.8em);
+  white-space: normal;
 }
 
 .author__bio {
@@ -175,6 +194,10 @@
 }
 
 .author__urls-wrapper {
+  @media (max-width: #{$small - 1px}) {
+    flex: 0 0 100%;
+    margin-top: 0.75em;
+  }
   position: relative;
   display: table-cell;
   vertical-align: middle;

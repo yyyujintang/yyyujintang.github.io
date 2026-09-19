@@ -3,9 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#news"
-
   - title: "Publications"
     url: "/#publications"
 
@@ -15,15 +12,5 @@ main:
   - title: "Internships"
     url: "/#internships"
 
-  - title: "Academic Service"
-    url: "/#academic-service"
-
-  - title: "Teaching"
-    url: "/#teaching"
-
   - title: "Successful PhD Journey"
     url: "/phd-journey.html"
-
-  - title: "Blog"
-    url: "https://jenny-blog-eight.vercel.app/"
-    external: true
