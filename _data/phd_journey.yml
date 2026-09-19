@@ -1,11 +1,10 @@
 # Successful PhD Journey — resources rendered on /phd-journey.html
 #
-# To add a resource, append an entry under a section's `items`:
+# To add a resource, append an entry under a section's `items`.
+# It renders as "<title> by <author>", with the title linking to url:
 #   - title:  "Resource title"
 #     url:    https://...
 #     author: "Who wrote it (affiliation)"
-#     type:   Blog | PDF | Slides | Video | Tool | Paper
-#     note:   "One line on why it is worth your time."
 #
 # A section with no items shows "More coming soon." — delete a section to hide it.
 
@@ -17,8 +16,6 @@ sections:
       - title: "Research with Agents: Reflections and Lessons"
         url: https://hci.prof/blog/#reflections-research-with-agents
         author: "Xiang 'Anthony' Chen (UCLA)"
-        type: Blog
-        note: "Reflections from an HCI professor on doing research alongside AI agents, and the lessons learned along the way."
 
   - id: writing
     title: "Writing"
@@ -27,8 +24,6 @@ sections:
       - title: "Four Steps to an Applied Micro Paper"
         url: https://shapiro.scholars.harvard.edu/sites/g/files/omnuum7731/files/shapiro/files/foursteps.pdf
         author: "Jesse M. Shapiro (Harvard)"
-        type: PDF
-        note: "A concise guide to going from a research idea to a finished paper. Written for economists, useful for any empirical researcher."
 
   - id: coding
     title: "Coding"

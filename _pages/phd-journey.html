@@ -8,26 +8,15 @@ author_profile: true
 
 <p class="pj-intro">A living collection of things I have found useful for doing a PhD in the age of AI agents, organized by the part of research they help with.</p>
 
-<nav class="pj-toc" aria-label="Sections">
-{% for s in site.data.phd_journey.sections %}
-  <a href="#{{ s.id }}">{{ s.title }}{% if s.items.size > 0 %} <span class="pj-count">{{ s.items.size }}</span>{% endif %}</a>
-{% endfor %}
-</nav>
-
 {% for s in site.data.phd_journey.sections %}
 <h1 id="{{ s.id }}">{{ s.title }}</h1>
 <p class="pj-blurb">{{ s.blurb }}</p>
 {% if s.items.size > 0 %}
-<div class="pj-grid">
+<ul class="pj-list">
   {% for it in s.items %}
-  <a class="pj-card" href="{{ it.url }}" target="_blank" rel="noopener">
-    <span class="pj-type">{{ it.type }}</span>
-    <span class="pj-title">{{ it.title }}</span>
-    <span class="pj-author">{{ it.author }}</span>
-    <span class="pj-note">{{ it.note }}</span>
-  </a>
+  <li><a href="{{ it.url }}" target="_blank" rel="noopener">{{ it.title }}</a> by {{ it.author }}</li>
   {% endfor %}
-</div>
+</ul>
 {% else %}
 <p class="pj-empty">More coming soon.</p>
 {% endif %}

@@ -154,10 +154,15 @@
 
 .sidebar .author__name {
   @include breakpoint($medium) {
-    font-size: $type-size-4;   // keeps "Yujin (Jenny) Tang" on one line
+    font-size: $type-size-3;
   }
     font-family: $global-font-family;
   font-size: $type-size-4;
+}
+
+.author__name-zh {
+  display: block;
+  margin-top: 0.15em;
 }
 
 .author__bio {
