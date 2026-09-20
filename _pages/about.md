@@ -18,11 +18,11 @@ redirect_from:
 
 <p><em>Last updated: 19 September 2026</em></p>
 
-<p>I am a second-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">SAHAS Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> and work at the intersection of <strong>AI Agents</strong> and <strong>Vision Science</strong>.</p>
+<p>I am a second-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">SAHAS Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> and work at the intersection of <strong>AI Agents</strong> and <strong>Computer Vision</strong>.</p>
+
+<p>I worked as a research intern at Alibaba DAMO Academy, mentored by Dr. <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at UC Merced and Google DeepMind and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at Shanghai Jiao Tong University. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at TikTok, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> at AI Thrust, HKUST(GZ).</p>
 
 <p>My Ph.D. research builds <strong>visual intelligence for AI agents</strong>.</p>
-
-<p>I approach this as a <strong>science of measurement for AI agents' vision</strong>: diagnose first, then build. My first work, <strong><a href="https://arxiv.org/abs/2606.27499">DMV-Bench</a></strong> <strong style="color: #c53030;">(EMNLP 2026)</strong>, makes visual memory measurable by construction: what the agent must later recall never reaches any text channel. That diagnosis motivates <strong>DualMem</strong>, a dual-coding memory that keeps both a visual and a verbal trace of every observation.</p>
 
 <p>My research interests span:</p>
 
