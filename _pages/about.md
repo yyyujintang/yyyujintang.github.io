@@ -20,9 +20,7 @@ redirect_from:
 
 <p>I am a second-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">SAHAS Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> and work at the intersection of <strong>AI Agents</strong> and <strong>Vision Science</strong>.</p>
 
-<p>I worked as a research intern at Alibaba DAMO Academy, mentored by Dr. <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at UC Merced and Google DeepMind and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at Shanghai Jiao Tong University. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at TikTok, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> at AI Thrust, HKUST(GZ).</p>
-
-<p>My Ph.D. research builds <strong>visual intelligence for AI agents</strong>. <em style="color: #c53030;">"The limits of my language mean the limits of my world,"</em> wrote Wittgenstein &mdash; yet a picture is worth a thousand words precisely because images carry a granularity that language has no words for. I study how agents can perceive, remember, and reason at that granularity.</p>
+<p>My Ph.D. research builds <strong>visual intelligence for AI agents</strong>.</p>
 
 <p>I approach this as a <strong>science of measurement for AI agents' vision</strong>: diagnose first, then build. My first work, <strong><a href="https://arxiv.org/abs/2606.27499">DMV-Bench</a></strong> <strong style="color: #c53030;">(EMNLP 2026)</strong>, makes visual memory measurable by construction: what the agent must later recall never reaches any text channel. That diagnosis motivates <strong>DualMem</strong>, a dual-coding memory that keeps both a visual and a verbal trace of every observation.</p>
 
@@ -34,11 +32,6 @@ redirect_from:
 <li>(3) <strong>Long-horizon reasoning and decision-making</strong></li>
 </ul>
 
-</div>
-
-<div style="margin: 2em 0; padding: 1.5em; background: linear-gradient(135deg, #fff5f5 0%, #fff1f1 100%); border-left: 4px solid #f56565; border-bottom: 1px solid #f56565; border-radius: 8px; box-shadow: 0 2px 8px rgba(245, 101, 101, 0.1);">
-    <strong style="color: #c53030; font-size: 1.1em; display: block; margin-bottom: 0.5em;">🤝 Open for Collaboration & Internship Opportunities</strong>
-    <p style="margin: 0; color: #742a2a; line-height: 1.6;">I'm open for academic collaborations and actively seeking <span style="background-color: #fed7d7; padding: 2px 6px; border-radius: 4px; font-weight: 700; color: #c53030;">AI Agent-related </span> summer internship opportunities based in the U.S. for 2027. Please feel free to email me at <a href="mailto:tangyujin0275@gmail.com" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">tangyujin0275@gmail.com</a> or <a href="mailto:yujin.tang.gr@dartmouth.edu" style="color: #c53030; font-weight: 600; text-decoration: none; border-bottom: 1px solid #c53030;">yujin.tang.gr@dartmouth.edu</a>.</p>
 </div>
 
 # News
