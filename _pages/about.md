@@ -40,6 +40,7 @@ redirect_from:
 
 <div class="news-scroll-container">
 <ul class="news-list">
+<li><em>2026.09</em>:  🎉🎉 One paper on MLLM interpretability is accepted by NeurIPS 2026. Congratulations to Chenming! <a href="https://arxiv.org/abs/2609.24209"><strong>Paper</strong></a></li>
 <li><em>2026.08</em>:  🎉🎉 DMV-Bench is accepted by EMNLP 2026. Another coauthored paper is accepted by EMNLP 2026 Findings.</li>
 <li><em>2026.07</em>:  🚀🚀 DMV-Bench is online, the first interactive benchmark for multimodal-agent visual memory. <a href="https://arxiv.org/abs/2606.27499"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/DMV-Bench"><strong>Code</strong></a> <a href="https://huggingface.co/datasets/yyyujintang/DMV-Bench-Images"><strong>HuggingFace</strong></a> <img src="https://img.shields.io/github/stars/yyyujintang/DMV-Bench" alt="Stars"></li>
 <li><em>2026.06</em>:  🎉🎉 PDR / PredGS is accepted by ECCV 2026. <a href="https://arxiv.org/abs/2606.31050"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/PredGS"><strong>Code</strong></a> <img src="https://img.shields.io/github/stars/yyyujintang/PredGS" alt="Stars"></li>
@@ -99,6 +100,13 @@ redirect_from:
 <div class="publication-list">
 
 
+<div class="pub-item">
+<div class="pub-body">
+<div class="pub-title"><a href="https://arxiv.org/abs/2609.24209">Displacement Geometry Captures Platonic Shared Reality Across Models and Modalities</a></div>
+<div class="pub-authors">Chenming Shang, <strong>Yujin Tang</strong>, Jun Jie Ou Yang, Ruize Xu, Adam Breuer<sup>*</sup>, Nikhil Singh<sup>*</sup>.</div>
+<div class="pub-venue"><em>Conference on Neural Information Processing Systems</em> (<strong>NeurIPS</strong>), 2026.</div>
+</div>
+</div>
 <div class="pub-item">
 <div class="pub-body">
 <div class="pub-title"><a href="https://arxiv.org/abs/2608.30067">How do World Models and Policies Compose in LLM Agents? A Joint Spectral and Behavioral Account</a></div>
