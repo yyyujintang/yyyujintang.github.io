@@ -50,24 +50,32 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #6c757d;
-$dark-gray                  : #2c3e50;
-$darker-gray                : #1a252f;
+/* Dartmouth green theme, matching the CV (simplecv.sty):
+   DartmouthGreen rgb(0,105,62), color-text gray 0.10, color-detail gray 0.38 */
+$dartmouth-green            : #00693E;
+$dartmouth-green-dark       : #00482B;   // hover / pressed
+$dartmouth-green-light      : #0E8A57;   // secondary accent
+$dartmouth-green-pale       : #E8F2ED;   // tinted fills
+$dartmouth-green-wash       : #F3F8F5;   // very light background
+
+$gray                       : #616161;   // CV color-detail
+$dark-gray                  : #1a1a1a;   // CV color-text
+$darker-gray                : #111111;
 $light-gray                 : #e9ecef;
 $lighter-gray               : #f8f9fa;
 
 $body-color                 : #fff;
 $background-color           : #ffffff;
-$code-background-color      : #f5f7fa;
+$code-background-color      : #f3f8f5;
 $code-background-color-dark : $light-gray;
-$text-color                 : #2c3e50;
-$border-color               : #e0e4e8;
+$text-color                 : #1a1a1a;
+$border-color               : #dfe6e2;
 
-$primary-color              : #4a5568;
-$success-color              : #48bb78;
-$warning-color              : #ed8936;
-$danger-color               : #f56565;
-$info-color                 : #4299e1;
+$primary-color              : $dartmouth-green;
+$success-color              : $dartmouth-green-light;
+$warning-color              : #b26a00;
+$danger-color               : #a4343a;   // Dartmouth secondary red
+$info-color                 : $dartmouth-green;
 // $info-color                 : #52adc8;
 
 /* brands */
@@ -94,11 +102,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #3182ce;
-$link-color-hover           : #2c5282;
-$link-color-visited         : #6b46c1;
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : $info-color;
+$link-color                 : $dartmouth-green;
+$link-color-hover           : $dartmouth-green-dark;
+$link-color-visited         : $dartmouth-green-dark;
+$masthead-link-color        : $dark-gray;
+$masthead-link-color-hover  : $dartmouth-green;
 
 
 /*

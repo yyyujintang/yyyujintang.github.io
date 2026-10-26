@@ -133,7 +133,7 @@ blockquote {
 /* links */
 
 a {
-  color: #2563eb;
+  color: $dartmouth-green;
   font-weight: 600;
   text-decoration: none;
   border-bottom: 1px solid transparent;
@@ -146,23 +146,23 @@ a {
   &:hover,
   &:active {
     outline: 0;
-    color: #1e40af;
-    border-bottom-color: #1e40af;
+    color: $dartmouth-green-dark;
+    border-bottom-color: $dartmouth-green-dark;
   }
   
   &:visited {
-    color: #4c1d95;
+    color: $dartmouth-green-dark;
   }
 }
 
 /* 在段落中的链接保持蓝色加粗 */
 p a,
 .page__content a {
-  color: #2563eb;
+  color: $dartmouth-green;
   font-weight: 600;
   
   &:hover {
-    color: #1e40af;
+    color: $dartmouth-green-dark;
   }
 }
 
@@ -187,7 +187,7 @@ td > code {
   border: 1px solid $light-gray;
   border-radius: $border-radius;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
-  color: #e83e8c;
+  color: #a4343a;
   font-weight: 500;
 
   &:before, &:after {

@@ -53,9 +53,10 @@
   
   #about-me{
     padding: 1.5em;
-    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+    background: linear-gradient(135deg, $dartmouth-green-wash 0%, #ffffff 100%);
     border-radius: $border-radius * 2;
     border: 1px solid $border-color;
+    border-left: 3px solid $dartmouth-green;
     margin-bottom: 2em;
     margin-top: 1em;
     font-family: $global-font-family;
@@ -66,23 +67,20 @@
       font-family: $global-font-family;
     }
   }
+  // section headings follow the CV: green, uppercase, thin rule underneath
   h1 {
-    margin-top: 1.5em;
-    margin-bottom: 0.8em;
-    padding-bottom: 0.6em;
-    border-bottom: 2px solid $border-color;
-    font-weight: 600;
-    position: relative;
-    
+    margin-top: 2.2em;
+    margin-bottom: 0.9em;
+    padding-bottom: 0.25em;
+    border-bottom: 1px solid rgba(0, 105, 62, 0.35);
+    color: $dartmouth-green;
+    font-size: 1.35em;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+
     &::after {
-      content: '';
-      position: absolute;
-      bottom: -2px;
-      left: 0;
-      width: 60px;
-      height: 2px;
-      background: linear-gradient(to right, $info-color, lighten($info-color, 20%));
-      border-radius: 2px;
+      content: none;
     }
   }
   
@@ -490,7 +488,7 @@
 .pub-subhead {
   font-size: 1.15em;
   font-weight: 700;
-  color: #2a4365;
+  color: $dartmouth-green;
   margin: 2em 0 1em;
 
   a {
@@ -513,7 +511,7 @@
     display: block;
     width: 100%;
     height: auto;
-    border: 1px solid #e0e4e8;
+    border: 1px solid $border-color;
     border-radius: 6px;
   }
 }
@@ -541,32 +539,32 @@
   margin-bottom: 0.25em;
   
   a {
-    color: #1a73e8;
+    color: $dartmouth-green;
     text-decoration: none;
     
     &:hover {
-      color: #1557b0;
+      color: $dartmouth-green-dark;
       text-decoration: underline;
     }
   }
 }
 
 .pub-authors {
-  color: #4a5568;
+  color: $gray;
   margin-bottom: 0.25em;
   font-size: 0.95em;
   
   strong {
-    color: #2a4365;
+    color: $dartmouth-green;
   }
 }
 
 .pub-venue {
-  color: #718096;
+  color: $gray;
   font-size: 0.9em;
   
   strong {
-    color: #c53030;
+    color: $dartmouth-green-dark;
   }
 }
 
@@ -618,7 +616,7 @@
     }
     
     a {
-      color: #1a73e8;
+      color: $dartmouth-green;
       text-decoration: none;
       
       &:hover {
@@ -670,8 +668,8 @@
     padding: 0.5em;
     text-align: center;
     font-size: 0.75em;
-    color: #4a5568;
-    background: #f7fafc;
+    color: $gray;
+    background: $dartmouth-green-wash;
   }
 }
 
@@ -680,13 +678,13 @@
    ========================================================================== */
 
 .pj-intro {
-  color: #4a5568;
+  color: $gray;
   font-size: 1.05em;
   margin-bottom: 1em;
 }
 
 .pj-blurb {
-  color: #718096;
+  color: $gray;
   margin-top: -0.4em;
   margin-bottom: 0.6em;
 }
@@ -696,11 +694,11 @@
 
   li {
     margin-bottom: 0.4em;
-    color: #4a5568;
+    color: $gray;
   }
 }
 
 .pj-empty {
-  color: #a0aec0;
+  color: lighten($gray, 20%);
   font-style: italic;
 }
