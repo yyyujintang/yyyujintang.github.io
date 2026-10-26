@@ -539,11 +539,11 @@
   margin-bottom: 0.25em;
   
   a {
-    color: $dartmouth-green;
+    color: $link-blue;
     text-decoration: none;
     
     &:hover {
-      color: $dartmouth-green-dark;
+      color: $link-blue-dark;
       text-decoration: underline;
     }
   }
@@ -555,7 +555,7 @@
   font-size: 0.95em;
   
   strong {
-    color: $dartmouth-green;
+    color: $dark-gray;
   }
 }
 
@@ -616,7 +616,7 @@
     }
     
     a {
-      color: $dartmouth-green;
+      color: $link-blue;
       text-decoration: none;
       
       &:hover {

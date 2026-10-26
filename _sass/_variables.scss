@@ -58,6 +58,10 @@ $dartmouth-green-light      : #0E8A57;   // secondary accent
 $dartmouth-green-pale       : #E8F2ED;   // tinted fills
 $dartmouth-green-wash       : #F3F8F5;   // very light background
 
+/* content links stay blue: higher contrast on white than the green */
+$link-blue                  : #1a73e8;
+$link-blue-dark             : #1557b0;
+
 $gray                       : #616161;   // CV color-detail
 $dark-gray                  : #1a1a1a;   // CV color-text
 $darker-gray                : #111111;
@@ -102,9 +106,9 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $dartmouth-green;
-$link-color-hover           : $dartmouth-green-dark;
-$link-color-visited         : $dartmouth-green-dark;
+$link-color                 : $link-blue;
+$link-color-hover           : $link-blue-dark;
+$link-color-visited         : $link-blue-dark;
 $masthead-link-color        : $dark-gray;
 $masthead-link-color-hover  : $dartmouth-green;
 
