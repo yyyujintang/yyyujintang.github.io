@@ -797,3 +797,22 @@
   color: $venue-red;
   font-weight: 700;
 }
+
+/* research statement called out in red */
+.accent-red {
+  color: $venue-red;
+}
+
+/* Dartmouth mark beside the last-updated line */
+.last-updated {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.dartmouth-mark {
+  width: 1.9em;
+  height: 1.9em;
+  flex: 0 0 auto;
+  object-fit: contain;
+}
