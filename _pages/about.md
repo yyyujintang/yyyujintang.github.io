@@ -31,7 +31,7 @@ redirect_from:
 <ul>
 <li>(1) <strong>Visual memory for multimodal agents</strong></li>
 <li>(2) <strong>Agentic reinforcement learning</strong></li>
-<li>(3) <strong>Long-horizon reasoning and decision-making</strong></li>
+<li>(3) <strong>Agentic AI system security</strong></li>
 </ul>
 
 <p class="collab-call">I am open to research collaborations on both directions, and I am looking for a <strong>Summer 2027 internship in the U.S. on AI agents</strong>. If either resonates with your work, feel free to email me at <a href="mailto:yujin.tang.gr@dartmouth.edu">yujin.tang.gr@dartmouth.edu</a>.</p>
@@ -154,7 +154,7 @@ redirect_from:
 
 {: #agentic-ai .section-title .section-title-publication}
 
-<p>My Ph.D. research builds <strong>visual intelligence for AI agents</strong>, along two project lines.</p>
+<p>I build <strong>agentic AI algorithms and systems</strong>.</p>
 
 <h3 class="pub-subhead">Project: Long-Horizon Multimodal Agent Memory</h3>
 
@@ -175,6 +175,10 @@ redirect_from:
 <p class="proj-soon">More coming soon.</p>
 
 <h3 class="pub-subhead">Project: Long-Horizon Agentic RL</h3>
+
+<p class="proj-soon">More coming soon.</p>
+
+<h3 class="pub-subhead">Project: Agentic AI System Security</h3>
 
 <p class="proj-soon">More coming soon.</p>
 
@@ -309,10 +313,10 @@ redirect_from:
 
 {: #miscs .section-title .section-title-notes}
 
-* Born and raised in **Dazhou, Sichuan**. A **first-generation** undergraduate and Ph.D. in my family.
-* Now based in **Hanover, NH**. Before that I lived in Dazhou, Mianyang, Shanghai, Shenzhen, Guangzhou and Hangzhou &mdash; **Shenzhen** is my favorite.
+* Born and raised in **Dazhou, Sichuan, China**. A **first-generation** undergraduate and Ph.D. in my family.
+* Now based in **Hanover, NH**. Before that I lived in Dazhou, Mianyang, Shanghai, Shenzhen, Guangzhou and Hangzhou. **Shenzhen** is my favorite.
 * I love thinking and writing. *"The limits of my language mean the limits of my world."* / 语言的边界就是思想的边界。
-* **100k+ followers** on Chinese social media &mdash; learning by sharing.
-* Looking for startup co-founders (**CTO**, **MTS**) and a life partner &mdash; email me if you are interested.
+* **100k+ followers** on Chinese social media. Learning by sharing.
+* Looking for startup co-founders (**CTO**, **MTS**) and a life partner. Email me if you are interested.
 
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
