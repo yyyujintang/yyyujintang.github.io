@@ -200,6 +200,16 @@ redirect_from:
 
 </div>
 
+# Earlier Work: Predicting the Future
+
+{: #earlier-work .section-title .section-title-publication}
+
+<p>Before moving to agents, I worked on <strong>predicting how the world unfolds</strong> &mdash; spatiotemporal and time series forecasting.</p>
+
+<p><strong>As first author:</strong> <a href="https://arxiv.org/abs/2403.16536">VMRNN</a> (<span class="venue">CVPR Workshop 2024</span>) paired Vision Mamba with LSTM for spatiotemporal forecasting; <a href="https://arxiv.org/abs/2410.04733">PredFormer</a> (<span class="venue">TMLR 2026</span>) showed a pure transformer can beat recurrent and convolutional video prediction models; <a href="https://arxiv.org/abs/2606.31050">PredGS</a> (<span class="venue">ECCV 2026</span>) learned video dynamics through differentiable rendering. I also built <a href="https://arxiv.org/abs/2310.02676">PostRainBench</a> (<span class="venue">ICLR Workshop 2024</span>) for precipitation forecasting.</p>
+
+<p><strong>As collaborator:</strong> distribution-aware alignment for time series forecasting (<span class="venue">ICLR 2026</span>), <a href="https://arxiv.org/abs/2310.00655">PatchMixer</a> (<span class="venue">IJCAI Workshop 2024</span>), and early work on proteomics-based cancer diagnosis (<span class="venue">MICCAI 2020</span>).</p>
+
 # Publications
 
 {: #publications .section-title .section-title-publication}
@@ -269,16 +279,6 @@ redirect_from:
 
 </div>
 
-# Earlier Work: Predicting the Future
-
-{: #earlier-work .section-title .section-title-publication}
-
-<p>Before moving to agents, I worked on <strong>predicting how the world unfolds</strong> &mdash; spatiotemporal and time series forecasting.</p>
-
-<p><strong>As first author:</strong> <a href="https://arxiv.org/abs/2403.16536">VMRNN</a> (<span class="venue">CVPR Workshop 2024</span>) paired Vision Mamba with LSTM for spatiotemporal forecasting; <a href="https://arxiv.org/abs/2410.04733">PredFormer</a> (<span class="venue">TMLR 2026</span>) showed a pure transformer can beat recurrent and convolutional video prediction models; <a href="https://arxiv.org/abs/2606.31050">PredGS</a> (<span class="venue">ECCV 2026</span>) learned video dynamics through differentiable rendering. I also built <a href="https://arxiv.org/abs/2310.02676">PostRainBench</a> (<span class="venue">ICLR Workshop 2024</span>) for precipitation forecasting.</p>
-
-<p><strong>As collaborator:</strong> distribution-aware alignment for time series forecasting (<span class="venue">ICLR 2026</span>), <a href="https://arxiv.org/abs/2310.00655">PatchMixer</a> (<span class="venue">IJCAI Workshop 2024</span>), and early work on proteomics-based cancer diagnosis (<span class="venue">MICCAI 2020</span>).</p>
-
 # Community Resource
 
 {: #community-resource .section-title .section-title-resources}
@@ -304,6 +304,15 @@ redirect_from:
 * **Spring/Summer/Fall 2026:** Teaching Assistant for CS50: Software Design and Implementation, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
 * **Winter 2026:** Head Teaching Assistant for Principles of Machine Learning, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
 * **Fall 2025:** Teaching Assistant for Video Understanding, <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>
-* **Spring 2023:** Teaching Assistant for AIAA 5032: Foundations of Artificial Intelligence, <strong><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></strong>
+
+# Miscs
+
+{: #miscs .section-title .section-title-notes}
+
+* Born and raised in **Dazhou, Sichuan**. A **first-generation** undergraduate and Ph.D. in my family.
+* Now based in **Hanover, NH**. Before that I lived in Dazhou, Mianyang, Shanghai, Shenzhen, Guangzhou and Hangzhou &mdash; **Shenzhen** is my favorite.
+* I love thinking and writing. *"The limits of my language mean the limits of my world."* / 语言的边界就是思想的边界。
+* **100k+ followers** on Chinese social media &mdash; learning by sharing.
+* Looking for startup co-founders (**CTO**, **MTS**) and a life partner &mdash; email me if you are interested.
 
 <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=DpZkNL3LsLmeQRxUKn0lTTI5TvgkpddDlnJpErWoftQ&cl=ffffff&w=a"></script>
