@@ -24,17 +24,15 @@ redirect_from:
 
 <p>I worked as a research intern at Alibaba DAMO Academy, mentored by Dr. <strong><a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a></strong>. I also served as a Visiting Student with Prof. <strong><a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a></strong> at UC Merced and Google DeepMind and Prof. <strong><a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a></strong> at Shanghai Jiao Tong University. I have previously collaborated with Prof. <strong><a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a></strong> and Dr. <strong><a href="https://scholar.google.com/citations?user=FL3ReD0AAAAJ&hl=zh-CN">Xiangtai Li</a></strong> at TikTok, as well as with Prof. <strong><a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a></strong> at AI Thrust, HKUST(GZ).</p>
 
-<p>My Ph.D. research builds <strong>visual intelligence for AI agents</strong>.</p>
-
-<p>My research interests span:</p>
+<p>My Ph.D. research builds <strong>agentic AI algorithms and systems</strong>, along three directions:</p>
 
 <ul>
-<li>(1) <strong>Visual memory for multimodal agents</strong></li>
-<li>(2) <strong>Agentic reinforcement learning</strong></li>
-<li>(3) <strong>Agentic AI system security</strong></li>
+<li>(1) <strong>Long-Horizon Multimodal Agent Memory</strong></li>
+<li>(2) <strong>Long-Horizon Agentic RL</strong></li>
+<li>(3) <strong>Agentic AI System Security</strong></li>
 </ul>
 
-<p class="collab-call">I am open to research collaborations on both directions, and I am looking for a <strong>Summer 2027 internship in the U.S. on AI agents</strong>. If either resonates with your work, feel free to email me at <a href="mailto:yujin.tang.gr@dartmouth.edu">yujin.tang.gr@dartmouth.edu</a>.</p>
+<p class="collab-call">I am open to research collaborations on all three directions, and I am looking for a <strong>Summer 2027 internship in the U.S. on AI agents</strong>. If either resonates with your work, feel free to email me at <a href="mailto:yujin.tang.gr@dartmouth.edu">yujin.tang.gr@dartmouth.edu</a>.</p>
 
 </div>
 
