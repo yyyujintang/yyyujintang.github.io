@@ -18,7 +18,7 @@ redirect_from:
 
 <p><em>Last updated: 14 November 2026</em></p>
 
-<p>I am a second-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">SAHAS Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> and work at the intersection of <strong>AI Agents</strong> and <strong>Computer Vision</strong>.</p>
+<p>I am a second-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">SAHAS Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> and build <strong>agentic AI algorithms and systems</strong>.</p>
 
 <p>Before Dartmouth, I received my M.Sc. in Data Science from <strong><a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a></strong>, and my B.Eng. in Biomedical Engineering from <strong><a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a></strong>.</p>
 
@@ -29,10 +29,100 @@ redirect_from:
 <p>My research interests span:</p>
 
 <ul>
-<li>(1) <strong>Visual memory for agents</strong></li>
+<li>(1) <strong>Visual memory for multimodal agents</strong></li>
 <li>(2) <strong>Agentic reinforcement learning</strong></li>
 <li>(3) <strong>Long-horizon reasoning and decision-making</strong></li>
 </ul>
+
+<p class="collab-call">I am open to research collaborations on both directions, and I am looking for a <strong>Summer 2027 internship in the U.S. on AI agents</strong>. If either resonates with your work, feel free to email me at <a href="mailto:yujin.tang.gr@dartmouth.edu">yujin.tang.gr@dartmouth.edu</a>.</p>
+
+</div>
+
+# Educations
+
+{: #educations .section-title .section-title-education}
+
+<div class="cv-row cv-row--edu">
+
+<div class="education-item">
+  <div class="logo-container">
+    <img src="images/dartmouth-logo.png" alt="Dartmouth College Logo" loading="lazy">
+  </div>
+  <div class="content">
+    <div class="title">Dartmouth College</div>
+    <div class="subtitle">Ph.D. in Computer Science</div>
+    <div class="date">2025.09 - 2030.07 (expected)</div>
+    <div class="description">Advised by Prof. <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>, <a href="https://www.sahaslab.com/">SAHAS</a> Lab</div>
+  </div>
+</div>
+
+<div class="education-item">
+  <div class="logo-container">
+    <img src="images/cuhksz-logo.png" alt="CUHKSZ Logo" loading="lazy">
+  </div>
+  <div class="content">
+    <div class="title">The Chinese University of Hong Kong, Shenzhen</div>
+    <div class="subtitle">M.Sc. in Data Science</div>
+    <div class="date">2021.09 - 2023.07</div>
+    <div class="description">Advised by Prof. <a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></div>
+  </div>
+</div>
+
+<div class="education-item">
+  <div class="logo-container">
+    <img src="images/sjtu-logo.png" alt="SJTU Logo" loading="lazy">
+  </div>
+  <div class="content">
+    <div class="title">Shanghai Jiao Tong University</div>
+    <div class="subtitle">B.Eng. in Biomedical Engineering</div>
+    <div class="date">2017.09 - 2021.06</div>
+    <div class="description">Advised by Prof. <a href="https://bme.sjtu.edu.cn/En/FacultyDetail/41/">Dahong Qian</a></div>
+  </div>
+</div>
+
+</div>
+
+# Internships
+
+{: #internships .section-title .section-title-internship}
+
+<div class="cv-row cv-row--intern">
+
+<div class="internship-item highlight">
+  <div class="logo-container">
+    <img src="images/alibaba-logo.png" alt="Alibaba DAMO Academy Logo" loading="lazy">
+  </div>
+  <div class="content">
+    <div class="title">Alibaba DAMO Academy</div>
+    <div class="subtitle">Algorithm Engineer Intern</div>
+    <div class="date">2025.03 - 2025.07</div>
+    <div class="description">Research intern for 5 wonderful months. Working on cutting-edge AI research and development. Mentored by Dr. <a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a> and Dr. <a href="https://scholar.google.com/citations?user=D_cOMBgAAAAJ&hl=en">Liang Sun</a></div>
+  </div>
+</div>
+
+<div class="internship-item">
+  <div class="logo-container">
+    <img src="images/ucmerced-logo.png" alt="UC Merced Logo" loading="lazy">
+  </div>
+  <div class="content">
+    <div class="title">UC Merced & Shanghai Jiao Tong University</div>
+    <div class="subtitle">Remote Visiting Student @ UC Merced & Onsite Visiting Student @ SJTU</div>
+    <div class="date">2024.06 - 2025.03</div>
+    <div class="description">Working with Prof. <a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a> at UC Merced, Prof. <a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a> at <a href="https://ai.sjtu.edu.cn">AI Institute, SJTU</a>, and Prof. <a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a> at WHU.</div>
+  </div>
+</div>
+
+<div class="internship-item">
+  <div class="logo-container">
+    <img src="images/hkust-gz-logo.png" alt="HKUST-GZ Logo" loading="lazy">
+  </div>
+  <div class="content">
+    <div class="title">The Hong Kong University of Science and Technology (Guangzhou)</div>
+    <div class="subtitle">Research Assistant at AI Thrust</div>
+    <div class="date">2023.02 - 2024.05</div>
+    <div class="description">Supervised by Prof. <a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a>. </div>
+  </div>
+</div>
 
 </div>
 
@@ -68,8 +158,6 @@ redirect_from:
 
 <h3 class="pub-subhead">Project: Long-Horizon Multimodal Agent Memory</h3>
 
-<p class="proj-blurb">How agents retain and recall what they saw, over horizons where language alone loses the detail.</p>
-
 <div class="publication-list">
 
 <div class="pub-item">
@@ -87,8 +175,6 @@ redirect_from:
 <p class="proj-soon">More coming soon.</p>
 
 <h3 class="pub-subhead">Project: Long-Horizon Agentic RL</h3>
-
-<p class="proj-blurb">Training agents to decide what to attend to, what to keep, and what to recall, rather than hand-designing it.</p>
 
 <p class="proj-soon">More coming soon.</p>
 
@@ -113,8 +199,6 @@ redirect_from:
 </div>
 
 </div>
-
-<p class="collab-call">I am open to research collaborations on both directions. If either resonates with your work, feel free to email me at <a href="mailto:yujin.tang.gr@dartmouth.edu">yujin.tang.gr@dartmouth.edu</a>.</p>
 
 # Publications
 
@@ -189,11 +273,11 @@ redirect_from:
 
 {: #earlier-work .section-title .section-title-publication}
 
-<p>Before moving to agents, I worked on <strong>predicting how the world unfolds</strong> &mdash; spatiotemporal and time series forecasting. That line taught me how models carry information forward over time, which is what agent memory asks of them now.</p>
+<p>Before moving to agents, I worked on <strong>predicting how the world unfolds</strong> &mdash; spatiotemporal and time series forecasting.</p>
 
-<p><strong>As first author:</strong> <a href="https://arxiv.org/abs/2403.16536">VMRNN</a> (<strong>CVPR Workshop 2024</strong>) paired Vision Mamba with LSTM for spatiotemporal forecasting; <a href="https://arxiv.org/abs/2410.04733">PredFormer</a> (<strong>TMLR 2026</strong>) showed a pure transformer can beat recurrent and convolutional video prediction models; <a href="https://arxiv.org/abs/2606.31050">PredGS</a> (<strong>ECCV 2026</strong>) learned video dynamics through differentiable rendering. I also built <a href="https://arxiv.org/abs/2310.02676">PostRainBench</a> (<strong>ICLR Workshop 2024</strong>) for precipitation forecasting.</p>
+<p><strong>As first author:</strong> <a href="https://arxiv.org/abs/2403.16536">VMRNN</a> (<span class="venue">CVPR Workshop 2024</span>) paired Vision Mamba with LSTM for spatiotemporal forecasting; <a href="https://arxiv.org/abs/2410.04733">PredFormer</a> (<span class="venue">TMLR 2026</span>) showed a pure transformer can beat recurrent and convolutional video prediction models; <a href="https://arxiv.org/abs/2606.31050">PredGS</a> (<span class="venue">ECCV 2026</span>) learned video dynamics through differentiable rendering. I also built <a href="https://arxiv.org/abs/2310.02676">PostRainBench</a> (<span class="venue">ICLR Workshop 2024</span>) for precipitation forecasting.</p>
 
-<p><strong>As collaborator:</strong> distribution-aware alignment for time series forecasting (<strong>ICLR 2026</strong>), <a href="https://arxiv.org/abs/2310.00655">PatchMixer</a> (<strong>IJCAI Workshop 2024</strong>), and early work on proteomics-based cancer diagnosis (<strong>MICCAI 2020</strong>).</p>
+<p><strong>As collaborator:</strong> distribution-aware alignment for time series forecasting (<span class="venue">ICLR 2026</span>), <a href="https://arxiv.org/abs/2310.00655">PatchMixer</a> (<span class="venue">IJCAI Workshop 2024</span>), and early work on proteomics-based cancer diagnosis (<span class="venue">MICCAI 2020</span>).</p>
 
 # Community Resource
 
@@ -212,86 +296,6 @@ redirect_from:
 * **2026:** *International Journal of Computer Vision (IJCV)* x2, *IEEE Transactions on Multimedia (TMM)* x3
 * **2025:** *Transactions on Machine Learning Research (TMLR)*, *International Journal of Computer Vision (IJCV)*
 * **2024:** *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
-
-# Educations
-
-{: #educations .section-title .section-title-education}
-
-<div class="education-item">
-  <div class="logo-container">
-    <img src="images/dartmouth-logo.png" alt="Dartmouth College Logo" loading="lazy">
-  </div>
-  <div class="content">
-    <div class="title">Dartmouth College</div>
-    <div class="subtitle">Ph.D. in Computer Science</div>
-    <div class="date">2025.09 - 2030.07 (expected)</div>
-    <div class="description">Advised by Prof. <a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a>, <a href="https://www.sahaslab.com/">SAHAS</a> Lab</div>
-  </div>
-</div>
-
-<div class="education-item">
-  <div class="logo-container">
-    <img src="images/cuhksz-logo.png" alt="CUHKSZ Logo" loading="lazy">
-  </div>
-  <div class="content">
-    <div class="title">The Chinese University of Hong Kong, Shenzhen</div>
-    <div class="subtitle">M.Sc. in Data Science</div>
-    <div class="date">2021.09 - 2023.07</div>
-    <div class="description">Advised by Prof. <a href="https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN">Xiaoguang Han</a></div>
-  </div>
-</div>
-
-<div class="education-item">
-  <div class="logo-container">
-    <img src="images/sjtu-logo.png" alt="SJTU Logo" loading="lazy">
-  </div>
-  <div class="content">
-    <div class="title">Shanghai Jiao Tong University</div>
-    <div class="subtitle">B.Eng. in Biomedical Engineering</div>
-    <div class="date">2017.09 - 2021.06</div>
-    <div class="description">Advised by Prof. <a href="https://bme.sjtu.edu.cn/En/FacultyDetail/41/">Dahong Qian</a></div>
-  </div>
-</div>
-
-# Internships
-
-{: #internships .section-title .section-title-internship}
-
-<div class="internship-item highlight">
-  <div class="logo-container">
-    <img src="images/alibaba-logo.png" alt="Alibaba DAMO Academy Logo" loading="lazy">
-  </div>
-  <div class="content">
-    <div class="title">Alibaba DAMO Academy</div>
-    <div class="subtitle">Algorithm Engineer Intern</div>
-    <div class="date">2025.03 - 2025.07</div>
-    <div class="description">Research intern for 5 wonderful months. Working on cutting-edge AI research and development. Mentored by Dr. <a href="https://scholar.google.com/citations?user=9o5r8bUAAAAJ&hl=zh-CN">Tian Zhou</a> and Dr. <a href="https://scholar.google.com/citations?user=D_cOMBgAAAAJ&hl=en">Liang Sun</a></div>
-  </div>
-</div>
-
-<div class="internship-item">
-  <div class="logo-container">
-    <img src="images/ucmerced-logo.png" alt="UC Merced Logo" loading="lazy">
-  </div>
-  <div class="content">
-    <div class="title">UC Merced & Shanghai Jiao Tong University</div>
-    <div class="subtitle">Remote Visiting Student @ UC Merced & Onsite Visiting Student @ SJTU</div>
-    <div class="date">2024.06 - 2025.03</div>
-    <div class="description">Working with Prof. <a href="https://scholar.google.com/citations?user=p9-ohHsAAAAJ&hl=zh-CN">Ming-Hsuan Yang</a> at UC Merced, Prof. <a href="https://scholar.google.com/citations?user=syoPhv8AAAAJ&hl=zh-CN">Chao Ma</a> at <a href="https://ai.sjtu.edu.cn">AI Institute, SJTU</a>, and Prof. <a href="https://scholar.google.com.hk/citations?user=SSI90d4AAAAJ&hl=en">Lu Qi</a> at WHU.</div>
-  </div>
-</div>
-
-<div class="internship-item">
-  <div class="logo-container">
-    <img src="images/hkust-gz-logo.png" alt="HKUST-GZ Logo" loading="lazy">
-  </div>
-  <div class="content">
-    <div class="title">The Hong Kong University of Science and Technology (Guangzhou)</div>
-    <div class="subtitle">Research Assistant at AI Thrust</div>
-    <div class="date">2023.02 - 2024.05</div>
-    <div class="description">Supervised by Prof. <a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a>. </div>
-  </div>
-</div>
 
 # Teaching
 
