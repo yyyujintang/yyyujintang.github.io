@@ -193,6 +193,12 @@
   }
 }
 
+.author__bio-zh {
+  display: block;
+  margin-top: 0.3em;
+  font-size: max(12px, 0.92em);
+}
+
 .author__urls-wrapper {
   @media (max-width: #{$small - 1px}) {
     flex: 0 0 100%;

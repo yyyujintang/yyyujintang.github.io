@@ -16,7 +16,7 @@ redirect_from:
 
 <div id='about-me'>
 
-<p><em>Last updated: 25 October 2026</em></p>
+<p><em>Last updated: 14 November 2026</em></p>
 
 <p>I am a second-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">SAHAS Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> and work at the intersection of <strong>AI Agents</strong> and <strong>Computer Vision</strong>.</p>
 
@@ -42,6 +42,7 @@ redirect_from:
 
 <div class="news-scroll-container">
 <ul class="news-list">
+<li><em>2026.11</em>:  🌎🌎 We released <strong>Always-On Personal Intelligence: A Roadmap Towards Continuing, Self-Evolving Loops</strong>, a survey and roadmap on continuing, self-evolving agents. <a href="https://preprints.org/manuscript/202611.0793"><strong>Paper</strong></a> <a href="https://always-on-intelligence.github.io"><strong>Website</strong></a> <a href="https://github.com/Always-On-Intelligence/awesome-always-on-personal-intelligence"><strong>Reading List</strong></a></li>
 <li><em>2026.09</em>:  🎉🎉 One paper on MLLM interpretability is accepted by NeurIPS 2026. Congratulations to Chenming! <a href="https://arxiv.org/abs/2609.24209"><strong>Paper</strong></a></li>
 <li><em>2026.08</em>:  🎉🎉 DMV-Bench is accepted by EMNLP 2026.</li>
 <li><em>2026.07</em>:  🚀🚀 DMV-Bench is online, the first interactive benchmark for multimodal-agent visual memory. <a href="https://arxiv.org/abs/2606.27499"><strong>Paper</strong></a> <a href="https://github.com/yyyujintang/DMV-Bench"><strong>Code</strong></a> <a href="https://huggingface.co/datasets/yyyujintang/DMV-Bench-Images"><strong>HuggingFace</strong></a> <img src="https://img.shields.io/github/stars/yyyujintang/DMV-Bench" alt="Stars"></li>
@@ -59,6 +60,62 @@ redirect_from:
 </ul>
 </div>
 
+# Building Agentic AI Intelligence
+
+{: #agentic-ai .section-title .section-title-publication}
+
+<p>My Ph.D. research builds <strong>visual intelligence for AI agents</strong>, along two project lines.</p>
+
+<h3 class="pub-subhead">Project: Long-Horizon Multimodal Agent Memory</h3>
+
+<p class="proj-blurb">How agents retain and recall what they saw, over horizons where language alone loses the detail.</p>
+
+<div class="publication-list">
+
+<div class="pub-item">
+<div class="pub-thumb"><img src="images/publications/dmv-bench.png" alt="DMV-Bench teaser" loading="lazy"></div>
+<div class="pub-body">
+<div class="pub-title"><a href="https://arxiv.org/abs/2606.27499">DMV-Bench: Diagnosing Long-Horizon Multimodal Agents' Visual Memory with Incidental Cue Injection</a></div>
+<div class="pub-authors"><strong>Yujin Tang</strong>, Chenming Shang, Ruize Xu, Nikhil Singh.</div>
+<div class="pub-venue"><em>Conference on Empirical Methods in Natural Language Processing</em> (<strong>EMNLP</strong>), 2026.</div>
+<div class="pub-note">The first interactive benchmark for visual memory in multimodal agents: over chains of sessions spanning 22 to about 1,250 steps, agents must later recall incidental cues that exist only in the pixels. We also propose DualMem, a memory with parallel visual and verbal codes.</div>
+</div>
+</div>
+
+</div>
+
+<p class="proj-soon">More coming soon.</p>
+
+<h3 class="pub-subhead">Project: Long-Horizon Agentic RL</h3>
+
+<p class="proj-blurb">Training agents to decide what to attend to, what to keep, and what to recall, rather than hand-designing it.</p>
+
+<p class="proj-soon">More coming soon.</p>
+
+<h3 class="pub-subhead">Survey Collaborations</h3>
+
+<div class="publication-list">
+
+<div class="pub-item">
+<div class="pub-body">
+<div class="pub-title"><a href="https://preprints.org/manuscript/202611.0793">Always-On Personal Intelligence: A Roadmap Towards Continuing, Self-Evolving Loops</a></div>
+<div class="pub-authors">Shuai Liu, Hongming Guo, Weiyang Jin, Kairui Hu, Shulin Tian, Yuhao Dong, Jinming Wu, Kaichen Zhang, <strong>Yujin Tang</strong>, Xinyang Han, Wenhao Chai, Yuqian Fu, Ce Zhang, Yuanhan Zhang, Lingdong Kong, Li Siyao, Jingkang Yang, Gedas Bertasius, Manling Li, Jiajun Wu, Mengdi Wang, Dawn Song, Ziwei Liu.</div>
+<div class="pub-venue"><em>Preprint</em>, 2026. <a href="https://always-on-intelligence.github.io">Website &amp; Demo</a> &middot; <a href="https://github.com/Always-On-Intelligence/awesome-always-on-personal-intelligence">Reading List</a></div>
+</div>
+</div>
+
+<div class="pub-item">
+<div class="pub-body">
+<div class="pub-title"><a href="https://github.com/TROUBADOUR000/Awesome-Agentic-Time-Series">The Landscape of Agentic Time Series Systems: Architectures, Reliability, and Frontiers</a></div>
+<div class="pub-authors">Yifan Hu, Jie Yang, &hellip;, <strong>Yujin Tang</strong>, &hellip;, Shirui Pan, Philip S. Yu.</div>
+<div class="pub-venue"><em>Under review at</em> <strong>TMLR</strong>, 2026.</div>
+</div>
+</div>
+
+</div>
+
+<p class="collab-call">I am open to research collaborations on both directions. If either resonates with your work, feel free to email me at <a href="mailto:yujin.tang.gr@dartmouth.edu">yujin.tang.gr@dartmouth.edu</a>.</p>
+
 # Publications
 
 {: #publications .section-title .section-title-publication}
@@ -69,7 +126,6 @@ redirect_from:
 
 <div class="publication-list">
 
-
 <div class="pub-item">
 <div class="pub-thumb"><img src="images/publications/dmv-bench.png" alt="DMV-Bench teaser" loading="lazy"></div>
 <div class="pub-body">
@@ -78,6 +134,7 @@ redirect_from:
 <div class="pub-venue"><em>Conference on Empirical Methods in Natural Language Processing</em> (<strong>EMNLP</strong>), 2026.</div>
 </div>
 </div>
+
 <div class="pub-item">
 <div class="pub-thumb"><img src="images/publications/predgs.png" alt="PredGS framework" loading="lazy"></div>
 <div class="pub-body">
@@ -86,6 +143,7 @@ redirect_from:
 <div class="pub-venue"><em>European Conference on Computer Vision</em> (<strong>ECCV</strong>), 2026. <a href="https://www.bilibili.com/video/BV1wote6gEDY/">中文讲解</a> &middot; <a href="https://www.youtube.com/watch?v=FrxSeqXg7X0">English Talk</a></div>
 </div>
 </div>
+
 <div class="pub-item">
 <div class="pub-thumb"><img src="images/publications/predformer.png" alt="PredFormer architecture" loading="lazy"></div>
 <div class="pub-body">
@@ -101,7 +159,6 @@ redirect_from:
 
 <div class="publication-list">
 
-
 <div class="pub-item">
 <div class="pub-body">
 <div class="pub-title"><a href="https://arxiv.org/abs/2609.24209">Displacement Geometry Captures Platonic Shared Reality Across Models and Modalities</a></div>
@@ -109,6 +166,15 @@ redirect_from:
 <div class="pub-venue"><em>Conference on Neural Information Processing Systems</em> (<strong>NeurIPS</strong>), 2026.</div>
 </div>
 </div>
+
+<div class="pub-item">
+<div class="pub-body">
+<div class="pub-title"><a href="https://arxiv.org/abs/2608.30067">How do World Models and Policies Compose in LLM Agents? A Joint Spectral and Behavioral Account</a></div>
+<div class="pub-authors">Ruize Xu, Xiao Yu, <strong>Yujin Tang</strong>, Chenming Shang, Nikhil Singh.</div>
+<div class="pub-venue"><em>Findings of the Conference on Empirical Methods in Natural Language Processing</em> (<strong>EMNLP Findings</strong>), 2026.</div>
+</div>
+</div>
+
 <div class="pub-item">
 <div class="pub-body">
 <div class="pub-title"><a href="https://arxiv.org/abs/2509.14181">Bridging past and future: Distribution-aware alignment for time series forecasting</a></div>
@@ -118,6 +184,34 @@ redirect_from:
 </div>
 
 </div>
+
+# Earlier Work: Predicting the Future
+
+{: #earlier-work .section-title .section-title-publication}
+
+<p>Before moving to agents, I worked on <strong>predicting how the world unfolds</strong> &mdash; spatiotemporal and time series forecasting. That line taught me how models carry information forward over time, which is what agent memory asks of them now.</p>
+
+<p><strong>As first author:</strong> <a href="https://arxiv.org/abs/2403.16536">VMRNN</a> (<strong>CVPR Workshop 2024</strong>) paired Vision Mamba with LSTM for spatiotemporal forecasting; <a href="https://arxiv.org/abs/2410.04733">PredFormer</a> (<strong>TMLR 2026</strong>) showed a pure transformer can beat recurrent and convolutional video prediction models; <a href="https://arxiv.org/abs/2606.31050">PredGS</a> (<strong>ECCV 2026</strong>) learned video dynamics through differentiable rendering. I also built <a href="https://arxiv.org/abs/2310.02676">PostRainBench</a> (<strong>ICLR Workshop 2024</strong>) for precipitation forecasting.</p>
+
+<p><strong>As collaborator:</strong> distribution-aware alignment for time series forecasting (<strong>ICLR 2026</strong>), <a href="https://arxiv.org/abs/2310.00655">PatchMixer</a> (<strong>IJCAI Workshop 2024</strong>), and early work on proteomics-based cancer diagnosis (<strong>MICCAI 2020</strong>).</p>
+
+# Community Resource
+
+{: #community-resource .section-title .section-title-resources}
+
+* <strong><a href="https://github.com/yyyujintang/Awesome-Agent-Memory-Papers">Awesome-Agent-Memory-Papers</a></strong> (2026, 240+ stars) &mdash; a curated, continuously updated collection of <strong>agent memory</strong> research spanning episodic, semantic, procedural and multimodal memory, across methods, benchmarks and surveys, with a companion <a href="https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/">filterable website</a>.
+* <strong><a href="https://github.com/yyyujintang/Awesome-Mamba-Papers">Awesome-Mamba-Papers</a></strong> (2024, 1.4K stars) &mdash; the first Mamba paper collection.
+* <strong><a href="https://github.com/yyyujintang/PredFormer">PredFormer</a></strong> (158 stars) and <strong><a href="https://github.com/yyyujintang/VMRNN-PyTorch">VMRNN-PyTorch</a></strong> (167 stars) &mdash; official implementations.
+
+# Reviewing
+
+{: #reviewing .section-title .section-title-service}
+
+<p><strong>Agent venues:</strong> ICLR 2026 Workshop on MemAgents x3 &middot; COLM 2026 Workshop on Agent Behavior x2</p>
+
+* **2026:** *International Journal of Computer Vision (IJCV)* x2, *IEEE Transactions on Multimedia (TMM)* x3
+* **2025:** *Transactions on Machine Learning Research (TMLR)*, *International Journal of Computer Vision (IJCV)*
+* **2024:** *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
 
 # Educations
 
@@ -198,14 +292,6 @@ redirect_from:
     <div class="description">Supervised by Prof. <a href="https://scholar.google.com/citations?user=bMedjfUAAAAJ&hl=en">Junwei Liang</a>. </div>
   </div>
 </div>
-
-# Academic Service
-
-{: #academic-service .section-title .section-title-service}
-
-* **2026:** Reviewer for *International Journal of Computer Vision (IJCV)* x2, *ICLR 2026 Workshop MemAgents* x3, *IEEE Transactions on Multimedia (TMM)* x3, *COLM 2026 Workshop on Agent Behavior* x2
-* **2025:** Reviewer for *Transactions on Machine Learning Research (TMLR)* and *International Journal of Computer Vision (IJCV)*
-* **2024:** Reviewer for *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*
 
 # Teaching
 

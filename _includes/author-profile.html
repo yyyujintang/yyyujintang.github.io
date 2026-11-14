@@ -10,7 +10,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}{% if author.name_zh %}<span class="author__name-zh">{{ author.name_zh }}</span>{% endif %}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}{% if author.bio_zh %}<span class="author__bio-zh">{{ author.bio_zh }}</span>{% endif %}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
