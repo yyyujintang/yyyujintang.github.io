@@ -33,8 +33,8 @@ redirect_from:
 </ul>
 
 <div class="collab-call">
-<p>I am looking for strongly motivated students for research collaboration on <strong>long-horizon agent memory</strong>, <strong>agentic RL</strong>, and <strong>agentic AI system security</strong>. I am happy to work with master's and undergraduate students. If you know how to build fundamental AI algorithms or systems, we should talk. Please send me a human-written email at <a href="mailto:yujin.tang.gr@dartmouth.edu">yujin.tang.gr@dartmouth.edu</a>.</p>
-<p>I am also open to research collaborations on all three directions, and I am looking for a <strong>Summer 2027 internship in the U.S. on AI agents</strong>.</p>
+<p>I am looking for <strong>strongly self-motivated students</strong> for research collaboration on <strong>long-horizon agent memory</strong>, <strong>agentic RL</strong>, and <strong>agentic AI system security</strong>. I am happy to work with <strong>master's</strong> and <strong>undergraduate</strong> students. If you know how to build fundamental AI algorithms or systems, we should talk. Welcome to send me a <strong>human-written email</strong> to <a href="mailto:yujin.tang.gr@dartmouth.edu">yujin.tang.gr@dartmouth.edu</a>.</p>
+<p>I am also open to research collaborations on all three directions, and I am looking for a <strong>Summer 2027 internship</strong> in the U.S. on <strong>AI agents</strong>.</p>
 </div>
 
 </div>

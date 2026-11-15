@@ -734,7 +734,10 @@
   border-radius: $border-radius;
   background: #fdf5f5;
   color: $danger-color;
-  font-weight: 700;
+
+  strong {
+    font-weight: 700;
+  }
 
   p {
     margin: 0 0 0.7em;
