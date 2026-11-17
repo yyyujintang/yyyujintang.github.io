@@ -16,7 +16,7 @@ redirect_from:
 
 <div id='about-me'>
 
-<p class="last-updated"><img src="images/dartmouth-mark.png" alt="Dartmouth College" class="dartmouth-mark"><em>Last updated: 14 November 2026</em></p>
+<p class="last-updated"><img src="images/dartmouth-mark.png" alt="Dartmouth College" class="dartmouth-mark"><em>Last updated: 17 November 2026</em></p>
 
 <p>I am a second-year Ph.D. student in Computer Science at <strong><a href="https://home.dartmouth.edu">Dartmouth College</a></strong>. I am a member of the <strong><a href="https://www.sahaslab.com/">SAHAS Lab</a></strong>, where I am honored to be advised by Prof. <strong><a href="https://nsingh1.host.dartmouth.edu/">Nikhil Singh</a></strong> and build <strong class="accent-red">agentic AI algorithms and systems</strong>.</p>
 

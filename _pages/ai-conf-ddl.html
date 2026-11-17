@@ -1,0 +1,83 @@
+---
+permalink: /ai-conf-ddl.html
+title: "AI Conference Deadlines"
+author_profile: true
+---
+
+<h1 id="ai-conf-ddl">AI Conference Deadlines</h1>
+
+<p class="ddl-intro">Countdowns to the next submission deadline for the main ML, NLP and CV venues. The countdown is computed in your browser, so it is live every time you open the page. Deadlines are shown in your local time; hover a date to see the official one.</p>
+
+<div class="ddl-grid">
+{% for track in site.data.conferences %}
+  <section class="ddl-col">
+    <h2 class="ddl-track">{{ track[0] }}</h2>
+    {% for c in track[1] %}
+    <div class="ddl-card{% if c.status != 'upcoming' %} is-tbd{% endif %}"{% if c.status == 'upcoming' %} data-deadline="{{ c.deadline_utc }}"{% endif %}>
+      <div class="ddl-name">
+        {% if c.link %}<a href="{{ c.link }}" target="_blank" rel="noopener">{{ c.name }}{% if c.year %} {{ c.year }}{% endif %}</a>
+        {% else %}{{ c.name }}{% if c.year %} {{ c.year }}{% endif %}{% endif %}
+      </div>
+      {% if c.status == 'upcoming' %}
+      <div class="ddl-count" data-count>&nbsp;</div>
+      <div class="ddl-when" title="{{ c.deadline_local }} {{ c.tz }}" data-local>{{ c.deadline_local }} {{ c.tz }}</div>
+      {% if c.date %}<div class="ddl-meta">{{ c.date }}{% if c.place %} &middot; {{ c.place }}{% endif %}</div>{% endif %}
+      {% else %}
+      <div class="ddl-count ddl-count--tbd">TBD</div>
+      <div class="ddl-when">Next cycle not announced</div>
+      {% if c.last_year %}<div class="ddl-meta">{{ c.name }} {{ c.last_year }} closed {{ c.last_deadline }}</div>{% endif %}
+      {% endif %}
+    </div>
+    {% endfor %}
+  </section>
+{% endfor %}
+</div>
+
+<p class="ddl-source">Source: <a href="https://github.com/ccfddl/ccf-deadlines" target="_blank" rel="noopener">ccf-deadlines</a>. Always confirm against the official call for papers.</p>
+
+<script>
+(function () {
+  var cards = document.querySelectorAll('.ddl-card[data-deadline]');
+
+  // show each official deadline in the reader's own timezone
+  cards.forEach(function (card) {
+    var el = card.querySelector('[data-local]');
+    var d = new Date(card.dataset.deadline);
+    if (el && !isNaN(d)) {
+      el.textContent = d.toLocaleString('en-US', {
+        year: 'numeric', month: 'short', day: 'numeric',
+        hour: '2-digit', minute: '2-digit', hour12: false
+      }) + ' ' + Intl.DateTimeFormat().resolvedOptions().timeZone;
+    }
+  });
+
+  function tick() {
+    var now = Date.now();
+    cards.forEach(function (card) {
+      var out = card.querySelector('[data-count]');
+      if (!out) return;
+      var left = new Date(card.dataset.deadline).getTime() - now;
+      if (isNaN(left)) { out.textContent = '--'; return; }
+      if (left <= 0) {
+        card.classList.add('is-closed');
+        out.textContent = 'closed';
+        return;
+      }
+      var s = Math.floor(left / 1000),
+          d = Math.floor(s / 86400),
+          h = Math.floor(s % 86400 / 3600),
+          m = Math.floor(s % 3600 / 60),
+          sec = s % 60;
+      out.innerHTML =
+        '<span class="n">' + d + '</span><span class="u">d</span> ' +
+        '<span class="n">' + h + '</span><span class="u">h</span> ' +
+        '<span class="n">' + m + '</span><span class="u">m</span> ' +
+        '<span class="n">' + sec + '</span><span class="u">s</span>';
+      if (d < 7) card.classList.add('is-soon');
+    });
+  }
+
+  tick();
+  setInterval(tick, 1000);
+})();
+</script>

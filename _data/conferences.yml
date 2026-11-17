@@ -1,0 +1,81 @@
+# AI conference deadlines (ML / NLP / CV), from github.com/ccfddl/ccf-deadlines
+# deadline_utc is the absolute instant. The page counts down to it in the browser,
+# so the countdown is live on every visit without rebuilding the site.
+# status: upcoming = dated and still open | tbd = next cycle not announced yet
+
+ML:
+- name: ICML
+  full: International Conference on Machine Learning
+  status: upcoming
+  year: 2027
+  deadline_local: '2027-01-22 23:59:59'
+  tz: AoE
+  deadline_utc: '2027-01-23T11:59:59Z'
+  link: https://icml.cc/Conferences/2027
+  date: August 2-4, 2027
+  place: Riocentro, Rio de Janeiro, Brazil
+- name: ICLR
+  full: International Conference on Learning Representations
+  status: tbd
+  year: ''
+  last_year: 2027
+  last_deadline: 25 Sep 2026
+  link: https://iclr.cc/Conferences/2027
+- name: NeurIPS
+  full: Conference on Neural Information Processing Systems
+  status: tbd
+  year: ''
+  last_year: 2026
+  last_deadline: 07 May 2026
+  link: https://neurips.cc/Conferences/2026
+NLP:
+- name: NAACL
+  full: The Annual Conference of the North American Chapter of the Association for
+    Computational Linguistics
+  status: upcoming
+  year: 2027
+  deadline_local: '2026-12-23 23:59:59'
+  tz: UTC-12
+  deadline_utc: '2026-12-24T11:59:59Z'
+  link: https://2027.naacl.org/
+  date: June 1-5, 2027
+  place: San Francisco, California, USA
+- name: ACL
+  full: Annual Meeting of the Association for Computational Linguistics
+  status: upcoming
+  year: 2027
+  deadline_local: '2027-01-04 23:59:59'
+  tz: UTC-12
+  deadline_utc: '2027-01-05T11:59:59Z'
+  link: https://2027.aclweb.org/
+  date: August 20-22, 2027
+  place: Kyoto, Japan
+- name: EMNLP
+  full: The annual Conference on Empirical Methods in Natural Language Processing
+  status: tbd
+  year: ''
+  last_year: 2026
+  last_deadline: 02 Aug 2026
+  link: https://2026.emnlp.org/
+CV:
+- name: CVPR
+  full: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  status: tbd
+  year: ''
+  last_year: 2027
+  last_deadline: 16 Nov 2026
+  link: https://cvpr.thecvf.com/Conferences/2027
+- name: ICCV
+  full: IEEE International Conference on Computer Vision
+  status: tbd
+  year: 2027
+  last_year: 2025
+  last_deadline: 08 Mar 2025
+  link: https://iccv.thecvf.com/Conferences/2027
+- name: ECCV
+  full: European Conference on Computer Vision
+  status: tbd
+  year: ''
+  last_year: 2026
+  last_deadline: 05 Mar 2026
+  link: https://eccv.ecva.net/
