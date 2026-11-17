@@ -13,19 +13,18 @@ author_profile: true
   <section class="ddl-col">
     <h2 class="ddl-track">{{ track[0] }}</h2>
     {% for c in track[1] %}
-    <div class="ddl-card{% if c.status != 'upcoming' %} is-tbd{% endif %}"{% if c.status == 'upcoming' %} data-deadline="{{ c.deadline_utc }}"{% endif %}>
+    <div class="ddl-card{% if c.status == 'estimated' %} is-est{% endif %}" data-deadline="{{ c.deadline_utc }}">
       <div class="ddl-name">
-        {% if c.link %}<a href="{{ c.link }}" target="_blank" rel="noopener">{{ c.name }}{% if c.year %} {{ c.year }}{% endif %}</a>
-        {% else %}{{ c.name }}{% if c.year %} {{ c.year }}{% endif %}{% endif %}
+        {% if c.link %}<a href="{{ c.link }}" target="_blank" rel="noopener">{{ c.name }} {{ c.year }}</a>
+        {% else %}{{ c.name }} {{ c.year }}{% endif %}
+        {% if c.status == 'estimated' %}<span class="ddl-tag">est.</span>{% endif %}
       </div>
-      {% if c.status == 'upcoming' %}
       <div class="ddl-count" data-count>&nbsp;</div>
       <div class="ddl-when" title="{{ c.deadline_local }} {{ c.tz }}" data-local>{{ c.deadline_local }} {{ c.tz }}</div>
-      {% if c.date %}<div class="ddl-meta">{{ c.date }}{% if c.place %} &middot; {{ c.place }}{% endif %}</div>{% endif %}
+      {% if c.status == 'estimated' %}
+      <div class="ddl-meta">Estimated from {{ c.based_on }} ({{ c.based_on_date }})</div>
       {% else %}
-      <div class="ddl-count ddl-count--tbd">TBD</div>
-      <div class="ddl-when">Next cycle not announced</div>
-      {% if c.last_year %}<div class="ddl-meta">{{ c.name }} {{ c.last_year }} closed {{ c.last_deadline }}</div>{% endif %}
+      {% if c.date %}<div class="ddl-meta">{{ c.date }}{% if c.place %} &middot; {{ c.place }}{% endif %}</div>{% endif %}
       {% endif %}
     </div>
     {% endfor %}
@@ -33,7 +32,10 @@ author_profile: true
 {% endfor %}
 </div>
 
-<p class="ddl-source">Source: <a href="https://github.com/ccfddl/ccf-deadlines" target="_blank" rel="noopener">ccf-deadlines</a>. Always confirm against the official call for papers.</p>
+<p class="ddl-legend">
+  <span class="ddl-key ddl-key--ok"></span> Official date from the venue
+  <span class="ddl-key ddl-key--est"></span> <b>Estimated</b> &mdash; not announced yet, so the last edition's date is rolled forward one cycle (two years for ICCV and ECCV). Treat it as a planning guess, not a deadline.
+</p>
 
 <script>
 (function () {

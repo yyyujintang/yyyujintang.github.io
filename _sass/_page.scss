@@ -870,7 +870,11 @@
     background: #fdf5f5;
   }
 
-  &.is-tbd,
+  &.is-est {
+    border-left-color: $est-amber;
+    background: #fdf8ef;
+  }
+
   &.is-closed {
     border-left-color: $border-color;
     background: $lighter-gray;
@@ -904,10 +908,45 @@
   color: $venue-red;
 }
 
-.ddl-count--tbd,
+.is-est .ddl-count {
+  color: $est-amber;
+}
+
 .is-closed .ddl-count {
   color: lighten($gray, 18%);
   font-size: 1em;
+}
+
+.ddl-tag {
+  margin-left: 0.4em;
+  padding: 0.05em 0.4em;
+  border-radius: 3px;
+  background: $est-amber;
+  color: #fff;
+  font-size: 0.68em;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  vertical-align: 0.1em;
+}
+
+.ddl-legend {
+  margin-top: 1.3em;
+  font-size: 0.85em;
+  color: $gray;
+  line-height: 1.6;
+}
+
+.ddl-key {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-right: 0.35em;
+  border-radius: 2px;
+  vertical-align: baseline;
+
+  &--ok  { background: $dartmouth-green; }
+  &--est { background: $est-amber; margin-left: 1em; }
 }
 
 .ddl-when {
